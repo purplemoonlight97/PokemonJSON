@@ -16,5 +16,134 @@
         "type1": "grass",
         "type2": "poison",
         "gender": 7
+    },
+    {
+        "number": "3",
+        "name": "venasaur",
+        "type1": "grass",
+        "type2": "poison",
+        "gender": 7
+    },
+    {
+        "number": "4",
+        "name": "charmander",
+        "type1": "fire",
+        "gender": 7
+    },
+    {
+        "number": "5",
+        "name": "charmeleon",
+        "type1": "fire",
+        "gender": "7"
+    },
+    {
+        "number": "6",
+        "name": "charizard",
+        "type1": "fire",
+        "type2": "flying",
+        "gender": "7"
+    },
+    {
+        "number": "7",
+        "name": "squirtle",
+        "type1": "water",
+        "gender": "7"
+    },
+    {
+        "number": "8",
+        "name": "wartortle",
+        "type1": "water",
+        "gender": "7"
+    },
+    {
+        "number": "9",
+        "name": "blastoise",
+        "type1": "water",
+        "gender": "7"
+    },
+    {
+        "number": "10",
+        "name": "caterpie",
+        "type1": "bug",
+        "gender": "4"
+    },
+    {
+        "number": "11",
+        "name": "metapod",
+        "type1": "bug",
+        "gender": "4"
+    },
+    {
+        "number": "12",
+        "name": "butterfree",
+        "type1":"bug",
+        "type2":"flying",
+        "gender":"4"
+    },
+    {
+        "number": "13",
+        "name": "weedle",
+        "type1": "bug",
+        "type2": "poison",
+        "gender": "4"
+    },
+    {
+        "number": "14",
+        "name": "kakuna",
+        "type1": "bug",
+        "type2": "poison",
+        "gender": "4"
+    },
+    {
+        "number": "15",
+        "name": "beedrill",
+        "type1": "bug",
+        "type2": "poison",
+        "gender": "4"
+    },
+    {
+        "number": "16",
+        "name": "pidgey",
+        "type1": "normal",
+        "type2": "flying",
+        "gender": "4"
+    },
+    {
+        "number": "17",
+        "name": "pidgeotto",
+        "type1": "normal",
+        "type2": "flying",
+        "gender": "4"
+    },
+    {
+        "number": "18",
+        "name": "pidgeot",
+        "type1": "normal",
+        "type2": "flying",
+        "gender": "4"
+    },
+    {
+        "number": "19",
+        "name": "rattata",
+        "type1": "normal",
+        "gender": "4"
+    },
+    {
+        "number": "19a",
+        "name": "alolan rattata",
+        "type1": "dark",
+        "gender": "4"
+    },
+    {
+        "number": "20",
+        "name": "raticate",
+        "type1": "normal",
+        "gender": "4"
+    },
+    {
+        "number": "20a",
+        "name": "alolan raticate",
+        "type1": "dark",
+        "gender": "4"
     }
 ]
