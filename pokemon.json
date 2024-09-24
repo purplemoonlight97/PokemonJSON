@@ -1,0 +1,14 @@
+[
+    {
+        "name": "bulbasaur",
+        "type1": "grass",
+        "type2": "poison",
+        "gender": "7"
+    },
+    {
+        "name": "ivysaur",
+        "type1": "grass",
+        "type2": "poison",
+        "gender": 7
+    }
+]
