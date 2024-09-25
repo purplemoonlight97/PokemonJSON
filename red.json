@@ -1,9 +1,9 @@
 {
     "route 1": {
-        "variables": {
-            "repel": "true"
-        },
         "walk": {
+            "variables": {
+                "repel": "true"
+            },
             "0": {
                 "number": "16",
                 "level": "3",
