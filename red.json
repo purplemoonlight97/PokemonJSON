@@ -112,5 +112,1373 @@
                 "rate": "0.01172"
             }
         }
+    },
+    "route 3": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "16",
+                "minLevel": "6",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "21",
+                "minLevel": "5",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "16",
+                "minLevel": "7",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "21",
+                "minLevel": "6",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "21",
+                "minLevel": "7",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "16",
+                "minLevel": "8",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "21",
+                "minLevel": "8",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "39",
+                "minLevel": "3",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "39",
+                "minLevel": "5",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "39",
+                "minLevel": "7",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "route 4": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "19",
+                "minLevel": "10",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "21",
+                "minLevel": "10",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "19",
+                "minLevel": "8",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "23",
+                "minLevel": "6",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "21",
+                "minLevel": "8",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "23",
+                "minLevel": "10",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "19",
+                "minLevel": "12",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "21",
+                "minLevel": "12",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "23",
+                "minLevel": "8",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "23",
+                "minLevel": "12",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "route 5": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "43",
+                "minLevel": "13",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "16",
+                "minLevel": "13",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "16",
+                "minLevel": "15",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "56",
+                "minLevel": "10",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "56",
+                "minLevel": "12",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "43",
+                "minLevel": "15",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "43",
+                "minLevel": "16",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "16",
+                "minLevel": "16",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "56",
+                "minLevel": "14",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "56",
+                "minLevel": "16",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "route 6": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "43",
+                "minLevel": "13",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "16",
+                "minLevel": "13",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "16",
+                "minLevel": "15",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "56",
+                "minLevel": "10",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "56",
+                "minLevel": "12",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "43",
+                "minLevel": "15",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "43",
+                "minLevel": "16",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "16",
+                "minLevel": "16",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "56",
+                "minLevel": "14",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "56",
+                "minLevel": "16",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "route 7": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "16",
+                "minLevel": "19",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "43",
+                "minLevel": "19",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "56",
+                "minLevel": "17",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "43",
+                "minLevel": "22",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "16",
+                "minLevel": "22",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "56",
+                "minLevel": "18",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "58",
+                "minLevel": "18",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "58",
+                "minLevel": "20",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "56",
+                "minLevel": "19",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "56",
+                "minLevel": "20",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "route 8": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "16",
+                "minLevel": "18",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "56",
+                "minLevel": "18",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "23",
+                "minLevel": "17",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "58",
+                "minLevel": "16",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "16",
+                "minLevel": "20",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "56",
+                "minLevel": "20",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "23",
+                "minLevel": "19",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "58",
+                "minLevel": "17",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "58",
+                "minLevel": "15",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "58",
+                "minLevel": "18",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "route 9": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "19",
+                "minLevel": "16",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "21",
+                "minLevel": "16",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "19",
+                "minLevel": "14",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "23",
+                "minLevel": "11",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "21",
+                "minLevel": "13",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "23",
+                "minLevel": "15",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "19",
+                "minLevel": "17",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "21",
+                "minLevel": "17",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "23",
+                "minLevel": "13",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "23",
+                "minLevel": "17",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "route 10": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "100",
+                "minLevel": "16",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "21",
+                "minLevel": "16",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "100",
+                "minLevel": "14",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "23",
+                "minLevel": "11",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "21",
+                "minLevel": "13",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "23",
+                "minLevel": "15",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "100",
+                "minLevel": "17",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "21",
+                "minLevel": "17",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "23",
+                "minLevel": "13",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "23",
+                "minLevel": "17",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "route 11": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "23",
+                "minLevel": "14",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "21",
+                "minLevel": "15",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "23",
+                "minLevel": "12",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "96",
+                "minLevel": "9",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "21",
+                "minLevel": "13",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "96",
+                "minLevel": "13",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "23",
+                "minLevel": "15",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "21",
+                "minLevel": "17",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "96",
+                "minLevel": "11",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "96",
+                "minLevel": "15",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "route 12": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "43",
+                "minLevel": "24",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "16",
+                "minLevel": "25",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "16",
+                "minLevel": "23",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "48",
+                "minLevel": "24",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "43",
+                "minLevel": "22",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "48",
+                "minLevel": "26",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "43",
+                "minLevel": "26",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "16",
+                "minLevel": "27",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "44",
+                "minLevel": "28",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "44",
+                "minLevel": "30",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "route 13": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "43",
+                "minLevel": "24",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "16",
+                "minLevel": "25",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "16",
+                "minLevel": "27",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "48",
+                "minLevel": "24",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "43",
+                "minLevel": "22",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "48",
+                "minLevel": "26",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "43",
+                "minLevel": "26",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "132",
+                "minLevel": "25",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "44",
+                "minLevel": "28",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "44",
+                "minLevel": "30",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "route 14": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "43",
+                "minLevel": "24",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "16",
+                "minLevel": "26",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "132",
+                "minLevel": "23",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "48",
+                "minLevel": "24",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "43",
+                "minLevel": "22",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "48",
+                "minLevel": "26",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "43",
+                "minLevel": "26",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "44",
+                "minLevel": "30",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "17",
+                "minLevel": "28",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "17",
+                "minLevel": "30",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "route 15": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "43",
+                "minLevel": "24",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "132",
+                "minLevel": "26",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "16",
+                "minLevel": "23",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "48",
+                "minLevel": "26",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "43",
+                "minLevel": "22",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "48",
+                "minLevel": "28",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "43",
+                "minLevel": "26",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "44",
+                "minLevel": "30",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "17",
+                "minLevel": "28",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "17",
+                "minLevel": "30",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "route 16": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "21",
+                "minLevel": "20",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "21",
+                "minLevel": "22",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "19",
+                "minLevel": "18",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "84",
+                "minLevel": "20",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "19",
+                "minLevel": "20",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "84",
+                "minLevel": "18",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "84",
+                "minLevel": "22",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "19",
+                "minLevel": "22",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "20",
+                "minLevel": "23",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "20",
+                "minLevel": "25",
+                "rate": "0.01172"
+            }
+        }
+    }
+    ,
+    "route 17": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "21",
+                "minLevel": "20",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "21",
+                "minLevel": "22",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "20",
+                "minLevel": "25",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "84",
+                "minLevel": "24",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "20",
+                "minLevel": "27",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "84",
+                "minLevel": "26",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "84",
+                "minLevel": "28",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "20",
+                "minLevel": "29",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "22",
+                "minLevel": "25",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "22",
+                "minLevel": "27",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "route 18": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "21",
+                "minLevel": "20",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "21",
+                "minLevel": "22",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "20",
+                "minLevel": "25",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "84",
+                "minLevel": "24",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "22",
+                "minLevel": "25",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "84",
+                "minLevel": "26",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "84",
+                "minLevel": "28",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "20",
+                "minLevel": "29",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "22",
+                "minLevel": "27",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "22",
+                "minLevel": "29",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "route 19": {
+        "surf": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "72",
+                "minLevel": "5",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "72",
+                "minLevel": "10",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "72",
+                "minLevel": "15",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "72",
+                "minLevel": "5",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "72",
+                "minLevel": "10",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "72",
+                "minLevel": "15",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "72",
+                "minLevel": "20",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "72",
+                "minLevel": "30",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "72",
+                "minLevel": "35",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "72",
+                "minLevel": "40",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "route 20": {
+        "surf": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "72",
+                "minLevel": "5",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "72",
+                "minLevel": "10",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "72",
+                "minLevel": "15",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "72",
+                "minLevel": "5",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "72",
+                "minLevel": "10",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "72",
+                "minLevel": "15",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "72",
+                "minLevel": "20",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "72",
+                "minLevel": "30",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "72",
+                "minLevel": "35",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "72",
+                "minLevel": "40",
+                "rate": "0.01172"
+            }
+        }
+    }
+    ,
+    "route 21": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "19",
+                "minLevel": "21",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "16",
+                "minLevel": "23",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "20",
+                "minLevel": "30",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "19",
+                "minLevel": "23",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "16",
+                "minLevel": "21",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "17",
+                "minLevel": "30",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "17",
+                "minLevel": "32",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "114",
+                "minLevel": "28",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "114",
+                "minLevel": "30",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "114",
+                "minLevel": "32",
+                "rate": "0.01172"
+            }
+        },
+        "surf": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "72",
+                "minLevel": "5",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "72",
+                "minLevel": "10",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "72",
+                "minLevel": "15",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "72",
+                "minLevel": "5",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "72",
+                "minLevel": "10",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "72",
+                "minLevel": "15",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "72",
+                "minLevel": "20",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "72",
+                "minLevel": "30",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "72",
+                "minLevel": "35",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "72",
+                "minLevel": "40",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "route 22": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "19",
+                "minLevel": "3",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "32",
+                "minLevel": "3",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "19",
+                "minLevel": "4",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "32",
+                "minLevel": "4",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "19",
+                "minLevel": "2",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "32",
+                "minLevel": "2",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "21",
+                "minLevel": "3",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "21",
+                "minLevel": "5",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "29",
+                "minLevel": "3",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "29",
+                "minLevel": "4",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "route 23": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "23",
+                "minLevel": "26",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "132",
+                "minLevel": "33",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "21",
+                "minLevel": "26",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "22",
+                "minLevel": "38",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "132",
+                "minLevel": "38",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "22",
+                "minLevel": "38",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "24",
+                "minLevel": "41",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "132",
+                "minLevel": "43",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "22",
+                "minLevel": "41",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "22",
+                "minLevel": "43",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "route 24": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "13",
+                "minLevel": "7",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "14",
+                "minLevel": "8",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "16",
+                "minLevel": "12",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "43",
+                "minLevel": "12",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "43",
+                "minLevel": "13",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "63",
+                "minLevel": "10",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "43",
+                "minLevel": "14",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "16",
+                "minLevel": "13",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "63",
+                "minLevel": "8",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "63",
+                "minLevel": "12",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "route 25": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "13",
+                "minLevel": "8",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "14",
+                "minLevel": "9",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "16",
+                "minLevel": "13",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "43",
+                "minLevel": "12",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "43",
+                "minLevel": "13",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "63",
+                "minLevel": "12",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "43",
+                "minLevel": "14",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "63",
+                "minLevel": "10",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "11",
+                "minLevel": "7",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "10",
+                "minLevel": "8",
+                "rate": "0.01172"
+            }
+        }
     }
 }
