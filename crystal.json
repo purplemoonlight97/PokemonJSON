@@ -1,0 +1,45 @@
+{
+    "route 1": {
+        "walk": {
+            "variables": {
+                "repel": "true",
+                "tod": "[[],[],[163, 19, 19, 163, 20, 163, 163]]"
+            },
+            "0": {
+                "number": "16",
+                "minLevel": "2",
+                "rate": "0.3"
+            },
+            "1": {
+                "number": "19",
+                "minLevel": "2",
+                "rate": "0.3"
+            },
+            "2": {
+                "number": "161",
+                "minLevel": "3",
+                "rate": "0.2"
+            },
+            "3": {
+                "number": "16",
+                "minLevel": "3",
+                "rate": "0.1"
+            },
+            "4": {
+                "number": "162",
+                "minLevel": "6",
+                "rate": "0.05"
+            },
+            "5": {
+                "number": "16",
+                "minLevel": "4",
+                "rate": "0.04"
+            },
+            "6": {
+                "number": "16",
+                "minLevel": "4",
+                "rate": "0.01"
+            }
+        }
+    }
+}

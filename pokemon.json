@@ -1140,7 +1140,7 @@
     {
         "number": "149",
         "name": "dragonite",
-        "type1": "dragoin",
+        "type1": "dragon",
         "type2": "flying",
         "gender": "4"
     },
@@ -1153,5 +1153,23 @@
         "number": "151",
         "name": "mew",
         "type1": "psychic"
+    },
+    {
+        "number": "161",
+        "name": "sentret",
+        "type1": "normal",
+        "gender": "4"
+    },
+    {
+        "number": "162",
+        "name": "furret",
+        "type1": "normal",
+        "gender": "4"
+    },{
+        "number": "163",
+        "name": "hoothoot",
+        "type1": "normal",
+        "type2": "flying",
+        "gender": "4"
     }
 ]
