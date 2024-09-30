@@ -100,5 +100,17 @@
                 "rate": "0.1"
             }
         }
+    },
+    "ruins of alph - inside": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "201",
+                "minLevel": "5",
+                "rate": "0.0"
+            }
+        }
     }
 }
