@@ -107,7 +107,7 @@
                 "repel": "true"
             },
             "0": {
-                "number": "201",
+                "number": "201?",
                 "minLevel": "5",
                 "rate": "0.0"
             }
