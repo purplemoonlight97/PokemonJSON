@@ -104,7 +104,8 @@
     "ruins of alph - inside": {
         "walk": {
             "variables": {
-                "repel": "true"
+                "repel": "true",
+                "gscRuins": "true"
             },
             "0": {
                 "number": "201?",
