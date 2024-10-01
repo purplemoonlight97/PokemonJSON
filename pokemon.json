@@ -1941,5 +1941,912 @@
         "name": "celebi",
         "type1": "psychic",
         "type2": "grass"
+    },
+    {
+        "number": "252",
+        "name": "treecko",
+        "type1": "grass",
+        "gender": "7"
+    },
+    {
+        "number": "253",
+        "name": "grovyle",
+        "type1": "grass",
+        "gender": "7"
+    },
+    {
+        "number": "254",
+        "name": "sceptile",
+        "type1": "grass",
+        "gender": "7"
+    },
+    {
+        "number": "255",
+        "name": "torchic",
+        "type1": "fire",
+        "gender": "7"
+    },
+    {
+        "number": "256",
+        "name": "combusken",
+        "type1": "fire",
+        "type2": "fighting",
+        "gender": "7"
+    },
+    {
+        "number": "257",
+        "name": "blaziken",
+        "type1": "fire",
+        "type2": "fighting",
+        "gender": "7"
+    },
+    {
+        "number": "258",
+        "name": "mudkip",
+        "type1": "water",
+        "gender": "7"
+    },
+    {
+        "number": "259",
+        "name": "marshtomp",
+        "type1": "water",
+        "type2": "ground",
+        "gender": "7"
+    },
+    {
+        "number": "260",
+        "name": "swampert",
+        "type1": "water",
+        "type2": "ground",
+        "gender": "7"
+    },
+    {
+        "number": "261",
+        "name": "poochyena",
+        "type1": "dark",
+        "gender": "4"
+    },
+    {
+        "number": "262",
+        "name": "mightyena",
+        "type1": "dark",
+        "gender": "4"
+    },
+    {
+        "number": "263",
+        "name": "zigzagoon",
+        "type1": "normal",
+        "gender": "4"
+    },
+    {
+        "number": "263galar",
+        "name": "galarian zigzagoon",
+        "type1": "dark",
+        "type2": "normal",
+        "gender": "4"
+    },
+    {
+        "number": "264",
+        "name": "linoone",
+        "type1": "normal",
+        "gender": "4"
+    },
+    {
+        "number": "264galar",
+        "name": "galarian linoone",
+        "type1": "dark",
+        "type2": "normal",
+        "gender": "4"
+    },
+    {
+        "number": "265",
+        "name": "wurmple",
+        "type1": "bug",
+        "gender": "4"
+    },
+    {
+        "number": "266",
+        "name": "silcoon",
+        "type1": "bug",
+        "gender": "4"
+    },
+    {
+        "number": "267",
+        "name": "beautifly",
+        "type1": "bug",
+        "type2": "flying",
+        "gender": "4"
+    },
+    {
+        "number": "268",
+        "name": "cascoon",
+        "type1": "bug",
+        "gender": "4"
+    },
+    {
+        "number": "269",
+        "name": "dustox",
+        "type1": "bug",
+        "type2": "poison",
+        "gender": "4"
+    },
+    {
+        "number": "270",
+        "name": "lotad",
+        "type1": "water",
+        "type2": "grass",
+        "gender": "4"
+    },
+    {
+        "number": "271",
+        "name": "lombre",
+        "type1": "water",
+        "type2": "grass",
+        "gender": "4"
+    },
+    {
+        "number": "272",
+        "name": "ludicolo",
+        "type1": "water",
+        "type2": "grass",
+        "gender": "4"
+    },
+    {
+        "number": "273",
+        "name": "seedot",
+        "type1": "grass",
+        "gender": "4"
+    },
+    {
+        "number": "274",
+        "name": "nuzleaf",
+        "type1": "grass",
+        "type2": "dark",
+        "gender": "4"
+    },
+    {
+        "number": "275",
+        "name": "shiftry",
+        "type1": "grass",
+        "type2": "dark",
+        "gender": "4"
+    },
+    {
+        "number": "276",
+        "name": "taillow",
+        "type1": "normal",
+        "type2": "flying",
+        "gender": "4"
+    },
+    {
+        "number": "277",
+        "name": "swellow",
+        "type1": "normal",
+        "type2": "flying",
+        "gender": "4"
+    },
+    {
+        "number": "278",
+        "name": "wingull",
+        "type1": "water",
+        "type2": "flying",
+        "gender": "4"
+    },
+    {
+        "number": "279",
+        "name": "pelipper",
+        "type1": "water",
+        "type2": "flying",
+        "gender": "4"
+    },
+    {
+        "number": "280",
+        "name": "ralts",
+        "type1": "psychic",
+        "type2": "fairy",
+        "gender": "4"
+    },
+    {
+        "number": "281",
+        "name": "kirlia",
+        "type1": "psychic",
+        "type2": "fairy",
+        "gender": "4"
+    },
+    {
+        "number": "282",
+        "name": "gardevoir",
+        "type1": "psychic",
+        "type2": "fairy",
+        "gender": "4"
+    },
+    {
+        "number": "283",
+        "name": "surskit",
+        "type1": "bug",
+        "type2": "water",
+        "gender": "4"
+    },
+    {
+        "number": "284",
+        "name": "masquerain",
+        "type1": "bug",
+        "type2": "flying",
+        "gender": "4"
+    },
+    {
+        "number": "285",
+        "name": "shroomish",
+        "type1": "grass",
+        "gender": "4"
+    },
+    {
+        "number": "286",
+        "name": "breloom",
+        "type1": "grass",
+        "type2": "flying",
+        "gender": "4"
+    },
+    {
+        "number": "287",
+        "name": "slakoth",
+        "type1": "normal",
+        "gender": "4"
+    },
+    {
+        "number": "288",
+        "name": "vigoroth",
+        "type1": "normal",
+        "gender": "4"
+    },
+    {
+        "number": "289",
+        "name": "slaking",
+        "type1": "normal",
+        "gender": "4"
+    },
+    {
+        "number": "290",
+        "name": "nincada",
+        "type1": "bug",
+        "type2": "ground",
+        "gender": "4"
+    },
+    {
+        "number": "291",
+        "name": "ninjask",
+        "type1": "bug",
+        "type2": "flying",
+        "gender": "4"
+    },
+    {
+        "number": "292",
+        "name": "shedinja",
+        "type1": "bug",
+        "type2": "ghost"
+    },
+    {
+        "number": "293",
+        "name": "whismur",
+        "type1": "normal",
+        "gender": "4"
+    },
+    {
+        "number": "294",
+        "name": "loudred",
+        "type1": "normal",
+        "gender": "4"
+    },
+    {
+        "number": "295",
+        "name": "exploud",
+        "type1": "normal",
+        "gender": "4"
+    },
+    {
+        "number": "296",
+        "name": "makuhita",
+        "type1": "fighting",
+        "gender": "6"
+    },
+    {
+        "number": "297",
+        "name": "hariyama",
+        "type1": "fighting",
+        "gender": "6"
+    },
+    {
+        "number": "298",
+        "name": "azurill",
+        "type1": "normal",
+        "type2": "fairy",
+        "gender": "2"
+    },
+    {
+        "number": "299",
+        "name": "nosepass",
+        "type1": "rock",
+        "gender": "4"
+    },
+    {
+        "number": "300",
+        "name": "skitty",
+        "type1": "normal",
+        "gender": "2"
+    },
+    {
+        "number": "301",
+        "name": "delcatty",
+        "type1": "normal",
+        "gender": "2"
+    },
+    {
+        "number": "302",
+        "name": "sableye",
+        "type1": "dark",
+        "type2": "ghost",
+        "gender": "4"
+    },
+    {
+        "number": "303",
+        "name": "mawile",
+        "type1": "steel",
+        "type2": "fairy",
+        "gender": "4"
+    },
+    {
+        "number": "304",
+        "name": "aron",
+        "type1": "steel",
+        "type2": "rock",
+        "gender": "4"
+    },
+    {
+        "number": "305",
+        "name": "lairon",
+        "type1": "steel",
+        "type2": "rock",
+        "gender": "4"
+    },
+    {
+        "number": "306",
+        "name": "aggron",
+        "type1": "steel",
+        "type2": "rock",
+        "gender": "4"
+    },
+    {
+        "number": "307",
+        "name": "meditite",
+        "type1": "fighting",
+        "type2": "psychic",
+        "gender": "4"
+    },
+    {
+        "number": "308",
+        "name": "medicham",
+        "type1": "fighting",
+        "type2": "psychic",
+        "gender": "4"
+    },
+    {
+        "number": "309",
+        "name": "electrike",
+        "type1": "electric",
+        "gender": "4"
+    },
+    {
+        "number": "310",
+        "name": "manectric",
+        "type1": "electric",
+        "gender": "4"
+    },
+    {
+        "number": "311",
+        "name": "plusle",
+        "type1": "electric",
+        "gender": "4"
+    },
+    {
+        "number": "312",
+        "name": "minun",
+        "type1": "electric",
+        "gender": "4"
+    },
+    {
+        "number": "313",
+        "name": "volbeat",
+        "type1": "bug",
+        "gender": "8"
+    },
+    {
+        "number": "314",
+        "name": "illumise",
+        "type1": "bug",
+        "gender": "0"
+    },
+    {
+        "number": "315",
+        "name": "roselia",
+        "type1": "grass",
+        "type2": "poison",
+        "gender": "4"
+    },
+    {
+        "number": "316",
+        "name": "gulpin",
+        "type1": "poison",
+        "gender": "4"
+    },
+    {
+        "number": "317",
+        "name": "swalot",
+        "type1": "poison",
+        "gender": "4"
+    },
+    {
+        "number": "318",
+        "name": "carvanha",
+        "type1": "water",
+        "type2": "dark",
+        "gender": "4"
+    },
+    {
+        "number": "319",
+        "name": "sharpedo",
+        "type1": "water",
+        "type2": "dark",
+        "gender": "4"
+    },
+    {
+        "number": "320",
+        "name": "wailmer",
+        "type1": "water",
+        "gender": "4"
+    },
+    {
+        "number": "321",
+        "name": "wailord",
+        "type1": "water",
+        "gender": "4"
+    },
+    {
+        "number": "322",
+        "name": "numel",
+        "type1": "fire",
+        "type2": "ground",
+        "gender": "4"
+    },
+    {
+        "number": "323",
+        "name": "camerupt",
+        "type1": "fire",
+        "type2": "ground",
+        "gender": "4"
+    },
+    {
+        "number": "324",
+        "name": "torkoal",
+        "type1": "fire",
+        "gender": "4"
+    },
+    {
+        "number": "325",
+        "name": "spoink",
+        "type1": "psychic",
+        "gender": "4"
+    },
+    {
+        "number": "326",
+        "name": "grumpig",
+        "type1": "psychic",
+        "gender": "4"
+    },
+    {
+        "number": "327",
+        "name": "spinda",
+        "type1": "normal",
+        "gender": "4"
+    },
+    {
+        "number": "328",
+        "name": "trapinch",
+        "type1": "ground",
+        "gender": "4"
+    },
+    {
+        "number": "329",
+        "name": "vibrava",
+        "type1": "ground",
+        "type2": "dragon",
+        "gender": "4"
+    },
+    {
+        "number": "330",
+        "name": "flygon",
+        "type1": "ground",
+        "type2": "dragon",
+        "gender": "4"
+    },
+    {
+        "number": "331",
+        "name": "cacnea",
+        "type1": "grass",
+        "gender": "4"
+    },
+    {
+        "number": "332",
+        "name": "cacturne",
+        "type1": "grass",
+        "type2": "dark",
+        "gender": "4"
+    },
+    {
+        "number": "333",
+        "name": "swablu",
+        "type1": "normal",
+        "type2": "flying",
+        "gender": "4"
+    },
+    {
+        "number": "334",
+        "name": "altaria",
+        "type1": "dragon",
+        "type2": "flying",
+        "gender": "4"
+    },
+    {
+        "number": "335",
+        "name": "zangoose",
+        "type1": "normal",
+        "gender": "4"
+    },
+    {
+        "number": "336",
+        "name": "seviper",
+        "type1": "poison",
+        "gender": "4"
+    },
+    {
+        "number": "337",
+        "name": "lunatone",
+        "type1": "rock",
+        "type2": "psychic"
+    },
+    {
+        "number": "338",
+        "name": "solrock",
+        "type1": "rock",
+        "type2": "psychic"
+    },
+    {
+        "number": "339",
+        "name": "barboach",
+        "type1": "water",
+        "type2": "ground",
+        "gender": "4"
+    },
+    {
+        "number": "340",
+        "name": "whiscash",
+        "type1": "water",
+        "type2": "ground",
+        "gender": "4"
+    },
+    {
+        "number": "341",
+        "name": "corphish",
+        "type1": "water",
+        "gender": "4"
+    },
+    {
+        "number": "342",
+        "name": "crawdaunt",
+        "type1": "water",
+        "type2": "dark",
+        "gender": "4"
+    },
+    {
+        "number": "343",
+        "name": "baltoy",
+        "type1": "ground",
+        "type2": "psychic"
+    },
+    {
+        "number": "344",
+        "name": "claydol",
+        "type1": "ground",
+        "type2": "psychic",
+    },
+    {
+        "number": "345",
+        "name": "lileep",
+        "type1": "rock",
+        "type2": "grass",
+        "gender": "7"
+    },
+    {
+        "number": "346",
+        "name": "cradily",
+        "type1": "rock",
+        "type2": "grass",
+        "gender": "7"
+    },
+    {
+        "number": "347",
+        "name": "anorith",
+        "type1": "rock",
+        "type2": "bug",
+        "gender": "7"
+    },
+    {
+        "number": "348",
+        "name": "armaldo",
+        "type1": "rock",
+        "type2": "bug",
+        "gender": "7"
+    },
+    {
+        "number": "349",
+        "name": "feebas",
+        "type1": "water",
+        "gender": "4"
+    },
+    {
+        "number": "350",
+        "name": "milotic",
+        "type1": "water",
+        "gender": "4"
+    },
+    {
+        "number": "351",
+        "name": "castform",
+        "type1": "normal",
+        "gender": "4"
+    },
+    {
+        "number": "351-sunny",
+        "name": "castform - sunny",
+        "type1": "fire",
+        "gender": "4"
+    },
+    {
+        "number": "351-rainy",
+        "name": "castrorm - rainy",
+        "type1": "water",
+        "gender": "4"
+    },
+    {
+        "number": "351-snowy",
+        "name": "castform - snowy",
+        "type1": "ice",
+        "gender": "4"
+    },
+    {
+        "number": "352",
+        "name": "kecleon",
+        "type1": "normal",
+        "gender": "4"
+    },
+    {
+        "number": "353",
+        "name": "shuppet",
+        "type1": "ghost",
+        "gender": "4"
+    },
+    {
+        "number": "354",
+        "name": "banette",
+        "type1": "ghost",
+        "gender": "4"
+    },
+    {
+        "number": "355",
+        "name": "duskull",
+        "type1": "ghost",
+        "gender": "4"
+    },
+    {
+        "number": "356",
+        "name": "dusclops",
+        "type1": "ghost",
+        "gender": "4"
+    },
+    {
+        "number": "357",
+        "name": "tropius",
+        "type1": "grass",
+        "type2": "flying",
+        "gender": "4"
+    },
+    {
+        "number": "358",
+        "name": "chimecho",
+        "type1": "psychic",
+        "gender": "4"
+    },
+    {
+        "number": "359",
+        "name": "absol",
+        "type1": "dark",
+        "gender": "4"
+    },
+    {
+        "number": "360",
+        "name": "wynaut",
+        "type1": "psychic",
+        "gender": "4"
+    },
+    {
+        "number": "361",
+        "name": "snorunt",
+        "type1": "ice",
+        "gender": "4"
+    },
+    {
+        "number": "362",
+        "name": "glalie",
+        "type1": "ice",
+        "gender": "4"
+    },
+    {
+        "number": "363",
+        "name": "spheal",
+        "type1": "ice",
+        "type2": "water",
+        "gender": "4"
+    },
+    {
+        "number": "364",
+        "name": "sealeo",
+        "type1": "ice",
+        "type2": "water",
+        "gender": "4"
+    },
+    {
+        "number": "365",
+        "name": "walrein",
+        "type1": "ice",
+        "type2": "water",
+        "gender": "4"
+    },
+    {
+        "number": "366",
+        "name": "clamperl",
+        "type1": "water",
+        "gender": "4"
+    },
+    {
+        "number": "367",
+        "name": "huntail",
+        "type1": "water",
+        "gender": "4"
+    },
+    {
+        "number": "368",
+        "name": "gorebyss",
+        "type1": "water",
+        "gender": "4"
+    },
+    {
+        "number": "369",
+        "name": "relicanth",
+        "type1": "water",
+        "type2": "rock",
+        "gender": "4"
+    },
+    {
+        "number": "370",
+        "name": "luvdisc",
+        "type1": "water",
+        "gender": "2"
+    },
+    {
+        "number": "371",
+        "name": "bagon",
+        "type1": "dragon",
+        "gender": "4"
+    },
+    {
+        "number": "372",
+        "name": "shelgon",
+        "type1": "dragon",
+        "gender": "4"
+    },
+    {
+        "number": "373",
+        "name": "salamence",
+        "type1": "dragon",
+        "type2": "flying",
+        "gender": "4"
+    },
+    {
+        "number": "374",
+        "name": "beldum",
+        "type1": "steel",
+        "type2": "psychic"
+    },
+    {
+        "number": "375",
+        "name": "metang",
+        "type1": "steel",
+        "type2": "psychic"
+    },
+    {
+        "number": "376",
+        "name": "metagross",
+        "type1": "steel",
+        "type2": "psychic"
+    },
+    {
+        "number": "377",
+        "name": "regirock",
+        "type1": "rock"
+    },
+    {
+        "number": "378",
+        "name": "regice",
+        "type1": "ice"
+    },
+    {
+        "number": "379",
+        "name": "registeel",
+        "type1": "steel"
+    },
+    {
+        "number": "380",
+        "name": "latias",
+        "type1": "dragon",
+        "type2": "psychic",
+        "gender": "0"
+    },
+    {
+        "number": "381",
+        "name": "latios",
+        "type1": "dragon",
+        "type2": "psychic",
+        "gender": "8"
+    },
+    {
+        "number": "382",
+        "name": "kyogre",
+        "type1": "water"
+    },
+    {
+        "number": "383",
+        "name": "groudon",
+        "type1": "ground"
+    },
+    {
+        "number": "384",
+        "name": "rayquaza",
+        "type1": "dragon",
+        "type2": "flying"
+    },
+    {
+        "number": "385",
+        "name": "jirachi",
+        "type1": "steel",
+        "type2": "psychic"
+    },
+    {
+        "number": "386",
+        "name": "deoxys",
+        "type1": "psychic"
+    },
+    {
+        "number": "386-attack",
+        "name": "deoxys - attack",
+        "type1": "psychic"
+    },
+    {
+        "number": "386-defense",
+        "name": "deoxys - defense",
+        "type1": "psychic"
+    },
+    {
+        "number": "386-speed",
+        "name": "deoxys - speed",
+        "type1": "psychic"
     }
 ]

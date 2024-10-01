@@ -1,0 +1,71 @@
+{
+    "route 1": {
+        "walk": {
+            "variables": {
+                "repel": "true",
+                "rseSwarm": "{'number': '300', 'swarmName': 'Skitty - Emerald', 'minLevel': '8'}|{'number': '300', 'swarmName': 'Skitty - RS', 'minLevel': '15'}",
+                "ability": "static|magnet pull|keen eye/intimidate"
+            },
+            "0": {
+                "number": "261",
+                "minLevel": "6",
+                "rate": "0.2"
+            },
+            "1": {
+                "number": "293",
+                "minLevel": "6",
+                "rate": "0.2"
+            },
+            "2": {
+                "number": "290",
+                "minLevel": "6",
+                "rate": "0.1"
+            },
+            "3": {
+                "number": "63",
+                "minLevel": "7",
+                "rate": "0.1"
+            },
+            "4": {
+                "number": "290",
+                "minLevel": "7",
+                "rate": "0.1"
+            },
+            "5": {
+                "number": "276",
+                "minLevel": "6",
+                "rate": "0.1"
+            },
+            "6": {
+                "number": "276",
+                "minLevel": "7",
+                "rate": "0.05"
+            },
+            "7": {
+                "number": "276",
+                "minLevel": "8",
+                "rate": "0.05"
+            },
+            "8": {
+                "number": "261",
+                "minLevel": "7",
+                "rate": "0.04"
+            },
+            "9": {
+                "number": "261",
+                "minLevel": "8",
+                "rate": "0.04"
+            },
+            "10": {
+                "number": "300",
+                "minLevel": "7",
+                "rate": "0.01"
+            },
+            "11": {
+                "number": "300",
+                "minLevel": "8",
+                "rate": "0.01"
+            }
+        }
+    }
+}
