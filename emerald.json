@@ -3,7 +3,18 @@
         "walk": {
             "variables": {
                 "repel": "true",
-                "rseSwarm": "{'number': '300', 'swarmName': 'Skitty - Emerald', 'minLevel': '8'}|{'number': '300', 'swarmName': 'Skitty - RS', 'minLevel': '15'}",
+                "rseSwarm": {
+                    "0": {
+                        "number": "300",
+                        "swarmName": "Skitty - Emerald",
+                        "minLevel": "8"
+                    },
+                    "1": {
+                        "number": "300",
+                        "swarmName": "Skitty - RS",
+                        "minLevel": "15"
+                    }
+                },
                 "ability": "static|magnet pull|keen eye/intimidate"
             },
             "0": {
