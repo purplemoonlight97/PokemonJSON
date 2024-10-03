@@ -1480,5 +1480,1829 @@
                 "rate": "0.01172"
             }
         }
+    },
+    "Cerulean Cave - 1F": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "42",
+                "minLevel": "46",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "97",
+                "minLevel": "46",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "82",
+                "minLevel": "46",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "85",
+                "minLevel": "49",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "49",
+                "minLevel": "49",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "24",
+                "minLevel": "52",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "64",
+                "minLevel": "49",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "47",
+                "minLevel": "52",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "26",
+                "minLevel": "53",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "132",
+                "minLevel": "53",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "Cerulean Cave - 2F": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "85",
+                "minLevel": "51",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "49",
+                "minLevel": "51",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "64",
+                "minLevel": "51",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "112",
+                "minLevel": "52",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "105",
+                "minLevel": "52",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "101",
+                "minLevel": "52",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "113",
+                "minLevel": "56",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "40",
+                "minLevel": "54",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "132",
+                "minLevel": "55",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "132",
+                "minLevel": "60",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "Cerulean Cave - B1F": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "112",
+                "minLevel": "55",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "105",
+                "minLevel": "55",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "101",
+                "minLevel": "55",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "113",
+                "minLevel": "64",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "47",
+                "minLevel": "64",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "26",
+                "minLevel": "64",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "24",
+                "minLevel": "57",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "132",
+                "minLevel": "65",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "132",
+                "minLevel": "63",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "132",
+                "minLevel": "67",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "Diglett's Cave": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "50",
+                "minLevel": "18",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "50",
+                "minLevel": "19",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "50",
+                "minLevel": "17",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "50",
+                "minLevel": "20",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "50",
+                "minLevel": "16",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "50",
+                "minLevel": "15",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "50",
+                "minLevel": "21",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "50",
+                "minLevel": "22",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "51",
+                "minLevel": "29",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "51",
+                "minLevel": "31",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "Mt. Moon - 1F": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "41",
+                "minLevel": "8",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "41",
+                "minLevel": "7",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "41",
+                "minLevel": "9",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "74",
+                "minLevel": "8",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "41",
+                "minLevel": "6",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "41",
+                "minLevel": "10",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "74",
+                "minLevel": "10",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "46",
+                "minLevel": "8",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "41",
+                "minLevel": "11",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "35",
+                "minLevel": "8",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "Mt. Moon - B1F": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "41",
+                "minLevel": "8",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "41",
+                "minLevel": "7",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "74",
+                "minLevel": "7",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "74",
+                "minLevel": "8",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "41",
+                "minLevel": "9",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "46",
+                "minLevel": "10",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "41",
+                "minLevel": "10",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "41",
+                "minLevel": "11",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "35",
+                "minLevel": "9",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "74",
+                "minLevel": "9",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "Mt. Moon - B2F": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "41",
+                "minLevel": "9",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "74",
+                "minLevel": "9",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "41",
+                "minLevel": "10",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "74",
+                "minLevel": "10",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "41",
+                "minLevel": "11",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "46",
+                "minLevel": "10",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "46",
+                "minLevel": "12",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "35",
+                "minLevel": "10",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "41",
+                "minLevel": "12",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "35",
+                "minLevel": "12",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "Pokemon Mansion - 1F": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "109",
+                "minLevel": "32",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "109",
+                "minLevel": "30",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "77",
+                "minLevel": "34",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "77",
+                "minLevel": "30",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "58",
+                "minLevel": "34",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "77",
+                "minLevel": "32",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "88",
+                "minLevel": "30",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "77",
+                "minLevel": "28",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "110",
+                "minLevel": "37",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "89",
+                "minLevel": "39",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "Pokemon Mansion - 2F": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "58",
+                "minLevel": "32",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "109",
+                "minLevel": "34",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "109",
+                "minLevel": "34",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "77",
+                "minLevel": "30",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "109",
+                "minLevel": "30",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "77",
+                "minLevel": "32",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "88",
+                "minLevel": "30",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "77",
+                "minLevel": "28",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "110",
+                "minLevel": "39",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "89",
+                "minLevel": "37",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "Pokemon Mansion - 3F": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "109",
+                "minLevel": "31",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "58",
+                "minLevel": "33",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "109",
+                "minLevel": "35",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "77",
+                "minLevel": "32",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "77",
+                "minLevel": "34",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "110",
+                "minLevel": "40",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "88",
+                "minLevel": "34",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "110",
+                "minLevel": "38",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "77",
+                "minLevel": "36",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "89",
+                "minLevel": "42",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "Pokemon Mansion - 4F": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "109",
+                "minLevel": "33",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "109",
+                "minLevel": "31",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "58",
+                "minLevel": "35",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "77",
+                "minLevel": "32",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "109",
+                "minLevel": "31",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "110",
+                "minLevel": "40",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "77",
+                "minLevel": "34",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "88",
+                "minLevel": "35",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "110",
+                "minLevel": "42",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "89",
+                "minLevel": "42",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "Pokemon Tower - 3F": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "92",
+                "minLevel": "20",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "92",
+                "minLevel": "21",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "92",
+                "minLevel": "22",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "92",
+                "minLevel": "23",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "92",
+                "minLevel": "19",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "92",
+                "minLevel": "18",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "92",
+                "minLevel": "24",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "104",
+                "minLevel": "20",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "104",
+                "minLevel": "22",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "93",
+                "minLevel": "25",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "Pokemon Tower - 4F": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "92",
+                "minLevel": "20",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "92",
+                "minLevel": "21",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "92",
+                "minLevel": "22",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "92",
+                "minLevel": "23",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "92",
+                "minLevel": "19",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "92",
+                "minLevel": "18",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "93",
+                "minLevel": "25",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "104",
+                "minLevel": "20",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "104",
+                "minLevel": "22",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "92",
+                "minLevel": "24",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "Pokemon Tower - 5F": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "92",
+                "minLevel": "20",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "92",
+                "minLevel": "21",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "92",
+                "minLevel": "22",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "92",
+                "minLevel": "23",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "92",
+                "minLevel": "19",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "92",
+                "minLevel": "18",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "93",
+                "minLevel": "25",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "104",
+                "minLevel": "20",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "104",
+                "minLevel": "22",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "92",
+                "minLevel": "24",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "Pokemon Tower - 6F": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "92",
+                "minLevel": "21",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "92",
+                "minLevel": "22",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "92",
+                "minLevel": "23",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "92",
+                "minLevel": "24",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "92",
+                "minLevel": "20",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "92",
+                "minLevel": "19",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "93",
+                "minLevel": "26",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "104",
+                "minLevel": "22",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "104",
+                "minLevel": "24",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "93",
+                "minLevel": "28",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "Pokemon Tower - 7F": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "92",
+                "minLevel": "21",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "92",
+                "minLevel": "22",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "92",
+                "minLevel": "23",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "92",
+                "minLevel": "24",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "92",
+                "minLevel": "20",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "93",
+                "minLevel": "28",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "104",
+                "minLevel": "22",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "104",
+                "minLevel": "24",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "93",
+                "minLevel": "28",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "93",
+                "minLevel": "30",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "Power Plant": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "100",
+                "minLevel": "21",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "81",
+                "minLevel": "21",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "25",
+                "minLevel": "20",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "25",
+                "minLevel": "24",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "81",
+                "minLevel": "23",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "100",
+                "minLevel": "23",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "82",
+                "minLevel": "32",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "82",
+                "minLevel": "35",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "125",
+                "minLevel": "33",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "125",
+                "minLevel": "36",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "Rock Tunnel - 1F": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "41",
+                "minLevel": "16",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "41",
+                "minLevel": "17",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "74",
+                "minLevel": "17",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "66",
+                "minLevel": "15",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "74",
+                "minLevel": "16",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "41",
+                "minLevel": "18",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "41",
+                "minLevel": "15",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "66",
+                "minLevel": "17",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "95",
+                "minLevel": "13",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "95",
+                "minLevel": "15",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "Rock Tunnel - B1F": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "41",
+                "minLevel": "16",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "41",
+                "minLevel": "17",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "74",
+                "minLevel": "17",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "66",
+                "minLevel": "15",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "74",
+                "minLevel": "16",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "41",
+                "minLevel": "18",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "66",
+                "minLevel": "17",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "66",
+                "minLevel": "17",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "95",
+                "minLevel": "13",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "74",
+                "minLevel": "18",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "Safari Zone - Central": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "32",
+                "minLevel": "22",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "111",
+                "minLevel": "25",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "48",
+                "minLevel": "22",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "102",
+                "minLevel": "24",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "33",
+                "minLevel": "31",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "102",
+                "minLevel": "25",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "30",
+                "minLevel": "31",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "47",
+                "minLevel": "30",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "123",
+                "minLevel": "23",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "113",
+                "minLevel": "23",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "Safari Zone - East": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "32",
+                "minLevel": "24",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "84",
+                "minLevel": "26",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "46",
+                "minLevel": "22",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "102",
+                "minLevel": "25",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "33",
+                "minLevel": "33",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "102",
+                "minLevel": "23",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "29",
+                "minLevel": "24",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "47",
+                "minLevel": "25",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "115",
+                "minLevel": "25",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "123",
+                "minLevel": "28",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "Safari Zone - North": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "32",
+                "minLevel": "22",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "111",
+                "minLevel": "26",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "46",
+                "minLevel": "23",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "102",
+                "minLevel": "25",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "33",
+                "minLevel": "30",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "102",
+                "minLevel": "27",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "30",
+                "minLevel": "30",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "49",
+                "minLevel": "32",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "113",
+                "minLevel": "26",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "128",
+                "minLevel": "28",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "Safari Zone - West": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "32",
+                "minLevel": "25",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "84",
+                "minLevel": "26",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "48",
+                "minLevel": "23",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "102",
+                "minLevel": "24",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "33",
+                "minLevel": "33",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "102",
+                "minLevel": "26",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "29",
+                "minLevel": "25",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "49",
+                "minLevel": "31",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "128",
+                "minLevel": "26",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "115",
+                "minLevel": "28",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "Seafoam Islands - 1F": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "86",
+                "minLevel": "30",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "79",
+                "minLevel": "30",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "90",
+                "minLevel": "30",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "116",
+                "minLevel": "30",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "116",
+                "minLevel": "28",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "41",
+                "minLevel": "21",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "42",
+                "minLevel": "29",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "54",
+                "minLevel": "28",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "90",
+                "minLevel": "28",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "55",
+                "minLevel": "38",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "Seafoam Islands - B1F": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "120",
+                "minLevel": "30",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "116",
+                "minLevel": "30",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "90",
+                "minLevel": "32",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "116",
+                "minLevel": "32",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "79",
+                "minLevel": "28",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "86",
+                "minLevel": "30",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "79",
+                "minLevel": "30",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "86",
+                "minLevel": "28",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "87",
+                "minLevel": "38",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "117",
+                "minLevel": "37",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "Seafoam Islands - B2F": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "86",
+                "minLevel": "30",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "79",
+                "minLevel": "30",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "86",
+                "minLevel": "32",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "79",
+                "minLevel": "32",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "116",
+                "minLevel": "28",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "120",
+                "minLevel": "30",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "116",
+                "minLevel": "30",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "90",
+                "minLevel": "28",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "42",
+                "minLevel": "30",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "80",
+                "minLevel": "37",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "Seafoam Islands - B3F": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "79",
+                "minLevel": "31",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "86",
+                "minLevel": "31",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "79",
+                "minLevel": "33",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "86",
+                "minLevel": "33",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "116",
+                "minLevel": "29",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "90",
+                "minLevel": "31",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "116",
+                "minLevel": "31",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "90",
+                "minLevel": "29",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "117",
+                "minLevel": "39",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "87",
+                "minLevel": "37",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "Seafoam Islands - B4F": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "116",
+                "minLevel": "31",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "90",
+                "minLevel": "31",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "116",
+                "minLevel": "33",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "90",
+                "minLevel": "33",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "79",
+                "minLevel": "29",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "86",
+                "minLevel": "31",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "79",
+                "minLevel": "31",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "86",
+                "minLevel": "29",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "80",
+                "minLevel": "39",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "42",
+                "minLevel": "32",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "Victory Road - 1F": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "66",
+                "minLevel": "24",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "74",
+                "minLevel": "26",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "41",
+                "minLevel": "22",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "95",
+                "minLevel": "36",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "95",
+                "minLevel": "39",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "95",
+                "minLevel": "42",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "75",
+                "minLevel": "41",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "42",
+                "minLevel": "41",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "67",
+                "minLevel": "42",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "105",
+                "minLevel": "43",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "Victory Road - 2F": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "66",
+                "minLevel": "22",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "74",
+                "minLevel": "24",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "41",
+                "minLevel": "26",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "95",
+                "minLevel": "36",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "95",
+                "minLevel": "39",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "95",
+                "minLevel": "42",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "67",
+                "minLevel": "41",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "42",
+                "minLevel": "40",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "105",
+                "minLevel": "40",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "75",
+                "minLevel": "43",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "Victory Road - 3F": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "66",
+                "minLevel": "24",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "74",
+                "minLevel": "26",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "41",
+                "minLevel": "22",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "95",
+                "minLevel": "42",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "49",
+                "minLevel": "40",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "95",
+                "minLevel": "45",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "75",
+                "minLevel": "43",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "42",
+                "minLevel": "41",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "67",
+                "minLevel": "42",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "67",
+                "minLevel": "45",
+                "rate": "0.01172"
+            }
+        }
+    },
+    "Viridian Forest": {
+        "walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "13",
+                "minLevel": "4",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "14",
+                "minLevel": "5",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "13",
+                "minLevel": "3",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "13",
+                "minLevel": "5",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "14",
+                "minLevel": "4",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "14",
+                "minLevel": "6",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "11",
+                "minLevel": "4",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "10",
+                "minLevel": "3",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "25",
+                "minLevel": "3",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "25",
+                "minLevel": "5",
+                "rate": "0.01172"
+            }
+        }
     }
 }
