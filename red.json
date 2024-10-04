@@ -1,6 +1,6 @@
 {
-    "route 1": {
-        "walk": {
+    "Route 1": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -56,8 +56,8 @@
             }
         }
     },
-    "route 2": {
-        "walk": {
+    "Route 2": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -113,8 +113,8 @@
             }
         }
     },
-    "route 3": {
-        "walk": {
+    "Route 3": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -170,8 +170,8 @@
             }
         }
     },
-    "route 4": {
-        "walk": {
+    "Route 4": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -227,8 +227,8 @@
             }
         }
     },
-    "route 5": {
-        "walk": {
+    "Route 5": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -284,8 +284,8 @@
             }
         }
     },
-    "route 6": {
-        "walk": {
+    "Route 6": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -382,8 +382,8 @@
             }
         }
     },
-    "route 7": {
-        "walk": {
+    "Route 7": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -439,8 +439,8 @@
             }
         }
     },
-    "route 8": {
-        "walk": {
+    "Route 8": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -496,8 +496,8 @@
             }
         }
     },
-    "route 9": {
-        "walk": {
+    "Route 9": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -553,8 +553,8 @@
             }
         }
     },
-    "route 10": {
-        "walk": {
+    "Route 10": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -651,8 +651,8 @@
             }
         }
     },
-    "route 11": {
-        "walk": {
+    "Route 11": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -749,8 +749,8 @@
             }
         }
     },
-    "route 12": {
-        "walk": {
+    "Route 12": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -847,8 +847,8 @@
             }
         }
     },
-    "route 13": {
-        "walk": {
+    "Route 13": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -945,8 +945,8 @@
             }
         }
     },
-    "route 14": {
-        "walk": {
+    "Route 14": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -1002,8 +1002,8 @@
             }
         }
     },
-    "route 15": {
-        "walk": {
+    "Route 15": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -1059,8 +1059,8 @@
             }
         }
     },
-    "route 16": {
-        "walk": {
+    "Route 16": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -1117,8 +1117,8 @@
         }
     }
     ,
-    "route 17": {
-        "walk": {
+    "Route 17": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -1215,8 +1215,8 @@
             }
         }
     },
-    "route 18": {
-        "walk": {
+    "Route 18": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -1313,7 +1313,7 @@
             }
         }
     },
-    "route 19": {
+    "Route 19": {
         "surf": {
             "variables": {
                 "repel": "true"
@@ -1411,7 +1411,7 @@
             }
         }
     },
-    "route 20": {
+    "Route 20": {
         "surf": {
             "variables": {
                 "repel": "true"
@@ -1510,8 +1510,8 @@
         }
     }
     ,
-    "route 21": {
-        "walk": {
+    "Route 21": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -1663,8 +1663,8 @@
             }
         }
     },
-    "route 22": {
-        "walk": {
+    "Route 22": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -1761,8 +1761,8 @@
             }
         }
     },
-    "route 23": {
-        "walk": {
+    "Route 23": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -1859,8 +1859,8 @@
             }
         }
     },
-    "route 24": {
-        "walk": {
+    "Route 24": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -1952,8 +1952,8 @@
             }
         }
     },
-    "route 25": {
-        "walk": {
+    "Route 25": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -2089,7 +2089,7 @@
         }
     },
     "Cerulean Cave - 1F": {
-        "walk": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -2187,7 +2187,7 @@
         }
     },
     "Cerulean Cave - 2F": {
-        "walk": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -2244,7 +2244,7 @@
         }
     },
     "Cerulean Cave - B1F": {
-        "walk": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -2423,7 +2423,7 @@
         }
     },
     "Diglett's Cave": {
-        "walk": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -2523,7 +2523,7 @@
         }
     },
     "Mt. Moon - 1F": {
-        "walk": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -2580,7 +2580,7 @@
         }
     },
     "Mt. Moon - B1F": {
-        "walk": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -2637,7 +2637,7 @@
         }
     },
     "Mt. Moon - B2F": {
-        "walk": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -2737,7 +2737,7 @@
         }
     },
     "Pokemon Mansion - 1F": {
-        "walk": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -2794,7 +2794,7 @@
         }
     },
     "Pokemon Mansion - 2F": {
-        "walk": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -2851,7 +2851,7 @@
         }
     },
     "Pokemon Mansion - 3F": {
-        "walk": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -2907,8 +2907,8 @@
             }
         }
     },
-    "Pokemon Mansion - 4F": {
-        "walk": {
+    "Pokemon Mansion - B1F": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -2965,7 +2965,7 @@
         }
     },
     "Pokemon Tower - 3F": {
-        "walk": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -3022,7 +3022,7 @@
         }
     },
     "Pokemon Tower - 4F": {
-        "walk": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -3079,7 +3079,7 @@
         }
     },
     "Pokemon Tower - 5F": {
-        "walk": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -3136,7 +3136,7 @@
         }
     },
     "Pokemon Tower - 6F": {
-        "walk": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -3193,7 +3193,7 @@
         }
     },
     "Pokemon Tower - 7F": {
-        "walk": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -3250,7 +3250,7 @@
         }
     },
     "Power Plant": {
-        "walk": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -3307,7 +3307,7 @@
         }
     },
     "Rock Tunnel - 1F": {
-        "walk": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -3364,7 +3364,7 @@
         }
     },
     "Rock Tunnel - B1F": {
-        "walk": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -3421,7 +3421,7 @@
         }
     },
     "Safari Zone - Central": {
-        "walk": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -3519,7 +3519,7 @@
         }
     },
     "Safari Zone - East": {
-        "walk": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -3617,7 +3617,7 @@
         }
     },
     "Safari Zone - North": {
-        "walk": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -3715,7 +3715,7 @@
         }
     },
     "Safari Zone - West": {
-        "walk": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -3813,7 +3813,7 @@
         }
     },
     "Seafoam Islands - 1F": {
-        "walk": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -3870,7 +3870,7 @@
         }
     },
     "Seafoam Islands - B1F": {
-        "walk": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -3927,7 +3927,7 @@
         }
     },
     "Seafoam Islands - B2F": {
-        "walk": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -3984,7 +3984,7 @@
         }
     },
     "Seafoam Islands - B3F": {
-        "walk": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -4082,7 +4082,7 @@
         }
     },
     "Seafoam Islands - B4F": {
-        "walk": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -4266,7 +4266,7 @@
         }
     },
     "Victory Road - 1F": {
-        "walk": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -4323,7 +4323,7 @@
         }
     },
     "Victory Road - 2F": {
-        "walk": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -4380,7 +4380,7 @@
         }
     },
     "Victory Road - 3F": {
-        "walk": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },
@@ -4437,7 +4437,7 @@
         }
     },
     "Viridian Forest": {
-        "walk": {
+        "Walk": {
             "variables": {
                 "repel": "true"
             },

@@ -10,18 +10,18 @@
                 "rate": "0.19921"
             },
             "1": {
-                "number": "19",
-                "minLevel": "3",
+                "number": "16",
+                "minLevel": "4",
                 "rate": "0.19921"
             },
             "2": {
                 "number": "19",
-                "minLevel": "3",
+                "minLevel": "2",
                 "rate": "0.15234"
             },
             "3": {
                 "number": "19",
-                "minLevel": "2",
+                "minLevel": "3",
                 "rate": "0.09765"
             },
             "4": {
@@ -36,7 +36,7 @@
             },
             "6": {
                 "number": "16",
-                "minLevel": "3",
+                "minLevel": "5",
                 "rate": "0.05078"
             },
             "7": {
@@ -46,12 +46,12 @@
             },
             "8": {
                 "number": "16",
-                "minLevel": "4",
+                "minLevel": "6",
                 "rate": "0.04297"
             },
             "9": {
                 "number": "16",
-                "minLevel": "5",
+                "minLevel": "7",
                 "rate": "0.01172"
             }
         }
@@ -72,43 +72,43 @@
                 "rate": "0.19921"
             },
             "2": {
-                "number": "16",
+                "number": "19",
                 "minLevel": "4",
                 "rate": "0.15234"
             },
             "3": {
-                "number": "19",
+                "number": "32",
                 "minLevel": "4",
                 "rate": "0.09765"
             },
             "4": {
+                "number": "29",
+                "minLevel": "4",
+                "rate": "0.09765"
+            },
+            "5": {
                 "number": "16",
                 "minLevel": "5",
                 "rate": "0.09765"
             },
-            "5": {
-                "number": "10",
-                "minLevel": "3",
-                "rate": "0.09765"
-            },
             "6": {
-                "number": "19",
-                "minLevel": "2",
+                "number": "32",
+                "minLevel": "6",
                 "rate": "0.05078"
             },
             "7": {
-                "number": "19",
-                "minLevel": "5",
+                "number": "29",
+                "minLevel": "6",
                 "rate": "0.05078"
             },
             "8": {
-                "number": "10",
-                "minLevel": "4",
+                "number": "16",
+                "minLevel": "7",
                 "rate": "0.04297"
             },
             "9": {
-                "number": "10",
-                "minLevel": "5",
+                "number": "16",
+                "minLevel": "7",
                 "rate": "0.01172"
             }
         }
@@ -119,53 +119,53 @@
                 "repel": "true"
             },
             "0": {
-                "number": "16",
-                "minLevel": "6",
+                "number": "21",
+                "minLevel": "8",
                 "rate": "0.19921"
             },
             "1": {
                 "number": "21",
-                "minLevel": "5",
+                "minLevel": "9",
                 "rate": "0.19921"
             },
             "2": {
-                "number": "16",
-                "minLevel": "7",
+                "number": "56",
+                "minLevel": "9",
                 "rate": "0.15234"
             },
             "3": {
                 "number": "21",
-                "minLevel": "6",
+                "minLevel": "10",
                 "rate": "0.09765"
             },
             "4": {
-                "number": "21",
-                "minLevel": "7",
+                "number": "27",
+                "minLevel": "8",
                 "rate": "0.09765"
             },
             "5": {
-                "number": "16",
-                "minLevel": "8",
+                "number": "19",
+                "minLevel": "10",
                 "rate": "0.09765"
             },
             "6": {
-                "number": "21",
-                "minLevel": "8",
+                "number": "27",
+                "minLevel": "10",
                 "rate": "0.05078"
             },
             "7": {
-                "number": "39",
-                "minLevel": "3",
+                "number": "19",
+                "minLevel": "12",
                 "rate": "0.05078"
             },
             "8": {
-                "number": "39",
-                "minLevel": "5",
+                "number": "21",
+                "minLevel": "11",
                 "rate": "0.04297"
             },
             "9": {
-                "number": "39",
-                "minLevel": "7",
+                "number": "21",
+                "minLevel": "12",
                 "rate": "0.01172"
             }
         }
@@ -176,52 +176,52 @@
                 "repel": "true"
             },
             "0": {
-                "number": "19",
-                "minLevel": "10",
+                "number": "21",
+                "minLevel": "8",
                 "rate": "0.19921"
             },
             "1": {
                 "number": "21",
-                "minLevel": "10",
+                "minLevel": "9",
                 "rate": "0.19921"
             },
             "2": {
-                "number": "19",
-                "minLevel": "8",
+                "number": "56",
+                "minLevel": "9",
                 "rate": "0.15234"
             },
             "3": {
-                "number": "27",
-                "minLevel": "6",
+                "number": "21",
+                "minLevel": "10",
                 "rate": "0.09765"
             },
             "4": {
-                "number": "21",
+                "number": "27",
                 "minLevel": "8",
                 "rate": "0.09765"
             },
             "5": {
-                "number": "27",
+                "number": "19",
                 "minLevel": "10",
                 "rate": "0.09765"
             },
             "6": {
+                "number": "27",
+                "minLevel": "10",
+                "rate": "0.05078"
+            },
+            "7": {
                 "number": "19",
                 "minLevel": "12",
                 "rate": "0.05078"
             },
-            "7": {
-                "number": "21",
-                "minLevel": "12",
-                "rate": "0.05078"
-            },
             "8": {
-                "number": "27",
-                "minLevel": "8",
+                "number": "21",
+                "minLevel": "11",
                 "rate": "0.04297"
             },
             "9": {
-                "number": "27",
+                "number": "21",
                 "minLevel": "12",
                 "rate": "0.01172"
             }
@@ -233,53 +233,53 @@
                 "repel": "true"
             },
             "0": {
-                "number": "69",
-                "minLevel": "13",
+                "number": "16",
+                "minLevel": "15",
                 "rate": "0.19921"
             },
             "1": {
-                "number": "16",
-                "minLevel": "13",
+                "number": "19",
+                "minLevel": "14",
                 "rate": "0.19921"
             },
             "2": {
-                "number": "16",
-                "minLevel": "15",
+                "number": "63",
+                "minLevel": "7",
                 "rate": "0.15234"
             },
             "3": {
-                "number": "52",
-                "minLevel": "10",
+                "number": "16",
+                "minLevel": "16",
                 "rate": "0.09765"
             },
             "4": {
-                "number": "52",
-                "minLevel": "12",
+                "number": "19",
+                "minLevel": "16",
                 "rate": "0.09765"
             },
             "5": {
-                "number": "69",
-                "minLevel": "15",
+                "number": "16",
+                "minLevel": "17",
                 "rate": "0.09765"
             },
             "6": {
-                "number": "69",
-                "minLevel": "16",
+                "number": "17",
+                "minLevel": "17",
                 "rate": "0.05078"
             },
             "7": {
-                "number": "16",
-                "minLevel": "16",
+                "number": "39",
+                "minLevel": "3",
                 "rate": "0.05078"
             },
             "8": {
-                "number": "52",
-                "minLevel": "14",
+                "number": "39",
+                "minLevel": "5",
                 "rate": "0.04297"
             },
             "9": {
-                "number": "52",
-                "minLevel": "16",
+                "number": "39",
+                "minLevel": "7",
                 "rate": "0.01172"
             }
         }
@@ -290,53 +290,108 @@
                 "repel": "true"
             },
             "0": {
-                "number": "69",
-                "minLevel": "13",
+                "number": "16",
+                "minLevel": "15",
                 "rate": "0.19921"
             },
             "1": {
-                "number": "16",
-                "minLevel": "13",
+                "number": "19",
+                "minLevel": "14",
                 "rate": "0.19921"
             },
             "2": {
+                "number": "63",
+                "minLevel": "7",
+                "rate": "0.15234"
+            },
+            "3": {
                 "number": "16",
+                "minLevel": "16",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "19",
+                "minLevel": "16",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "16",
+                "minLevel": "17",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "17",
+                "minLevel": "17",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "39",
+                "minLevel": "3",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "39",
+                "minLevel": "5",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "39",
+                "minLevel": "7",
+                "rate": "0.01172"
+            }
+        },
+        "Surf": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "54",
+                "minLevel": "15",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "54",
+                "minLevel": "15",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "54",
                 "minLevel": "15",
                 "rate": "0.15234"
             },
             "3": {
-                "number": "52",
-                "minLevel": "10",
+                "number": "54",
+                "minLevel": "15",
                 "rate": "0.09765"
             },
             "4": {
-                "number": "52",
-                "minLevel": "12",
+                "number": "54",
+                "minLevel": "15",
                 "rate": "0.09765"
             },
             "5": {
-                "number": "69",
+                "number": "54",
                 "minLevel": "15",
                 "rate": "0.09765"
             },
             "6": {
-                "number": "69",
-                "minLevel": "16",
+                "number": "54",
+                "minLevel": "15",
                 "rate": "0.05078"
             },
             "7": {
-                "number": "16",
-                "minLevel": "16",
+                "number": "54",
+                "minLevel": "15",
                 "rate": "0.05078"
             },
             "8": {
-                "number": "52",
-                "minLevel": "14",
+                "number": "55",
+                "minLevel": "15",
                 "rate": "0.04297"
             },
             "9": {
-                "number": "52",
-                "minLevel": "16",
+                "number": "55",
+                "minLevel": "20",
                 "rate": "0.01172"
             }
         },
@@ -361,23 +416,23 @@
         },
         "Super Rod": {
             "0": {
-                "number": "98",
-                "minLevel": "15",
+                "number": "118",
+                "minLevel": "5",
                 "rate": "0.25"
             },
             "1": {
-                "number": "98",
-                "minLevel": "15",
+                "number": "118",
+                "minLevel": "10",
                 "rate": "0.25"
             },
             "2": {
-                "number": "90",
+                "number": "118",
                 "minLevel": "15",
                 "rate": "0.33333"
             },
             "3": {
-                "number": "90",
-                "minLevel": "15",
+                "number": "118",
+                "minLevel": "20",
                 "rate": "0.25"
             }
         }
@@ -389,52 +444,52 @@
             },
             "0": {
                 "number": "16",
-                "minLevel": "19",
+                "minLevel": "20",
                 "rate": "0.19921"
             },
             "1": {
-                "number": "69",
-                "minLevel": "19",
+                "number": "16",
+                "minLevel": "22",
                 "rate": "0.19921"
             },
             "2": {
-                "number": "52",
-                "minLevel": "17",
+                "number": "19",
+                "minLevel": "20",
                 "rate": "0.15234"
             },
             "3": {
-                "number": "69",
-                "minLevel": "22",
+                "number": "63",
+                "minLevel": "15",
                 "rate": "0.09765"
             },
             "4": {
-                "number": "16",
-                "minLevel": "22",
+                "number": "63",
+                "minLevel": "19",
                 "rate": "0.09765"
             },
             "5": {
-                "number": "52",
-                "minLevel": "18",
+                "number": "17",
+                "minLevel": "24",
                 "rate": "0.09765"
             },
             "6": {
-                "number": "37",
-                "minLevel": "18",
+                "number": "63",
+                "minLevel": "26",
                 "rate": "0.05078"
             },
             "7": {
-                "number": "37",
-                "minLevel": "20",
+                "number": "39",
+                "minLevel": "19",
                 "rate": "0.05078"
             },
             "8": {
-                "number": "52",
-                "minLevel": "19",
+                "number": "39",
+                "minLevel": "24",
                 "rate": "0.04297"
             },
             "9": {
-                "number": "52",
-                "minLevel": "20",
+                "number": "39",
+                "minLevel": "24",
                 "rate": "0.01172"
             }
         }
@@ -446,52 +501,52 @@
             },
             "0": {
                 "number": "16",
-                "minLevel": "18",
+                "minLevel": "20",
                 "rate": "0.19921"
             },
             "1": {
-                "number": "52",
-                "minLevel": "18",
+                "number": "16",
+                "minLevel": "22",
                 "rate": "0.19921"
             },
             "2": {
-                "number": "27",
-                "minLevel": "17",
+                "number": "19",
+                "minLevel": "20",
                 "rate": "0.15234"
             },
             "3": {
-                "number": "37",
-                "minLevel": "16",
+                "number": "63",
+                "minLevel": "15",
                 "rate": "0.09765"
             },
             "4": {
-                "number": "16",
-                "minLevel": "20",
+                "number": "63",
+                "minLevel": "19",
                 "rate": "0.09765"
             },
             "5": {
-                "number": "52",
-                "minLevel": "20",
+                "number": "17",
+                "minLevel": "24",
                 "rate": "0.09765"
             },
             "6": {
-                "number": "27",
+                "number": "39",
                 "minLevel": "19",
                 "rate": "0.05078"
             },
             "7": {
-                "number": "37",
-                "minLevel": "17",
+                "number": "39",
+                "minLevel": "24",
                 "rate": "0.05078"
             },
             "8": {
-                "number": "37",
-                "minLevel": "15",
+                "number": "64",
+                "minLevel": "20",
                 "rate": "0.04297"
             },
             "9": {
-                "number": "37",
-                "minLevel": "18",
+                "number": "64",
+                "minLevel": "27",
                 "rate": "0.01172"
             }
         }
@@ -502,53 +557,53 @@
                 "repel": "true"
             },
             "0": {
-                "number": "19",
+                "number": "32",
                 "minLevel": "16",
                 "rate": "0.19921"
             },
             "1": {
-                "number": "21",
+                "number": "29",
                 "minLevel": "16",
                 "rate": "0.19921"
             },
             "2": {
                 "number": "19",
-                "minLevel": "14",
+                "minLevel": "18",
                 "rate": "0.15234"
             },
             "3": {
-                "number": "27",
-                "minLevel": "11",
+                "number": "32",
+                "minLevel": "18",
                 "rate": "0.09765"
             },
             "4": {
-                "number": "21",
-                "minLevel": "13",
+                "number": "29",
+                "minLevel": "18",
                 "rate": "0.09765"
             },
             "5": {
-                "number": "27",
-                "minLevel": "15",
+                "number": "21",
+                "minLevel": "17",
                 "rate": "0.09765"
             },
             "6": {
-                "number": "19",
-                "minLevel": "17",
+                "number": "33",
+                "minLevel": "18",
                 "rate": "0.05078"
             },
             "7": {
-                "number": "21",
-                "minLevel": "17",
+                "number": "30",
+                "minLevel": "18",
                 "rate": "0.05078"
             },
             "8": {
-                "number": "27",
-                "minLevel": "13",
+                "number": "20",
+                "minLevel": "20",
                 "rate": "0.04297"
             },
             "9": {
-                "number": "27",
-                "minLevel": "17",
+                "number": "22",
+                "minLevel": "19",
                 "rate": "0.01172"
             }
         }
@@ -559,53 +614,53 @@
                 "repel": "true"
             },
             "0": {
-                "number": "100",
+                "number": "81",
                 "minLevel": "16",
                 "rate": "0.19921"
             },
             "1": {
-                "number": "21",
-                "minLevel": "16",
+                "number": "19",
+                "minLevel": "18",
                 "rate": "0.19921"
             },
             "2": {
-                "number": "100",
-                "minLevel": "14",
+                "number": "81",
+                "minLevel": "18",
                 "rate": "0.15234"
             },
             "3": {
-                "number": "27",
-                "minLevel": "11",
+                "number": "81",
+                "minLevel": "20",
                 "rate": "0.09765"
             },
             "4": {
-                "number": "21",
-                "minLevel": "13",
+                "number": "32",
+                "minLevel": "17",
                 "rate": "0.09765"
             },
             "5": {
-                "number": "27",
-                "minLevel": "15",
+                "number": "29",
+                "minLevel": "17",
                 "rate": "0.09765"
             },
             "6": {
-                "number": "100",
-                "minLevel": "17",
+                "number": "81",
+                "minLevel": "22",
                 "rate": "0.05078"
             },
             "7": {
-                "number": "21",
-                "minLevel": "17",
+                "number": "20",
+                "minLevel": "20",
                 "rate": "0.05078"
             },
             "8": {
-                "number": "27",
-                "minLevel": "13",
+                "number": "66",
+                "minLevel": "16",
                 "rate": "0.04297"
             },
             "9": {
-                "number": "27",
-                "minLevel": "17",
+                "number": "66",
+                "minLevel": "18",
                 "rate": "0.01172"
             }
         },
@@ -630,23 +685,23 @@
         },
         "Super Rod": {
             "0": {
-                "number": "61",
-                "minLevel": "23",
+                "number": "98",
+                "minLevel": "15",
                 "rate": "0.25"
             },
             "1": {
-                "number": "61",
-                "minLevel": "23",
+                "number": "98",
+                "minLevel": "20",
                 "rate": "0.25"
             },
             "2": {
-                "number": "79",
-                "minLevel": "23",
+                "number": "116",
+                "minLevel": "10",
                 "rate": "0.25"
             },
             "3": {
-                "number": "79",
-                "minLevel": "23",
+                "number": "99",
+                "minLevel": "25",
                 "rate": "0.25"
             }
         }
@@ -657,53 +712,53 @@
                 "repel": "true"
             },
             "0": {
-                "number": "27",
-                "minLevel": "14",
+                "number": "16",
+                "minLevel": "16",
                 "rate": "0.19921"
             },
             "1": {
-                "number": "21",
+                "number": "19",
                 "minLevel": "15",
                 "rate": "0.19921"
             },
             "2": {
-                "number": "27",
-                "minLevel": "12",
+                "number": "16",
+                "minLevel": "18",
                 "rate": "0.15234"
             },
             "3": {
                 "number": "96",
-                "minLevel": "9",
+                "minLevel": "15",
                 "rate": "0.09765"
             },
             "4": {
-                "number": "21",
-                "minLevel": "13",
+                "number": "19",
+                "minLevel": "17",
                 "rate": "0.09765"
             },
             "5": {
                 "number": "96",
-                "minLevel": "13",
+                "minLevel": "17",
                 "rate": "0.09765"
             },
             "6": {
-                "number": "27",
-                "minLevel": "15",
+                "number": "17",
+                "minLevel": "18",
                 "rate": "0.05078"
             },
             "7": {
-                "number": "21",
-                "minLevel": "17",
+                "number": "17",
+                "minLevel": "20",
                 "rate": "0.05078"
             },
             "8": {
                 "number": "96",
-                "minLevel": "11",
+                "minLevel": "19",
                 "rate": "0.04297"
             },
             "9": {
-                "number": "96",
-                "minLevel": "15",
+                "number": "20",
+                "minLevel": "17",
                 "rate": "0.01172"
             }
         },
@@ -728,23 +783,23 @@
         },
         "Super Rod": {
             "0": {
-                "number": "98",
+                "number": "72",
                 "minLevel": "15",
                 "rate": "0.25"
             },
             "1": {
-                "number": "98",
-                "minLevel": "15",
+                "number": "72",
+                "minLevel": "20",
                 "rate": "0.25"
             },
             "2": {
-                "number": "90",
-                "minLevel": "15",
+                "number": "72",
+                "minLevel": "10",
                 "rate": "0.25"
             },
             "3": {
-                "number": "90",
-                "minLevel": "15",
+                "number": "116",
+                "minLevel": "5",
                 "rate": "0.25"
             }
         }
@@ -755,53 +810,108 @@
                 "repel": "true"
             },
             "0": {
-                "number": "69",
-                "minLevel": "24",
+                "number": "43",
+                "minLevel": "25",
                 "rate": "0.19921"
             },
             "1": {
-                "number": "16",
+                "number": "69",
                 "minLevel": "25",
                 "rate": "0.19921"
             },
             "2": {
                 "number": "16",
-                "minLevel": "23",
+                "minLevel": "28",
                 "rate": "0.15234"
             },
             "3": {
-                "number": "48",
-                "minLevel": "24",
+                "number": "17",
+                "minLevel": "28",
                 "rate": "0.09765"
             },
             "4": {
-                "number": "69",
-                "minLevel": "22",
+                "number": "43",
+                "minLevel": "27",
                 "rate": "0.09765"
             },
             "5": {
-                "number": "48",
-                "minLevel": "26",
+                "number": "69",
+                "minLevel": "27",
                 "rate": "0.09765"
             },
             "6": {
-                "number": "69",
-                "minLevel": "26",
+                "number": "44",
+                "minLevel": "29",
                 "rate": "0.05078"
             },
             "7": {
-                "number": "16",
-                "minLevel": "27",
+                "number": "70",
+                "minLevel": "29",
                 "rate": "0.05078"
             },
             "8": {
-                "number": "70",
-                "minLevel": "28",
+                "number": "83",
+                "minLevel": "26",
                 "rate": "0.04297"
             },
             "9": {
-                "number": "70",
-                "minLevel": "30",
+                "number": "83",
+                "minLevel": "31",
+                "rate": "0.01172"
+            }
+        },
+        "Surf": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "79",
+                "minLevel": "15",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "79",
+                "minLevel": "15",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "79",
+                "minLevel": "15",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "79",
+                "minLevel": "15",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "79",
+                "minLevel": "15",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "79",
+                "minLevel": "15",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "79",
+                "minLevel": "15",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "79",
+                "minLevel": "15",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "80",
+                "minLevel": "15",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "80",
+                "minLevel": "20",
                 "rate": "0.01172"
             }
         },
@@ -826,23 +936,23 @@
         },
         "Super Rod": {
             "0": {
-                "number": "72",
-                "minLevel": "5",
+                "number": "116",
+                "minLevel": "20",
                 "rate": "0.25"
             },
             "1": {
-                "number": "98",
-                "minLevel": "15",
+                "number": "116",
+                "minLevel": "25",
                 "rate": "0.25"
             },
             "2": {
-                "number": "118",
-                "minLevel": "15",
+                "number": "117",
+                "minLevel": "25",
                 "rate": "0.25"
             },
             "3": {
-                "number": "129",
-                "minLevel": "15",
+                "number": "117",
+                "minLevel": "35",
                 "rate": "0.25"
             }
         }
@@ -853,53 +963,108 @@
                 "repel": "true"
             },
             "0": {
-                "number": "69",
-                "minLevel": "24",
+                "number": "43",
+                "minLevel": "25",
                 "rate": "0.19921"
             },
             "1": {
-                "number": "16",
+                "number": "69",
                 "minLevel": "25",
                 "rate": "0.19921"
             },
             "2": {
-                "number": "16",
-                "minLevel": "27",
+                "number": "17",
+                "minLevel": "28",
                 "rate": "0.15234"
             },
             "3": {
-                "number": "48",
-                "minLevel": "24",
+                "number": "16",
+                "minLevel": "28",
                 "rate": "0.09765"
             },
             "4": {
-                "number": "69",
-                "minLevel": "22",
+                "number": "43",
+                "minLevel": "27",
                 "rate": "0.09765"
             },
             "5": {
-                "number": "48",
-                "minLevel": "26",
+                "number": "69",
+                "minLevel": "27",
                 "rate": "0.09765"
             },
             "6": {
-                "number": "69",
-                "minLevel": "26",
+                "number": "44",
+                "minLevel": "29",
                 "rate": "0.05078"
             },
             "7": {
-                "number": "132",
-                "minLevel": "25",
+                "number": "70",
+                "minLevel": "29",
                 "rate": "0.05078"
             },
             "8": {
-                "number": "70",
-                "minLevel": "28",
+                "number": "83",
+                "minLevel": "26",
                 "rate": "0.04297"
             },
             "9": {
-                "number": "70",
-                "minLevel": "30",
+                "number": "83",
+                "minLevel": "31",
+                "rate": "0.01172"
+            }
+        },
+        "Surf": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "79",
+                "minLevel": "15",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "79",
+                "minLevel": "15",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "79",
+                "minLevel": "15",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "79",
+                "minLevel": "15",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "79",
+                "minLevel": "15",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "79",
+                "minLevel": "15",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "79",
+                "minLevel": "15",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "79",
+                "minLevel": "15",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "80",
+                "minLevel": "15",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "80",
+                "minLevel": "20",
                 "rate": "0.01172"
             }
         },
@@ -924,23 +1089,23 @@
         },
         "Super Rod": {
             "0": {
-                "number": "72",
-                "minLevel": "5",
+                "number": "116",
+                "minLevel": "15",
                 "rate": "0.25"
             },
             "1": {
-                "number": "98",
-                "minLevel": "15",
+                "number": "116",
+                "minLevel": "20",
                 "rate": "0.25"
             },
             "2": {
-                "number": "118",
-                "minLevel": "15",
+                "number": "72",
+                "minLevel": "10",
                 "rate": "0.25"
             },
             "3": {
-                "number": "129",
-                "minLevel": "15",
+                "number": "117",
+                "minLevel": "20",
                 "rate": "0.25"
             }
         }
@@ -951,38 +1116,38 @@
                 "repel": "true"
             },
             "0": {
-                "number": "69",
-                "minLevel": "24",
+                "number": "43",
+                "minLevel": "26",
                 "rate": "0.19921"
             },
             "1": {
-                "number": "16",
+                "number": "69",
                 "minLevel": "26",
                 "rate": "0.19921"
             },
             "2": {
-                "number": "132",
-                "minLevel": "23",
+                "number": "48",
+                "minLevel": "24",
                 "rate": "0.15234"
             },
             "3": {
-                "number": "48",
-                "minLevel": "24",
+                "number": "17",
+                "minLevel": "30",
                 "rate": "0.09765"
             },
             "4": {
-                "number": "69",
-                "minLevel": "22",
+                "number": "43",
+                "minLevel": "28",
                 "rate": "0.09765"
             },
             "5": {
-                "number": "48",
-                "minLevel": "26",
+                "number": "69",
+                "minLevel": "28",
                 "rate": "0.09765"
             },
             "6": {
-                "number": "69",
-                "minLevel": "26",
+                "number": "44",
+                "minLevel": "30",
                 "rate": "0.05078"
             },
             "7": {
@@ -991,12 +1156,12 @@
                 "rate": "0.05078"
             },
             "8": {
-                "number": "17",
-                "minLevel": "28",
+                "number": "48",
+                "minLevel": "27",
                 "rate": "0.04297"
             },
             "9": {
-                "number": "17",
+                "number": "49",
                 "minLevel": "30",
                 "rate": "0.01172"
             }
@@ -1008,38 +1173,38 @@
                 "repel": "true"
             },
             "0": {
-                "number": "69",
-                "minLevel": "24",
+                "number": "43",
+                "minLevel": "26",
                 "rate": "0.19921"
             },
             "1": {
-                "number": "132",
+                "number": "69",
                 "minLevel": "26",
                 "rate": "0.19921"
             },
             "2": {
-                "number": "16",
-                "minLevel": "23",
+                "number": "48",
+                "minLevel": "24",
                 "rate": "0.15234"
             },
             "3": {
-                "number": "48",
-                "minLevel": "26",
+                "number": "17",
+                "minLevel": "32",
                 "rate": "0.09765"
             },
             "4": {
-                "number": "69",
-                "minLevel": "22",
+                "number": "43",
+                "minLevel": "28",
                 "rate": "0.09765"
             },
             "5": {
-                "number": "48",
+                "number": "69",
                 "minLevel": "28",
                 "rate": "0.09765"
             },
             "6": {
-                "number": "69",
-                "minLevel": "26",
+                "number": "44",
+                "minLevel": "30",
                 "rate": "0.05078"
             },
             "7": {
@@ -1048,12 +1213,12 @@
                 "rate": "0.05078"
             },
             "8": {
-                "number": "17",
-                "minLevel": "28",
+                "number": "48",
+                "minLevel": "27",
                 "rate": "0.04297"
             },
             "9": {
-                "number": "17",
+                "number": "49",
                 "minLevel": "30",
                 "rate": "0.01172"
             }
@@ -1066,52 +1231,52 @@
             },
             "0": {
                 "number": "21",
-                "minLevel": "20",
+                "minLevel": "22",
                 "rate": "0.19921"
             },
             "1": {
-                "number": "21",
+                "number": "84",
                 "minLevel": "22",
                 "rate": "0.19921"
             },
             "2": {
                 "number": "19",
-                "minLevel": "18",
+                "minLevel": "23",
                 "rate": "0.15234"
             },
             "3": {
                 "number": "84",
-                "minLevel": "20",
+                "minLevel": "24",
                 "rate": "0.09765"
             },
             "4": {
                 "number": "19",
-                "minLevel": "20",
+                "minLevel": "24",
                 "rate": "0.09765"
             },
             "5": {
                 "number": "84",
-                "minLevel": "18",
+                "minLevel": "26",
                 "rate": "0.09765"
             },
             "6": {
-                "number": "84",
-                "minLevel": "22",
+                "number": "21",
+                "minLevel": "23",
                 "rate": "0.05078"
             },
             "7": {
-                "number": "19",
-                "minLevel": "22",
+                "number": "22",
+                "minLevel": "24",
                 "rate": "0.05078"
             },
             "8": {
                 "number": "20",
-                "minLevel": "23",
+                "minLevel": "25",
                 "rate": "0.04297"
             },
             "9": {
                 "number": "20",
-                "minLevel": "25",
+                "minLevel": "26",
                 "rate": "0.01172"
             }
         }
@@ -1123,53 +1288,53 @@
                 "repel": "true"
             },
             "0": {
-                "number": "21",
-                "minLevel": "20",
+                "number": "84",
+                "minLevel": "26",
                 "rate": "0.19921"
             },
             "1": {
-                "number": "21",
-                "minLevel": "22",
+                "number": "22",
+                "minLevel": "27",
                 "rate": "0.19921"
             },
             "2": {
-                "number": "20",
-                "minLevel": "25",
+                "number": "84",
+                "minLevel": "27",
                 "rate": "0.15234"
             },
             "3": {
                 "number": "84",
-                "minLevel": "24",
+                "minLevel": "28",
                 "rate": "0.09765"
             },
             "4": {
-                "number": "20",
-                "minLevel": "27",
+                "number": "77",
+                "minLevel": "28",
                 "rate": "0.09765"
             },
             "5": {
-                "number": "84",
-                "minLevel": "26",
+                "number": "77",
+                "minLevel": "30",
                 "rate": "0.09765"
             },
             "6": {
+                "number": "22",
+                "minLevel": "29",
+                "rate": "0.05078"
+            },
+            "7": {
                 "number": "84",
                 "minLevel": "28",
                 "rate": "0.05078"
             },
-            "7": {
-                "number": "20",
-                "minLevel": "29",
-                "rate": "0.05078"
-            },
             "8": {
-                "number": "22",
-                "minLevel": "25",
+                "number": "77",
+                "minLevel": "32",
                 "rate": "0.04297"
             },
             "9": {
-                "number": "22",
-                "minLevel": "27",
+                "number": "85",
+                "minLevel": "29",
                 "rate": "0.01172"
             }
         },
@@ -1204,13 +1369,13 @@
                 "rate": "0.25"
             },
             "2": {
-                "number": "118",
-                "minLevel": "15",
+                "number": "90",
+                "minLevel": "25",
                 "rate": "0.25"
             },
             "3": {
-                "number": "129",
-                "minLevel": "15",
+                "number": "90",
+                "minLevel": "35",
                 "rate": "0.25"
             }
         }
@@ -1222,17 +1387,17 @@
             },
             "0": {
                 "number": "21",
-                "minLevel": "20",
+                "minLevel": "22",
                 "rate": "0.19921"
             },
             "1": {
-                "number": "21",
+                "number": "84",
                 "minLevel": "22",
                 "rate": "0.19921"
             },
             "2": {
-                "number": "20",
-                "minLevel": "25",
+                "number": "19",
+                "minLevel": "23",
                 "rate": "0.15234"
             },
             "3": {
@@ -1241,8 +1406,8 @@
                 "rate": "0.09765"
             },
             "4": {
-                "number": "22",
-                "minLevel": "25",
+                "number": "19",
+                "minLevel": "24",
                 "rate": "0.09765"
             },
             "5": {
@@ -1251,23 +1416,23 @@
                 "rate": "0.09765"
             },
             "6": {
-                "number": "84",
-                "minLevel": "28",
+                "number": "21",
+                "minLevel": "23",
                 "rate": "0.05078"
             },
             "7": {
-                "number": "20",
-                "minLevel": "29",
+                "number": "22",
+                "minLevel": "24",
                 "rate": "0.05078"
             },
             "8": {
-                "number": "22",
-                "minLevel": "27",
+                "number": "20",
+                "minLevel": "25",
                 "rate": "0.04297"
             },
             "9": {
-                "number": "22",
-                "minLevel": "29",
+                "number": "20",
+                "minLevel": "26",
                 "rate": "0.01172"
             }
         },
@@ -1293,22 +1458,22 @@
         "Super Rod": {
             "0": {
                 "number": "72",
-                "minLevel": "5",
+                "minLevel": "15",
                 "rate": "0.25"
             },
             "1": {
-                "number": "98",
-                "minLevel": "15",
+                "number": "90",
+                "minLevel": "20",
                 "rate": "0.25"
             },
             "2": {
-                "number": "118",
-                "minLevel": "15",
+                "number": "90",
+                "minLevel": "30",
                 "rate": "0.25"
             },
             "3": {
-                "number": "129",
-                "minLevel": "15",
+                "number": "90",
+                "minLevel": "40",
                 "rate": "0.25"
             }
         }
@@ -1390,23 +1555,23 @@
         },
         "Super Rod": {
             "0": {
-                "number": "120",
+                "number": "72",
                 "minLevel": "15",
                 "rate": "0.25"
             },
             "1": {
-                "number": "116",
-                "minLevel": "15",
+                "number": "120",
+                "minLevel": "20",
                 "rate": "0.25"
             },
             "2": {
-                "number": "90",
-                "minLevel": "15",
+                "number": "72",
+                "minLevel": "30",
                 "rate": "0.25"
             },
             "3": {
-                "number": "118",
-                "minLevel": "15",
+                "number": "73",
+                "minLevel": "30",
                 "rate": "0.25"
             }
         }
@@ -1488,23 +1653,23 @@
         },
         "Super Rod": {
             "0": {
-                "number": "120",
-                "minLevel": "15",
+                "number": "72",
+                "minLevel": "20",
                 "rate": "0.25"
             },
             "1": {
-                "number": "116",
-                "minLevel": "15",
+                "number": "73",
+                "minLevel": "20",
                 "rate": "0.25"
             },
             "2": {
-                "number": "90",
-                "minLevel": "15",
+                "number": "120",
+                "minLevel": "30",
                 "rate": "0.25"
             },
             "3": {
-                "number": "118",
-                "minLevel": "15",
+                "number": "73",
+                "minLevel": "40",
                 "rate": "0.25"
             }
         }
@@ -1516,53 +1681,53 @@
                 "repel": "true"
             },
             "0": {
-                "number": "19",
-                "minLevel": "21",
+                "number": "16",
+                "minLevel": "15",
                 "rate": "0.19921"
             },
             "1": {
-                "number": "16",
-                "minLevel": "23",
+                "number": "19",
+                "minLevel": "13",
                 "rate": "0.19921"
             },
             "2": {
-                "number": "20",
-                "minLevel": "30",
+                "number": "16",
+                "minLevel": "13",
                 "rate": "0.15234"
             },
             "3": {
-                "number": "19",
-                "minLevel": "23",
+                "number": "16",
+                "minLevel": "11",
                 "rate": "0.09765"
             },
             "4": {
                 "number": "16",
-                "minLevel": "21",
+                "minLevel": "17",
                 "rate": "0.09765"
             },
             "5": {
-                "number": "17",
-                "minLevel": "30",
+                "number": "19",
+                "minLevel": "15",
                 "rate": "0.09765"
             },
             "6": {
-                "number": "17",
-                "minLevel": "32",
+                "number": "20",
+                "minLevel": "15",
                 "rate": "0.05078"
             },
             "7": {
-                "number": "114",
-                "minLevel": "28",
+                "number": "17",
+                "minLevel": "17",
                 "rate": "0.05078"
             },
             "8": {
-                "number": "114",
-                "minLevel": "30",
+                "number": "17",
+                "minLevel": "19",
                 "rate": "0.04297"
             },
             "9": {
-                "number": "114",
-                "minLevel": "32",
+                "number": "17",
+                "minLevel": "15",
                 "rate": "0.01172"
             }
         },
@@ -1642,23 +1807,23 @@
         },
         "Super Rod": {
             "0": {
-                "number": "120",
+                "number": "72",
                 "minLevel": "15",
                 "rate": "0.25"
             },
             "1": {
-                "number": "116",
-                "minLevel": "15",
+                "number": "120",
+                "minLevel": "20",
                 "rate": "0.25"
             },
             "2": {
-                "number": "90",
-                "minLevel": "15",
+                "number": "72",
+                "minLevel": "30",
                 "rate": "0.25"
             },
             "3": {
-                "number": "118",
-                "minLevel": "15",
+                "number": "73",
+                "minLevel": "30",
                 "rate": "0.25"
             }
         }
@@ -1669,53 +1834,53 @@
                 "repel": "true"
             },
             "0": {
-                "number": "19",
-                "minLevel": "3",
+                "number": "32",
+                "minLevel": "2",
                 "rate": "0.19921"
             },
             "1": {
                 "number": "29",
-                "minLevel": "3",
+                "minLevel": "2",
                 "rate": "0.19921"
             },
             "2": {
-                "number": "19",
-                "minLevel": "4",
+                "number": "56",
+                "minLevel": "3",
                 "rate": "0.15234"
             },
             "3": {
-                "number": "29",
-                "minLevel": "4",
+                "number": "19",
+                "minLevel": "3",
                 "rate": "0.09765"
             },
             "4": {
-                "number": "19",
-                "minLevel": "2",
+                "number": "32",
+                "minLevel": "4",
                 "rate": "0.09765"
             },
             "5": {
                 "number": "29",
-                "minLevel": "2",
+                "minLevel": "4",
                 "rate": "0.09765"
             },
             "6": {
-                "number": "21",
-                "minLevel": "3",
+                "number": "56",
+                "minLevel": "5",
                 "rate": "0.05078"
             },
             "7": {
                 "number": "21",
-                "minLevel": "5",
+                "minLevel": "2",
                 "rate": "0.05078"
             },
             "8": {
-                "number": "32",
-                "minLevel": "3",
+                "number": "21",
+                "minLevel": "4",
                 "rate": "0.04297"
             },
             "9": {
-                "number": "32",
-                "minLevel": "4",
+                "number": "21",
+                "minLevel": "6",
                 "rate": "0.01172"
             }
         },
@@ -1740,13 +1905,13 @@
         },
         "Super Rod": {
             "0": {
-                "number": "118",
-                "minLevel": "15",
+                "number": "60",
+                "minLevel": "5",
                 "rate": "0.25"
             },
             "1": {
-                "number": "118",
-                "minLevel": "15",
+                "number": "60",
+                "minLevel": "10",
                 "rate": "0.25"
             },
             "2": {
@@ -1755,7 +1920,7 @@
                 "rate": "0.25"
             },
             "3": {
-                "number": "60",
+                "number": "61",
                 "minLevel": "15",
                 "rate": "0.25"
             }
@@ -1767,53 +1932,53 @@
                 "repel": "true"
             },
             "0": {
-                "number": "27",
-                "minLevel": "26",
+                "number": "33",
+                "minLevel": "41",
                 "rate": "0.19921"
             },
             "1": {
-                "number": "132",
-                "minLevel": "33",
+                "number": "30",
+                "minLevel": "41",
                 "rate": "0.19921"
             },
             "2": {
-                "number": "21",
-                "minLevel": "26",
+                "number": "56",
+                "minLevel": "36",
                 "rate": "0.15234"
             },
             "3": {
-                "number": "22",
-                "minLevel": "38",
+                "number": "33",
+                "minLevel": "44",
                 "rate": "0.09765"
             },
             "4": {
-                "number": "132",
-                "minLevel": "38",
+                "number": "30",
+                "minLevel": "44",
                 "rate": "0.09765"
             },
             "5": {
                 "number": "22",
-                "minLevel": "38",
+                "minLevel": "40",
                 "rate": "0.09765"
             },
             "6": {
-                "number": "28",
+                "number": "56",
                 "minLevel": "41",
                 "rate": "0.05078"
             },
             "7": {
-                "number": "132",
-                "minLevel": "43",
+                "number": "22",
+                "minLevel": "45",
                 "rate": "0.05078"
             },
             "8": {
-                "number": "22",
+                "number": "57",
                 "minLevel": "41",
                 "rate": "0.04297"
             },
             "9": {
-                "number": "22",
-                "minLevel": "43",
+                "number": "57",
+                "minLevel": "46",
                 "rate": "0.01172"
             }
         },
@@ -1838,23 +2003,23 @@
         },
         "Super Rod": {
             "0": {
-                "number": "80",
-                "minLevel": "23",
+                "number": "60",
+                "minLevel": "25",
                 "rate": "0.25"
             },
             "1": {
-                "number": "119",
-                "minLevel": "23",
+                "number": "60",
+                "minLevel": "30",
                 "rate": "0.25"
             },
             "2": {
-                "number": "99",
-                "minLevel": "23",
+                "number": "61",
+                "minLevel": "30",
                 "rate": "0.25"
             },
             "3": {
-                "number": "117",
-                "minLevel": "23",
+                "number": "61",
+                "minLevel": "40",
                 "rate": "0.25"
             }
         }
@@ -1865,53 +2030,53 @@
                 "repel": "true"
             },
             "0": {
-                "number": "10",
-                "minLevel": "7",
+                "number": "43",
+                "minLevel": "12",
                 "rate": "0.19921"
             },
             "1": {
-                "number": "11",
-                "minLevel": "8",
+                "number": "69",
+                "minLevel": "12",
                 "rate": "0.19921"
             },
             "2": {
                 "number": "16",
-                "minLevel": "12",
+                "minLevel": "13",
                 "rate": "0.15234"
             },
             "3": {
-                "number": "69",
-                "minLevel": "12",
+                "number": "43",
+                "minLevel": "14",
                 "rate": "0.09765"
             },
             "4": {
                 "number": "69",
-                "minLevel": "13",
+                "minLevel": "14",
                 "rate": "0.09765"
             },
             "5": {
-                "number": "63",
-                "minLevel": "10",
+                "number": "16",
+                "minLevel": "15",
                 "rate": "0.09765"
             },
             "6": {
-                "number": "69",
-                "minLevel": "14",
-                "rate": "0.05078"
-            },
-            "7": {
-                "number": "16",
+                "number": "48",
                 "minLevel": "13",
                 "rate": "0.05078"
             },
+            "7": {
+                "number": "48",
+                "minLevel": "16",
+                "rate": "0.05078"
+            },
             "8": {
-                "number": "63",
-                "minLevel": "8",
+                "number": "16",
+                "minLevel": "17",
                 "rate": "0.04297"
             },
             "9": {
-                "number": "63",
-                "minLevel": "12",
+                "number": "17",
+                "minLevel": "17",
                 "rate": "0.01172"
             }
         },
@@ -1936,19 +2101,24 @@
         },
         "Super Rod": {
             "0": {
-                "number": "54",
-                "minLevel": "15",
-                "rate": "0.33333"
+                "number": "118",
+                "minLevel": "20",
+                "rate": "0.25"
             },
             "1": {
                 "number": "118",
-                "minLevel": "15",
-                "rate": "0.33333"
+                "minLevel": "25",
+                "rate": "0.25"
             },
             "2": {
-                "number": "98",
-                "minLevel": "15",
-                "rate": "0.33333"
+                "number": "118",
+                "minLevel": "30",
+                "rate": "0.25"
+            },
+            "3": {
+                "number": "119",
+                "minLevel": "30",
+                "rate": "0.25"
             }
         }
     },
@@ -1958,13 +2128,13 @@
                 "repel": "true"
             },
             "0": {
-                "number": "10",
-                "minLevel": "8",
+                "number": "43",
+                "minLevel": "12",
                 "rate": "0.19921"
             },
             "1": {
-                "number": "11",
-                "minLevel": "9",
+                "number": "69",
+                "minLevel": "12",
                 "rate": "0.19921"
             },
             "2": {
@@ -1973,38 +2143,38 @@
                 "rate": "0.15234"
             },
             "3": {
-                "number": "69",
-                "minLevel": "12",
+                "number": "43",
+                "minLevel": "14",
                 "rate": "0.09765"
             },
             "4": {
                 "number": "69",
-                "minLevel": "13",
+                "minLevel": "14",
                 "rate": "0.09765"
             },
             "5": {
-                "number": "63",
-                "minLevel": "12",
+                "number": "16",
+                "minLevel": "15",
                 "rate": "0.09765"
             },
             "6": {
-                "number": "69",
-                "minLevel": "14",
+                "number": "48",
+                "minLevel": "13",
                 "rate": "0.05078"
             },
             "7": {
-                "number": "63",
-                "minLevel": "10",
+                "number": "48",
+                "minLevel": "16",
                 "rate": "0.05078"
             },
             "8": {
-                "number": "14",
-                "minLevel": "7",
+                "number": "16",
+                "minLevel": "17",
                 "rate": "0.04297"
             },
             "9": {
-                "number": "13",
-                "minLevel": "8",
+                "number": "17",
+                "minLevel": "17",
                 "rate": "0.01172"
             }
         },
@@ -2029,19 +2199,24 @@
         },
         "Super Rod": {
             "0": {
-                "number": "54",
-                "minLevel": "15",
-                "rate": "0.33333"
+                "number": "98",
+                "minLevel": "10",
+                "rate": "0.25"
             },
             "1": {
-                "number": "118",
-                "minLevel": "15",
-                "rate": "0.33333"
-            },
-            "2": {
                 "number": "98",
                 "minLevel": "15",
-                "rate": "0.33333"
+                "rate": "0.25"
+            },
+            "2": {
+                "number": "99",
+                "minLevel": "15",
+                "rate": "0.25"
+            },
+            "3": {
+                "number": "99",
+                "minLevel": "25",
+                "rate": "0.25"
             }
         }
     },
@@ -2067,23 +2242,23 @@
         },
         "Super Rod": {
             "0": {
-                "number": "61",
-                "minLevel": "23",
+                "number": "118",
+                "minLevel": "5",
                 "rate": "0.25"
             },
             "1": {
-                "number": "61",
-                "minLevel": "23",
+                "number": "118",
+                "minLevel": "10",
                 "rate": "0.25"
             },
             "2": {
-                "number": "79",
+                "number": "118",
                 "minLevel": "15",
                 "rate": "0.25"
             },
             "3": {
-                "number": "79",
-                "minLevel": "15",
+                "number": "118",
+                "minLevel": "20",
                 "rate": "0.25"
             }
         }
@@ -2095,27 +2270,27 @@
             },
             "0": {
                 "number": "42",
-                "minLevel": "46",
+                "minLevel": "50",
                 "rate": "0.19921"
             },
             "1": {
-                "number": "97",
-                "minLevel": "46",
+                "number": "42",
+                "minLevel": "55",
                 "rate": "0.19921"
             },
             "2": {
-                "number": "82",
-                "minLevel": "46",
+                "number": "75",
+                "minLevel": "45",
                 "rate": "0.15234"
             },
             "3": {
-                "number": "85",
-                "minLevel": "49",
+                "number": "44",
+                "minLevel": "55",
                 "rate": "0.09765"
             },
             "4": {
-                "number": "49",
-                "minLevel": "49",
+                "number": "70",
+                "minLevel": "55",
                 "rate": "0.09765"
             },
             "5": {
@@ -2124,110 +2299,12 @@
                 "rate": "0.09765"
             },
             "6": {
-                "number": "64",
-                "minLevel": "49",
+                "number": "49",
+                "minLevel": "54",
                 "rate": "0.05078"
             },
             "7": {
                 "number": "47",
-                "minLevel": "52",
-                "rate": "0.05078"
-            },
-            "8": {
-                "number": "26",
-                "minLevel": "53",
-                "rate": "0.04297"
-            },
-            "9": {
-                "number": "132",
-                "minLevel": "53",
-                "rate": "0.01172"
-            }
-        },
-        "Old Rod": {
-            "0": {
-                "number": "129",
-                "minLevel": "5",
-                "rate": "1"
-            }
-        },
-        "Good Rod": {
-            "0": {
-                "number": "118",
-                "minLevel": "10",
-                "rate": "0.5"
-            },
-            "1": {
-                "number": "60",
-                "minLevel": "10",
-                "rate": "0.5"
-            }
-        },
-        "Super Rod": {
-            "0": {
-                "number": "80",
-                "minLevel": "23",
-                "rate": "0.25"
-            },
-            "1": {
-                "number": "119",
-                "minLevel": "23",
-                "rate": "0.25"
-            },
-            "2": {
-                "number": "99",
-                "minLevel": "23",
-                "rate": "0.25"
-            },
-            "3": {
-                "number": "117",
-                "minLevel": "23",
-                "rate": "0.25"
-            }
-        }
-    },
-    "Cerulean Cave - 2F": {
-        "Walk": {
-            "variables": {
-                "repel": "true"
-            },
-            "0": {
-                "number": "85",
-                "minLevel": "51",
-                "rate": "0.19921"
-            },
-            "1": {
-                "number": "49",
-                "minLevel": "51",
-                "rate": "0.19921"
-            },
-            "2": {
-                "number": "64",
-                "minLevel": "51",
-                "rate": "0.15234"
-            },
-            "3": {
-                "number": "112",
-                "minLevel": "52",
-                "rate": "0.09765"
-            },
-            "4": {
-                "number": "105",
-                "minLevel": "52",
-                "rate": "0.09765"
-            },
-            "5": {
-                "number": "101",
-                "minLevel": "52",
-                "rate": "0.09765"
-            },
-            "6": {
-                "number": "113",
-                "minLevel": "56",
-                "rate": "0.05078"
-            },
-            "7": {
-                "number": "40",
                 "minLevel": "54",
                 "rate": "0.05078"
             },
@@ -2241,6 +2318,104 @@
                 "minLevel": "60",
                 "rate": "0.01172"
             }
+        },
+        "Old Rod": {
+            "0": {
+                "number": "129",
+                "minLevel": "5",
+                "rate": "1"
+            }
+        },
+        "Good Rod": {
+            "0": {
+                "number": "118",
+                "minLevel": "10",
+                "rate": "0.5"
+            },
+            "1": {
+                "number": "60",
+                "minLevel": "10",
+                "rate": "0.5"
+            }
+        },
+        "Super Rod": {
+            "0": {
+                "number": "118",
+                "minLevel": "25",
+                "rate": "0.25"
+            },
+            "1": {
+                "number": "119",
+                "minLevel": "35",
+                "rate": "0.25"
+            },
+            "2": {
+                "number": "119",
+                "minLevel": "45",
+                "rate": "0.25"
+            },
+            "3": {
+                "number": "119",
+                "minLevel": "55",
+                "rate": "0.25"
+            }
+        }
+    },
+    "Cerulean Cave - 2F": {
+        "Walk": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "42",
+                "minLevel": "52",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "42",
+                "minLevel": "57",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "75",
+                "minLevel": "50",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "28",
+                "minLevel": "56",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "111",
+                "minLevel": "50",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "132",
+                "minLevel": "60",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "44",
+                "minLevel": "58",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "70",
+                "minLevel": "58",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "112",
+                "minLevel": "60",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "112",
+                "minLevel": "58",
+                "rate": "0.01172"
+            }
         }
     },
     "Cerulean Cave - B1F": {
@@ -2249,38 +2424,38 @@
                 "repel": "true"
             },
             "0": {
-                "number": "112",
-                "minLevel": "55",
+                "number": "42",
+                "minLevel": "54",
                 "rate": "0.19921"
             },
             "1": {
-                "number": "105",
-                "minLevel": "55",
+                "number": "42",
+                "minLevel": "59",
                 "rate": "0.19921"
             },
             "2": {
-                "number": "101",
+                "number": "75",
                 "minLevel": "55",
                 "rate": "0.15234"
             },
             "3": {
-                "number": "113",
-                "minLevel": "64",
+                "number": "111",
+                "minLevel": "52",
                 "rate": "0.09765"
             },
             "4": {
-                "number": "47",
-                "minLevel": "64",
+                "number": "112",
+                "minLevel": "62",
                 "rate": "0.09765"
             },
             "5": {
-                "number": "26",
-                "minLevel": "64",
+                "number": "132",
+                "minLevel": "60",
                 "rate": "0.09765"
             },
             "6": {
-                "number": "28",
-                "minLevel": "57",
+                "number": "113",
+                "minLevel": "56",
                 "rate": "0.05078"
             },
             "7": {
@@ -2289,13 +2464,13 @@
                 "rate": "0.05078"
             },
             "8": {
-                "number": "132",
-                "minLevel": "63",
+                "number": "108",
+                "minLevel": "55",
                 "rate": "0.04297"
             },
             "9": {
-                "number": "132",
-                "minLevel": "67",
+                "number": "108",
+                "minLevel": "50",
                 "rate": "0.01172"
             }
         },
@@ -2320,23 +2495,23 @@
         },
         "Super Rod": {
             "0": {
-                "number": "80",
-                "minLevel": "23",
+                "number": "118",
+                "minLevel": "30",
                 "rate": "0.25"
             },
             "1": {
                 "number": "119",
-                "minLevel": "23",
+                "minLevel": "40",
                 "rate": "0.25"
             },
             "2": {
-                "number": "99",
-                "minLevel": "23",
+                "number": "119",
+                "minLevel": "50",
                 "rate": "0.25"
             },
             "3": {
-                "number": "117",
-                "minLevel": "23",
+                "number": "119",
+                "minLevel": "60",
                 "rate": "0.25"
             }
         }
@@ -2363,19 +2538,24 @@
         },
         "Super Rod": {
             "0": {
-                "number": "54",
-                "minLevel": "15",
-                "rate": "0.33333"
+                "number": "118",
+                "minLevel": "25",
+                "rate": "0.25"
             },
             "1": {
                 "number": "118",
-                "minLevel": "15",
-                "rate": "0.33333"
+                "minLevel": "30",
+                "rate": "0.25"
             },
             "2": {
-                "number": "98",
-                "minLevel": "15",
-                "rate": "0.33333"
+                "number": "119",
+                "minLevel": "30",
+                "rate": "0.25"
+            },
+            "3": {
+                "number": "119",
+                "minLevel": "40",
+                "rate": "0.25"
             }
         }
     },
@@ -2406,18 +2586,18 @@
                 "rate": "0.25"
             },
             "1": {
-                "number": "116",
+                "number": "72",
                 "minLevel": "15",
                 "rate": "0.25"
             },
             "2": {
-                "number": "90",
-                "minLevel": "15",
+                "number": "120",
+                "minLevel": "10",
                 "rate": "0.25"
             },
             "3": {
-                "number": "118",
-                "minLevel": "15",
+                "number": "72",
+                "minLevel": "30",
                 "rate": "0.25"
             }
         }
@@ -2501,23 +2681,23 @@
         },
         "Super Rod": {
             "0": {
-                "number": "119",
-                "minLevel": "23",
+                "number": "129",
+                "minLevel": "5",
                 "rate": "0.25"
             },
             "1": {
-                "number": "98",
-                "minLevel": "15",
+                "number": "129",
+                "minLevel": "10",
                 "rate": "0.25"
             },
             "2": {
-                "number": "118",
+                "number": "129",
                 "minLevel": "15",
                 "rate": "0.25"
             },
             "3": {
-                "number": "129",
-                "minLevel": "15",
+                "number": "130",
+                "minLevel": "20",
                 "rate": "0.25"
             }
         }
@@ -2538,18 +2718,18 @@
                 "rate": "0.19921"
             },
             "2": {
-                "number": "41",
-                "minLevel": "9",
+                "number": "74",
+                "minLevel": "10",
                 "rate": "0.15234"
             },
             "3": {
-                "number": "74",
-                "minLevel": "8",
+                "number": "41",
+                "minLevel": "6",
                 "rate": "0.09765"
             },
             "4": {
                 "number": "41",
-                "minLevel": "6",
+                "minLevel": "7",
                 "rate": "0.09765"
             },
             "5": {
@@ -2563,18 +2743,18 @@
                 "rate": "0.05078"
             },
             "7": {
-                "number": "46",
-                "minLevel": "8",
+                "number": "41",
+                "minLevel": "11",
                 "rate": "0.05078"
             },
             "8": {
-                "number": "41",
-                "minLevel": "11",
+                "number": "27",
+                "minLevel": "12",
                 "rate": "0.04297"
             },
             "9": {
                 "number": "35",
-                "minLevel": "8",
+                "minLevel": "11",
                 "rate": "0.01172"
             }
         }
@@ -2591,47 +2771,47 @@
             },
             "1": {
                 "number": "41",
-                "minLevel": "7",
+                "minLevel": "9",
                 "rate": "0.19921"
             },
             "2": {
-                "number": "74",
-                "minLevel": "7",
+                "number": "41",
+                "minLevel": "10",
                 "rate": "0.15234"
             },
             "3": {
                 "number": "74",
-                "minLevel": "8",
+                "minLevel": "10",
                 "rate": "0.09765"
             },
             "4": {
-                "number": "41",
-                "minLevel": "9",
+                "number": "74",
+                "minLevel": "11",
                 "rate": "0.09765"
             },
             "5": {
-                "number": "46",
-                "minLevel": "10",
+                "number": "41",
+                "minLevel": "11",
                 "rate": "0.09765"
             },
             "6": {
-                "number": "41",
-                "minLevel": "10",
+                "number": "46",
+                "minLevel": "9",
                 "rate": "0.05078"
             },
             "7": {
-                "number": "41",
+                "number": "46",
                 "minLevel": "11",
                 "rate": "0.05078"
             },
             "8": {
                 "number": "35",
-                "minLevel": "9",
+                "minLevel": "10",
                 "rate": "0.04297"
             },
             "9": {
-                "number": "74",
-                "minLevel": "9",
+                "number": "35",
+                "minLevel": "12",
                 "rate": "0.01172"
             }
         }
@@ -2643,22 +2823,22 @@
             },
             "0": {
                 "number": "41",
-                "minLevel": "9",
+                "minLevel": "10",
                 "rate": "0.19921"
             },
             "1": {
                 "number": "74",
-                "minLevel": "9",
+                "minLevel": "11",
                 "rate": "0.19921"
             },
             "2": {
-                "number": "41",
-                "minLevel": "10",
+                "number": "46",
+                "minLevel": "13",
                 "rate": "0.15234"
             },
             "3": {
-                "number": "74",
-                "minLevel": "10",
+                "number": "41",
+                "minLevel": "11",
                 "rate": "0.09765"
             },
             "4": {
@@ -2667,28 +2847,28 @@
                 "rate": "0.09765"
             },
             "5": {
-                "number": "46",
-                "minLevel": "10",
+                "number": "41",
+                "minLevel": "12",
                 "rate": "0.09765"
             },
             "6": {
-                "number": "46",
-                "minLevel": "12",
+                "number": "41",
+                "minLevel": "13",
                 "rate": "0.05078"
             },
             "7": {
                 "number": "35",
-                "minLevel": "10",
+                "minLevel": "9",
                 "rate": "0.05078"
             },
             "8": {
-                "number": "41",
-                "minLevel": "12",
+                "number": "35",
+                "minLevel": "11",
                 "rate": "0.04297"
             },
             "9": {
                 "number": "35",
-                "minLevel": "12",
+                "minLevel": "13",
                 "rate": "0.01172"
             }
         }
@@ -2715,23 +2895,23 @@
         },
         "Super Rod": {
             "0": {
-                "number": "72",
-                "minLevel": "15",
+                "number": "120",
+                "minLevel": "10",
                 "rate": "0.25"
             },
             "1": {
                 "number": "72",
-                "minLevel": "15",
+                "minLevel": "10",
                 "rate": "0.25"
             },
             "2": {
-                "number": "60",
-                "minLevel": "15",
+                "number": "120",
+                "minLevel": "5",
                 "rate": "0.25"
             },
             "3": {
-                "number": "60",
-                "minLevel": "15",
+                "number": "72",
+                "minLevel": "20",
                 "rate": "0.25"
             }
         }
@@ -2742,53 +2922,53 @@
                 "repel": "true"
             },
             "0": {
-                "number": "88",
-                "minLevel": "32",
+                "number": "19",
+                "minLevel": "34",
                 "rate": "0.19921"
             },
             "1": {
-                "number": "88",
-                "minLevel": "30",
+                "number": "20",
+                "minLevel": "34",
                 "rate": "0.19921"
             },
             "2": {
-                "number": "77",
-                "minLevel": "34",
+                "number": "88",
+                "minLevel": "23",
                 "rate": "0.15234"
             },
             "3": {
-                "number": "77",
-                "minLevel": "30",
+                "number": "58",
+                "minLevel": "26",
                 "rate": "0.09765"
             },
             "4": {
-                "number": "37",
-                "minLevel": "34",
+                "number": "19",
+                "minLevel": "37",
                 "rate": "0.09765"
             },
             "5": {
-                "number": "77",
-                "minLevel": "32",
+                "number": "20",
+                "minLevel": "37",
                 "rate": "0.09765"
             },
             "6": {
-                "number": "109",
+                "number": "58",
                 "minLevel": "30",
                 "rate": "0.05078"
             },
             "7": {
-                "number": "77",
-                "minLevel": "28",
+                "number": "88",
+                "minLevel": "26",
                 "rate": "0.05078"
             },
             "8": {
-                "number": "89",
-                "minLevel": "37",
+                "number": "58",
+                "minLevel": "34",
                 "rate": "0.04297"
             },
             "9": {
-                "number": "110",
-                "minLevel": "39",
+                "number": "58",
+                "minLevel": "38",
                 "rate": "0.01172"
             }
         }
@@ -2799,53 +2979,53 @@
                 "repel": "true"
             },
             "0": {
-                "number": "37",
-                "minLevel": "32",
+                "number": "19",
+                "minLevel": "37",
                 "rate": "0.19921"
             },
             "1": {
-                "number": "88",
-                "minLevel": "34",
+                "number": "20",
+                "minLevel": "37",
                 "rate": "0.19921"
             },
             "2": {
                 "number": "88",
-                "minLevel": "34",
+                "minLevel": "36",
                 "rate": "0.15234"
             },
             "3": {
-                "number": "77",
-                "minLevel": "30",
+                "number": "88",
+                "minLevel": "29",
                 "rate": "0.09765"
             },
             "4": {
-                "number": "88",
-                "minLevel": "30",
+                "number": "19",
+                "minLevel": "40",
                 "rate": "0.09765"
             },
             "5": {
-                "number": "77",
-                "minLevel": "32",
+                "number": "20",
+                "minLevel": "40",
                 "rate": "0.09765"
             },
             "6": {
-                "number": "109",
-                "minLevel": "30",
+                "number": "88",
+                "minLevel": "32",
                 "rate": "0.05078"
             },
             "7": {
-                "number": "77",
-                "minLevel": "28",
+                "number": "88",
+                "minLevel": "35",
                 "rate": "0.05078"
             },
             "8": {
                 "number": "89",
-                "minLevel": "39",
+                "minLevel": "35",
                 "rate": "0.04297"
             },
             "9": {
-                "number": "110",
-                "minLevel": "37",
+                "number": "89",
+                "minLevel": "38",
                 "rate": "0.01172"
             }
         }
@@ -2856,53 +3036,53 @@
                 "repel": "true"
             },
             "0": {
-                "number": "88",
-                "minLevel": "31",
+                "number": "19",
+                "minLevel": "40",
                 "rate": "0.19921"
             },
             "1": {
-                "number": "37",
-                "minLevel": "33",
+                "number": "20",
+                "minLevel": "40",
                 "rate": "0.19921"
             },
             "2": {
                 "number": "88",
-                "minLevel": "35",
+                "minLevel": "32",
                 "rate": "0.15234"
             },
             "3": {
-                "number": "77",
-                "minLevel": "32",
+                "number": "88",
+                "minLevel": "35",
                 "rate": "0.09765"
             },
             "4": {
-                "number": "126",
-                "minLevel": "34",
+                "number": "19",
+                "minLevel": "43",
                 "rate": "0.09765"
             },
             "5": {
-                "number": "89",
-                "minLevel": "40",
+                "number": "20",
+                "minLevel": "43",
                 "rate": "0.09765"
             },
             "6": {
-                "number": "109",
-                "minLevel": "34",
+                "number": "88",
+                "minLevel": "38",
                 "rate": "0.05078"
             },
             "7": {
-                "number": "89",
+                "number": "88",
                 "minLevel": "38",
                 "rate": "0.05078"
             },
             "8": {
-                "number": "77",
-                "minLevel": "36",
+                "number": "89",
+                "minLevel": "38",
                 "rate": "0.04297"
             },
             "9": {
-                "number": "110",
-                "minLevel": "42",
+                "number": "89",
+                "minLevel": "41",
                 "rate": "0.01172"
             }
         }
@@ -2914,52 +3094,52 @@
             },
             "0": {
                 "number": "88",
-                "minLevel": "33",
+                "minLevel": "35",
                 "rate": "0.19921"
             },
             "1": {
                 "number": "88",
-                "minLevel": "31",
+                "minLevel": "38",
                 "rate": "0.19921"
             },
             "2": {
-                "number": "37",
-                "minLevel": "35",
+                "number": "20",
+                "minLevel": "37",
                 "rate": "0.15234"
             },
             "3": {
-                "number": "77",
-                "minLevel": "32",
-                "rate": "0.09765"
-            },
-            "4": {
-                "number": "88",
-                "minLevel": "31",
-                "rate": "0.09765"
-            },
-            "5": {
-                "number": "89",
+                "number": "20",
                 "minLevel": "40",
                 "rate": "0.09765"
             },
+            "4": {
+                "number": "89",
+                "minLevel": "41",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "20",
+                "minLevel": "43",
+                "rate": "0.09765"
+            },
             "6": {
-                "number": "77",
-                "minLevel": "34",
+                "number": "132",
+                "minLevel": "24",
                 "rate": "0.05078"
             },
             "7": {
-                "number": "109",
-                "minLevel": "35",
+                "number": "20",
+                "minLevel": "46",
                 "rate": "0.05078"
             },
             "8": {
-                "number": "126",
-                "minLevel": "42",
+                "number": "132",
+                "minLevel": "18",
                 "rate": "0.04297"
             },
             "9": {
-                "number": "110",
-                "minLevel": "42",
+                "number": "132",
+                "minLevel": "12",
                 "rate": "0.01172"
             }
         }
@@ -2991,27 +3171,27 @@
             },
             "4": {
                 "number": "92",
-                "minLevel": "19",
+                "minLevel": "24",
                 "rate": "0.09765"
             },
             "5": {
                 "number": "92",
-                "minLevel": "18",
+                "minLevel": "19",
                 "rate": "0.09765"
             },
             "6": {
                 "number": "92",
-                "minLevel": "24",
+                "minLevel": "18",
                 "rate": "0.05078"
             },
             "7": {
-                "number": "104",
-                "minLevel": "20",
+                "number": "92",
+                "minLevel": "25",
                 "rate": "0.05078"
             },
             "8": {
-                "number": "104",
-                "minLevel": "22",
+                "number": "93",
+                "minLevel": "20",
                 "rate": "0.04297"
             },
             "9": {
@@ -3048,32 +3228,32 @@
             },
             "4": {
                 "number": "92",
-                "minLevel": "19",
+                "minLevel": "24",
                 "rate": "0.09765"
             },
             "5": {
                 "number": "92",
-                "minLevel": "18",
+                "minLevel": "19",
                 "rate": "0.09765"
             },
             "6": {
-                "number": "93",
-                "minLevel": "25",
+                "number": "92",
+                "minLevel": "18",
                 "rate": "0.05078"
             },
             "7": {
-                "number": "104",
-                "minLevel": "20",
+                "number": "92",
+                "minLevel": "25",
                 "rate": "0.05078"
             },
             "8": {
-                "number": "104",
-                "minLevel": "22",
+                "number": "93",
+                "minLevel": "20",
                 "rate": "0.04297"
             },
             "9": {
-                "number": "92",
-                "minLevel": "24",
+                "number": "93",
+                "minLevel": "25",
                 "rate": "0.01172"
             }
         }
@@ -3085,52 +3265,52 @@
             },
             "0": {
                 "number": "92",
-                "minLevel": "20",
+                "minLevel": "22",
                 "rate": "0.19921"
             },
             "1": {
                 "number": "92",
-                "minLevel": "21",
+                "minLevel": "23",
                 "rate": "0.19921"
             },
             "2": {
                 "number": "92",
-                "minLevel": "22",
+                "minLevel": "24",
                 "rate": "0.15234"
             },
             "3": {
                 "number": "92",
-                "minLevel": "23",
+                "minLevel": "25",
                 "rate": "0.09765"
             },
             "4": {
                 "number": "92",
-                "minLevel": "19",
+                "minLevel": "26",
                 "rate": "0.09765"
             },
             "5": {
                 "number": "92",
-                "minLevel": "18",
+                "minLevel": "21",
                 "rate": "0.09765"
             },
             "6": {
-                "number": "93",
-                "minLevel": "25",
-                "rate": "0.05078"
-            },
-            "7": {
                 "number": "104",
                 "minLevel": "20",
                 "rate": "0.05078"
             },
+            "7": {
+                "number": "92",
+                "minLevel": "27",
+                "rate": "0.05078"
+            },
             "8": {
-                "number": "104",
+                "number": "93",
                 "minLevel": "22",
                 "rate": "0.04297"
             },
             "9": {
-                "number": "92",
-                "minLevel": "24",
+                "number": "93",
+                "minLevel": "27",
                 "rate": "0.01172"
             }
         }
@@ -3142,52 +3322,52 @@
             },
             "0": {
                 "number": "92",
-                "minLevel": "21",
+                "minLevel": "22",
                 "rate": "0.19921"
             },
             "1": {
                 "number": "92",
-                "minLevel": "22",
+                "minLevel": "23",
                 "rate": "0.19921"
             },
             "2": {
                 "number": "92",
-                "minLevel": "23",
+                "minLevel": "24",
                 "rate": "0.15234"
             },
             "3": {
                 "number": "92",
-                "minLevel": "24",
+                "minLevel": "25",
                 "rate": "0.09765"
             },
             "4": {
                 "number": "92",
-                "minLevel": "20",
+                "minLevel": "26",
                 "rate": "0.09765"
             },
             "5": {
                 "number": "92",
-                "minLevel": "19",
+                "minLevel": "21",
                 "rate": "0.09765"
             },
             "6": {
-                "number": "93",
-                "minLevel": "26",
-                "rate": "0.05078"
-            },
-            "7": {
                 "number": "104",
                 "minLevel": "22",
                 "rate": "0.05078"
             },
+            "7": {
+                "number": "92",
+                "minLevel": "27",
+                "rate": "0.05078"
+            },
             "8": {
-                "number": "104",
-                "minLevel": "24",
+                "number": "93",
+                "minLevel": "22",
                 "rate": "0.04297"
             },
             "9": {
                 "number": "93",
-                "minLevel": "28",
+                "minLevel": "27",
                 "rate": "0.01172"
             }
         }
@@ -3199,52 +3379,52 @@
             },
             "0": {
                 "number": "92",
-                "minLevel": "21",
+                "minLevel": "24",
                 "rate": "0.19921"
             },
             "1": {
                 "number": "92",
-                "minLevel": "22",
+                "minLevel": "25",
                 "rate": "0.19921"
             },
             "2": {
                 "number": "92",
-                "minLevel": "23",
+                "minLevel": "26",
                 "rate": "0.15234"
             },
             "3": {
                 "number": "92",
-                "minLevel": "24",
+                "minLevel": "27",
                 "rate": "0.09765"
             },
             "4": {
                 "number": "92",
-                "minLevel": "20",
+                "minLevel": "28",
                 "rate": "0.09765"
             },
             "5": {
-                "number": "93",
-                "minLevel": "28",
+                "number": "92",
+                "minLevel": "23",
                 "rate": "0.09765"
             },
             "6": {
                 "number": "104",
-                "minLevel": "22",
+                "minLevel": "24",
                 "rate": "0.05078"
             },
             "7": {
-                "number": "104",
-                "minLevel": "24",
+                "number": "92",
+                "minLevel": "29",
                 "rate": "0.05078"
             },
             "8": {
                 "number": "93",
-                "minLevel": "28",
+                "minLevel": "24",
                 "rate": "0.04297"
             },
             "9": {
                 "number": "93",
-                "minLevel": "30",
+                "minLevel": "29",
                 "rate": "0.01172"
             }
         }
@@ -3255,53 +3435,53 @@
                 "repel": "true"
             },
             "0": {
-                "number": "100",
-                "minLevel": "21",
+                "number": "81",
+                "minLevel": "30",
                 "rate": "0.19921"
             },
             "1": {
                 "number": "81",
-                "minLevel": "21",
+                "minLevel": "35",
                 "rate": "0.19921"
             },
             "2": {
-                "number": "25",
-                "minLevel": "20",
+                "number": "82",
+                "minLevel": "33",
                 "rate": "0.15234"
             },
             "3": {
-                "number": "25",
-                "minLevel": "24",
+                "number": "100",
+                "minLevel": "33",
                 "rate": "0.09765"
             },
             "4": {
-                "number": "81",
-                "minLevel": "23",
+                "number": "100",
+                "minLevel": "37",
                 "rate": "0.09765"
             },
             "5": {
-                "number": "100",
-                "minLevel": "23",
+                "number": "88",
+                "minLevel": "33",
                 "rate": "0.09765"
             },
             "6": {
-                "number": "82",
-                "minLevel": "32",
+                "number": "88",
+                "minLevel": "37",
                 "rate": "0.05078"
             },
             "7": {
                 "number": "82",
-                "minLevel": "35",
+                "minLevel": "38",
                 "rate": "0.05078"
             },
             "8": {
-                "number": "26",
+                "number": "89",
                 "minLevel": "33",
                 "rate": "0.04297"
             },
             "9": {
-                "number": "26",
-                "minLevel": "36",
+                "number": "89",
+                "minLevel": "37",
                 "rate": "0.01172"
             }
         }
@@ -3313,37 +3493,37 @@
             },
             "0": {
                 "number": "41",
-                "minLevel": "16",
+                "minLevel": "15",
                 "rate": "0.19921"
             },
             "1": {
-                "number": "41",
-                "minLevel": "17",
+                "number": "74",
+                "minLevel": "16",
                 "rate": "0.19921"
             },
             "2": {
-                "number": "74",
+                "number": "41",
                 "minLevel": "17",
                 "rate": "0.15234"
             },
             "3": {
-                "number": "66",
-                "minLevel": "15",
+                "number": "41",
+                "minLevel": "19",
                 "rate": "0.09765"
             },
             "4": {
                 "number": "74",
-                "minLevel": "16",
+                "minLevel": "18",
                 "rate": "0.09765"
             },
             "5": {
-                "number": "41",
-                "minLevel": "18",
+                "number": "74",
+                "minLevel": "20",
                 "rate": "0.09765"
             },
             "6": {
                 "number": "41",
-                "minLevel": "15",
+                "minLevel": "21",
                 "rate": "0.05078"
             },
             "7": {
@@ -3352,13 +3532,13 @@
                 "rate": "0.05078"
             },
             "8": {
-                "number": "95",
-                "minLevel": "13",
+                "number": "66",
+                "minLevel": "19",
                 "rate": "0.04297"
             },
             "9": {
-                "number": "95",
-                "minLevel": "15",
+                "number": "66",
+                "minLevel": "21",
                 "rate": "0.01172"
             }
         }
@@ -3370,52 +3550,52 @@
             },
             "0": {
                 "number": "41",
-                "minLevel": "16",
+                "minLevel": "20",
                 "rate": "0.19921"
             },
             "1": {
-                "number": "41",
+                "number": "74",
                 "minLevel": "17",
                 "rate": "0.19921"
             },
             "2": {
-                "number": "74",
-                "minLevel": "17",
+                "number": "66",
+                "minLevel": "18",
                 "rate": "0.15234"
             },
             "3": {
-                "number": "66",
-                "minLevel": "15",
+                "number": "41",
+                "minLevel": "21",
                 "rate": "0.09765"
             },
             "4": {
-                "number": "74",
-                "minLevel": "16",
+                "number": "41",
+                "minLevel": "22",
                 "rate": "0.09765"
             },
             "5": {
-                "number": "41",
-                "minLevel": "18",
+                "number": "74",
+                "minLevel": "21",
                 "rate": "0.09765"
             },
             "6": {
                 "number": "66",
-                "minLevel": "17",
+                "minLevel": "20",
                 "rate": "0.05078"
             },
             "7": {
                 "number": "66",
-                "minLevel": "17",
+                "minLevel": "14",
                 "rate": "0.05078"
             },
             "8": {
                 "number": "95",
-                "minLevel": "13",
+                "minLevel": "18",
                 "rate": "0.04297"
             },
             "9": {
-                "number": "74",
-                "minLevel": "18",
+                "number": "95",
+                "minLevel": "22",
                 "rate": "0.01172"
             }
         }
@@ -3426,53 +3606,53 @@
                 "repel": "true"
             },
             "0": {
-                "number": "29",
-                "minLevel": "22",
+                "number": "32",
+                "minLevel": "14",
                 "rate": "0.19921"
             },
             "1": {
-                "number": "111",
-                "minLevel": "25",
+                "number": "29",
+                "minLevel": "36",
                 "rate": "0.19921"
             },
             "2": {
-                "number": "48",
-                "minLevel": "22",
+                "number": "102",
+                "minLevel": "24",
                 "rate": "0.15234"
             },
             "3": {
-                "number": "102",
-                "minLevel": "24",
+                "number": "111",
+                "minLevel": "20",
                 "rate": "0.09765"
             },
             "4": {
-                "number": "30",
-                "minLevel": "31",
+                "number": "33",
+                "minLevel": "23",
                 "rate": "0.09765"
             },
             "5": {
-                "number": "102",
-                "minLevel": "25",
+                "number": "47",
+                "minLevel": "27",
                 "rate": "0.09765"
             },
             "6": {
-                "number": "33",
-                "minLevel": "31",
+                "number": "46",
+                "minLevel": "27",
                 "rate": "0.05078"
             },
             "7": {
                 "number": "47",
-                "minLevel": "30",
+                "minLevel": "32",
                 "rate": "0.05078"
             },
             "8": {
-                "number": "127",
-                "minLevel": "23",
+                "number": "114",
+                "minLevel": "22",
                 "rate": "0.04297"
             },
             "9": {
                 "number": "113",
-                "minLevel": "23",
+                "minLevel": "7",
                 "rate": "0.01172"
             }
         },
@@ -3497,22 +3677,22 @@
         },
         "Super Rod": {
             "0": {
-                "number": "147",
-                "minLevel": "15",
+                "number": "129",
+                "minLevel": "5",
                 "rate": "0.25"
             },
             "1": {
-                "number": "98",
-                "minLevel": "15",
+                "number": "129",
+                "minLevel": "10",
                 "rate": "0.25"
             },
             "2": {
-                "number": "54",
-                "minLevel": "15",
+                "number": "147",
+                "minLevel": "10",
                 "rate": "0.25"
             },
             "3": {
-                "number": "79",
+                "number": "148",
                 "minLevel": "15",
                 "rate": "0.25"
             }
@@ -3524,53 +3704,53 @@
                 "repel": "true"
             },
             "0": {
-                "number": "29",
-                "minLevel": "24",
+                "number": "32",
+                "minLevel": "21",
                 "rate": "0.19921"
             },
             "1": {
-                "number": "84",
-                "minLevel": "26",
+                "number": "29",
+                "minLevel": "29",
                 "rate": "0.19921"
             },
             "2": {
-                "number": "46",
+                "number": "102",
                 "minLevel": "22",
                 "rate": "0.15234"
             },
             "3": {
-                "number": "102",
-                "minLevel": "25",
+                "number": "128",
+                "minLevel": "21",
                 "rate": "0.09765"
             },
             "4": {
                 "number": "30",
-                "minLevel": "33",
+                "minLevel": "32",
                 "rate": "0.09765"
             },
             "5": {
-                "number": "102",
-                "minLevel": "23",
+                "number": "104",
+                "minLevel": "19",
                 "rate": "0.09765"
             },
             "6": {
-                "number": "32",
-                "minLevel": "24",
+                "number": "102",
+                "minLevel": "26",
                 "rate": "0.05078"
             },
             "7": {
-                "number": "47",
-                "minLevel": "25",
+                "number": "105",
+                "minLevel": "24",
                 "rate": "0.05078"
             },
             "8": {
-                "number": "115",
-                "minLevel": "25",
+                "number": "113",
+                "minLevel": "21",
                 "rate": "0.04297"
             },
             "9": {
-                "number": "127",
-                "minLevel": "28",
+                "number": "123",
+                "minLevel": "15",
                 "rate": "0.01172"
             }
         },
@@ -3595,22 +3775,22 @@
         },
         "Super Rod": {
             "0": {
-                "number": "147",
-                "minLevel": "15",
+                "number": "129",
+                "minLevel": "5",
                 "rate": "0.25"
             },
             "1": {
-                "number": "98",
-                "minLevel": "15",
+                "number": "129",
+                "minLevel": "10",
                 "rate": "0.25"
             },
             "2": {
-                "number": "54",
+                "number": "129",
                 "minLevel": "15",
                 "rate": "0.25"
             },
             "3": {
-                "number": "79",
+                "number": "147",
                 "minLevel": "15",
                 "rate": "0.25"
             }
@@ -3622,53 +3802,53 @@
                 "repel": "true"
             },
             "0": {
-                "number": "29",
-                "minLevel": "22",
-                "rate": "0.19921"
-            },
-            "1": {
-                "number": "111",
+                "number": "32",
                 "minLevel": "26",
                 "rate": "0.19921"
             },
+            "1": {
+                "number": "29",
+                "minLevel": "14",
+                "rate": "0.19921"
+            },
             "2": {
-                "number": "46",
-                "minLevel": "23",
+                "number": "102",
+                "minLevel": "20",
                 "rate": "0.15234"
             },
             "3": {
-                "number": "102",
+                "number": "111",
                 "minLevel": "25",
                 "rate": "0.09765"
             },
             "4": {
                 "number": "30",
-                "minLevel": "30",
+                "minLevel": "23",
                 "rate": "0.09765"
             },
             "5": {
-                "number": "102",
-                "minLevel": "27",
+                "number": "115",
+                "minLevel": "28",
                 "rate": "0.09765"
             },
             "6": {
-                "number": "33",
-                "minLevel": "30",
+                "number": "104",
+                "minLevel": "16",
                 "rate": "0.05078"
             },
             "7": {
-                "number": "49",
-                "minLevel": "32",
+                "number": "115",
+                "minLevel": "33",
                 "rate": "0.05078"
             },
             "8": {
-                "number": "113",
-                "minLevel": "26",
+                "number": "123",
+                "minLevel": "25",
                 "rate": "0.04297"
             },
             "9": {
-                "number": "128",
-                "minLevel": "28",
+                "number": "127",
+                "minLevel": "15",
                 "rate": "0.01172"
             }
         },
@@ -3693,22 +3873,22 @@
         },
         "Super Rod": {
             "0": {
-                "number": "147",
-                "minLevel": "15",
+                "number": "129",
+                "minLevel": "5",
                 "rate": "0.25"
             },
             "1": {
-                "number": "98",
-                "minLevel": "15",
+                "number": "129",
+                "minLevel": "10",
                 "rate": "0.25"
             },
             "2": {
-                "number": "54",
+                "number": "129",
                 "minLevel": "15",
                 "rate": "0.25"
             },
             "3": {
-                "number": "79",
+                "number": "147",
                 "minLevel": "15",
                 "rate": "0.25"
             }
@@ -3720,53 +3900,53 @@
                 "repel": "true"
             },
             "0": {
-                "number": "29",
-                "minLevel": "25",
+                "number": "32",
+                "minLevel": "29",
                 "rate": "0.19921"
             },
             "1": {
-                "number": "84",
-                "minLevel": "26",
+                "number": "29",
+                "minLevel": "21",
                 "rate": "0.19921"
             },
             "2": {
-                "number": "48",
-                "minLevel": "23",
+                "number": "102",
+                "minLevel": "22",
                 "rate": "0.15234"
             },
             "3": {
-                "number": "102",
-                "minLevel": "24",
+                "number": "128",
+                "minLevel": "21",
                 "rate": "0.09765"
             },
             "4": {
-                "number": "30",
-                "minLevel": "33",
+                "number": "33",
+                "minLevel": "32",
                 "rate": "0.09765"
             },
             "5": {
-                "number": "102",
-                "minLevel": "26",
+                "number": "104",
+                "minLevel": "19",
                 "rate": "0.09765"
             },
             "6": {
-                "number": "32",
-                "minLevel": "25",
+                "number": "102",
+                "minLevel": "26",
                 "rate": "0.05078"
             },
             "7": {
-                "number": "49",
-                "minLevel": "31",
+                "number": "105",
+                "minLevel": "24",
                 "rate": "0.05078"
             },
             "8": {
-                "number": "128",
-                "minLevel": "26",
+                "number": "127",
+                "minLevel": "25",
                 "rate": "0.04297"
             },
             "9": {
-                "number": "115",
-                "minLevel": "28",
+                "number": "114",
+                "minLevel": "27",
                 "rate": "0.01172"
             }
         },
@@ -3791,22 +3971,22 @@
         },
         "Super Rod": {
             "0": {
-                "number": "147",
-                "minLevel": "15",
+                "number": "129",
+                "minLevel": "5",
                 "rate": "0.25"
             },
             "1": {
-                "number": "98",
-                "minLevel": "15",
+                "number": "129",
+                "minLevel": "10",
                 "rate": "0.25"
             },
             "2": {
-                "number": "54",
+                "number": "129",
                 "minLevel": "15",
                 "rate": "0.25"
             },
             "3": {
-                "number": "79",
+                "number": "147",
                 "minLevel": "15",
                 "rate": "0.25"
             }
@@ -3818,53 +3998,53 @@
                 "repel": "true"
             },
             "0": {
-                "number": "86",
-                "minLevel": "30",
+                "number": "41",
+                "minLevel": "18",
                 "rate": "0.19921"
             },
             "1": {
-                "number": "54",
-                "minLevel": "30",
+                "number": "98",
+                "minLevel": "25",
                 "rate": "0.19921"
             },
             "2": {
-                "number": "120",
-                "minLevel": "30",
+                "number": "98",
+                "minLevel": "27",
                 "rate": "0.15234"
             },
             "3": {
-                "number": "98",
-                "minLevel": "30",
+                "number": "41",
+                "minLevel": "27",
                 "rate": "0.09765"
             },
             "4": {
-                "number": "98",
-                "minLevel": "28",
+                "number": "41",
+                "minLevel": "36",
                 "rate": "0.09765"
             },
             "5": {
-                "number": "41",
-                "minLevel": "21",
+                "number": "79",
+                "minLevel": "2821",
                 "rate": "0.09765"
             },
             "6": {
-                "number": "42",
-                "minLevel": "29",
+                "number": "79",
+                "minLevel": "30",
                 "rate": "0.05078"
             },
             "7": {
-                "number": "79",
-                "minLevel": "28",
+                "number": "41",
+                "minLevel": "9",
                 "rate": "0.05078"
             },
             "8": {
-                "number": "120",
-                "minLevel": "28",
+                "number": "42",
+                "minLevel": "27",
                 "rate": "0.04297"
             },
             "9": {
-                "number": "80",
-                "minLevel": "38",
+                "number": "42",
+                "minLevel": "36",
                 "rate": "0.01172"
             }
         }
@@ -3875,53 +4055,53 @@
                 "repel": "true"
             },
             "0": {
-                "number": "90",
-                "minLevel": "30",
+                "number": "41",
+                "minLevel": "27",
                 "rate": "0.19921"
             },
             "1": {
                 "number": "98",
-                "minLevel": "30",
+                "minLevel": "26",
                 "rate": "0.19921"
             },
             "2": {
-                "number": "120",
-                "minLevel": "32",
+                "number": "41",
+                "minLevel": "36",
                 "rate": "0.15234"
             },
             "3": {
                 "number": "98",
-                "minLevel": "32",
-                "rate": "0.09765"
-            },
-            "4": {
-                "number": "54",
                 "minLevel": "28",
                 "rate": "0.09765"
             },
+            "4": {
+                "number": "42",
+                "minLevel": "27",
+                "rate": "0.09765"
+            },
             "5": {
-                "number": "86",
-                "minLevel": "30",
+                "number": "79",
+                "minLevel": "29",
                 "rate": "0.09765"
             },
             "6": {
-                "number": "54",
-                "minLevel": "30",
+                "number": "41",
+                "minLevel": "18",
                 "rate": "0.05078"
             },
             "7": {
-                "number": "86",
+                "number": "99",
                 "minLevel": "28",
                 "rate": "0.05078"
             },
             "8": {
-                "number": "87",
-                "minLevel": "38",
+                "number": "86",
+                "minLevel": "22",
                 "rate": "0.04297"
             },
             "9": {
-                "number": "99",
-                "minLevel": "37",
+                "number": "86",
+                "minLevel": "26",
                 "rate": "0.01172"
             }
         }
@@ -3932,53 +4112,53 @@
                 "repel": "true"
             },
             "0": {
-                "number": "86",
-                "minLevel": "30",
+                "number": "41",
+                "minLevel": "27",
                 "rate": "0.19921"
             },
             "1": {
-                "number": "54",
-                "minLevel": "30",
+                "number": "98",
+                "minLevel": "27",
                 "rate": "0.19921"
             },
             "2": {
-                "number": "86",
-                "minLevel": "32",
+                "number": "41",
+                "minLevel": "36",
                 "rate": "0.15234"
             },
             "3": {
-                "number": "54",
-                "minLevel": "32",
+                "number": "42",
+                "minLevel": "27",
                 "rate": "0.09765"
             },
             "4": {
-                "number": "98",
+                "number": "99",
                 "minLevel": "28",
                 "rate": "0.09765"
             },
             "5": {
-                "number": "90",
-                "minLevel": "30",
+                "number": "86",
+                "minLevel": "24",
                 "rate": "0.09765"
             },
             "6": {
                 "number": "98",
-                "minLevel": "30",
+                "minLevel": "29",
                 "rate": "0.05078"
             },
             "7": {
-                "number": "120",
-                "minLevel": "28",
+                "number": "42",
+                "minLevel": "36",
                 "rate": "0.05078"
             },
             "8": {
-                "number": "42",
-                "minLevel": "30",
+                "number": "79",
+                "minLevel": "31",
                 "rate": "0.04297"
             },
             "9": {
-                "number": "55",
-                "minLevel": "37",
+                "number": "80",
+                "minLevel": "31",
                 "rate": "0.01172"
             }
         }
@@ -3989,33 +4169,33 @@
                 "repel": "true"
             },
             "0": {
-                "number": "54",
-                "minLevel": "31",
+                "number": "42",
+                "minLevel": "27",
                 "rate": "0.19921"
             },
             "1": {
-                "number": "86",
-                "minLevel": "31",
+                "number": "41",
+                "minLevel": "36",
                 "rate": "0.19921"
             },
             "2": {
-                "number": "54",
-                "minLevel": "33",
+                "number": "98",
+                "minLevel": "29",
                 "rate": "0.15234"
             },
             "3": {
-                "number": "86",
-                "minLevel": "33",
+                "number": "41",
+                "minLevel": "27",
                 "rate": "0.09765"
             },
             "4": {
-                "number": "98",
-                "minLevel": "29",
+                "number": "99",
+                "minLevel": "30",
                 "rate": "0.09765"
             },
             "5": {
-                "number": "120",
-                "minLevel": "31",
+                "number": "86",
+                "minLevel": "26",
                 "rate": "0.09765"
             },
             "6": {
@@ -4024,18 +4204,73 @@
                 "rate": "0.05078"
             },
             "7": {
-                "number": "120",
-                "minLevel": "29",
+                "number": "86",
+                "minLevel": "30",
                 "rate": "0.05078"
             },
             "8": {
-                "number": "99",
-                "minLevel": "39",
+                "number": "87",
+                "minLevel": "28",
                 "rate": "0.04297"
             },
             "9": {
                 "number": "87",
-                "minLevel": "37",
+                "minLevel": "32",
+                "rate": "0.01172"
+            }
+        },
+        "Surf": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "72",
+                "minLevel": "25",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "72",
+                "minLevel": "30",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "72",
+                "minLevel": "20",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "120",
+                "minLevel": "30",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "72",
+                "minLevel": "35",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "120",
+                "minLevel": "30",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "72",
+                "minLevel": "40",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "120",
+                "minLevel": "30",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "120",
+                "minLevel": "30",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "120",
+                "minLevel": "30",
                 "rate": "0.01172"
             }
         },
@@ -4060,23 +4295,23 @@
         },
         "Super Rod": {
             "0": {
-                "number": "120",
-                "minLevel": "15",
+                "number": "98",
+                "minLevel": "25",
                 "rate": "0.25"
             },
             "1": {
-                "number": "116",
-                "minLevel": "15",
+                "number": "120",
+                "minLevel": "20",
                 "rate": "0.25"
             },
             "2": {
-                "number": "90",
-                "minLevel": "15",
+                "number": "99",
+                "minLevel": "35",
                 "rate": "0.25"
             },
             "3": {
-                "number": "118",
-                "minLevel": "15",
+                "number": "120",
+                "minLevel": "40",
                 "rate": "0.25"
             }
         }
@@ -4087,53 +4322,108 @@
                 "repel": "true"
             },
             "0": {
-                "number": "98",
-                "minLevel": "31",
+                "number": "42",
+                "minLevel": "36",
                 "rate": "0.19921"
             },
             "1": {
-                "number": "120",
-                "minLevel": "31",
+                "number": "41",
+                "minLevel": "36",
                 "rate": "0.19921"
             },
             "2": {
                 "number": "98",
-                "minLevel": "33",
+                "minLevel": "30",
                 "rate": "0.15234"
             },
             "3": {
-                "number": "120",
-                "minLevel": "33",
+                "number": "99",
+                "minLevel": "32",
                 "rate": "0.09765"
             },
             "4": {
-                "number": "54",
-                "minLevel": "29",
+                "number": "86",
+                "minLevel": "28",
                 "rate": "0.09765"
             },
             "5": {
                 "number": "86",
-                "minLevel": "31",
+                "minLevel": "32",
                 "rate": "0.09765"
             },
             "6": {
-                "number": "54",
-                "minLevel": "31",
+                "number": "42",
+                "minLevel": "27",
                 "rate": "0.05078"
             },
             "7": {
-                "number": "86",
-                "minLevel": "29",
+                "number": "41",
+                "minLevel": "45",
                 "rate": "0.05078"
             },
             "8": {
-                "number": "55",
-                "minLevel": "39",
+                "number": "87",
+                "minLevel": "30",
                 "rate": "0.04297"
             },
             "9": {
-                "number": "42",
-                "minLevel": "32",
+                "number": "87",
+                "minLevel": "34",
+                "rate": "0.01172"
+            }
+        },
+        "Surf": {
+            "variables": {
+                "repel": "true"
+            },
+            "0": {
+                "number": "72",
+                "minLevel": "25",
+                "rate": "0.19921"
+            },
+            "1": {
+                "number": "72",
+                "minLevel": "30",
+                "rate": "0.19921"
+            },
+            "2": {
+                "number": "72",
+                "minLevel": "20",
+                "rate": "0.15234"
+            },
+            "3": {
+                "number": "120",
+                "minLevel": "30",
+                "rate": "0.09765"
+            },
+            "4": {
+                "number": "72",
+                "minLevel": "35",
+                "rate": "0.09765"
+            },
+            "5": {
+                "number": "120",
+                "minLevel": "30",
+                "rate": "0.09765"
+            },
+            "6": {
+                "number": "72",
+                "minLevel": "40",
+                "rate": "0.05078"
+            },
+            "7": {
+                "number": "120",
+                "minLevel": "30",
+                "rate": "0.05078"
+            },
+            "8": {
+                "number": "120",
+                "minLevel": "30",
+                "rate": "0.04297"
+            },
+            "9": {
+                "number": "120",
+                "minLevel": "30",
                 "rate": "0.01172"
             }
         },
@@ -4158,23 +4448,23 @@
         },
         "Super Rod": {
             "0": {
-                "number": "120",
-                "minLevel": "15",
+                "number": "98",
+                "minLevel": "25",
                 "rate": "0.25"
             },
             "1": {
-                "number": "116",
-                "minLevel": "15",
+                "number": "120",
+                "minLevel": "20",
                 "rate": "0.25"
             },
             "2": {
-                "number": "90",
-                "minLevel": "15",
+                "number": "99",
+                "minLevel": "35",
                 "rate": "0.25"
             },
             "3": {
-                "number": "118",
-                "minLevel": "15",
+                "number": "120",
+                "minLevel": "40",
                 "rate": "0.25"
             }
         }
@@ -4201,23 +4491,23 @@
         },
         "Super Rod": {
             "0": {
-                "number": "98",
+                "number": "72",
                 "minLevel": "15",
                 "rate": "0.25"
             },
             "1": {
-                "number": "98",
-                "minLevel": "15",
+                "number": "72",
+                "minLevel": "20",
                 "rate": "0.25"
             },
             "2": {
-                "number": "90",
-                "minLevel": "15",
+                "number": "72",
+                "minLevel": "10",
                 "rate": "0.25"
             },
             "3": {
-                "number": "90",
-                "minLevel": "15",
+                "number": "116",
+                "minLevel": "5",
                 "rate": "0.25"
             }
         }
@@ -4244,23 +4534,23 @@
         },
         "Super Rod": {
             "0": {
-                "number": "98",
+                "number": "72",
                 "minLevel": "15",
                 "rate": "0.25"
             },
             "1": {
-                "number": "98",
-                "minLevel": "15",
+                "number": "72",
+                "minLevel": "20",
                 "rate": "0.25"
             },
             "2": {
-                "number": "90",
+                "number": "120",
                 "minLevel": "15",
                 "rate": "0.25"
             },
             "3": {
                 "number": "90",
-                "minLevel": "15",
+                "minLevel": "10",
                 "rate": "0.25"
             }
         }
@@ -4271,53 +4561,53 @@
                 "repel": "true"
             },
             "0": {
-                "number": "66",
-                "minLevel": "24",
-                "rate": "0.19921"
-            },
-            "1": {
                 "number": "74",
                 "minLevel": "26",
                 "rate": "0.19921"
             },
+            "1": {
+                "number": "74",
+                "minLevel": "31",
+                "rate": "0.19921"
+            },
             "2": {
-                "number": "41",
-                "minLevel": "22",
+                "number": "74",
+                "minLevel": "36",
                 "rate": "0.15234"
             },
             "3": {
-                "number": "95",
-                "minLevel": "36",
-                "rate": "0.09765"
-            },
-            "4": {
-                "number": "95",
+                "number": "41",
                 "minLevel": "39",
                 "rate": "0.09765"
             },
+            "4": {
+                "number": "41",
+                "minLevel": "44",
+                "rate": "0.09765"
+            },
             "5": {
-                "number": "95",
-                "minLevel": "42",
+                "number": "74",
+                "minLevel": "41",
                 "rate": "0.09765"
             },
             "6": {
-                "number": "75",
-                "minLevel": "41",
+                "number": "95",
+                "minLevel": "43",
                 "rate": "0.05078"
             },
             "7": {
-                "number": "42",
-                "minLevel": "41",
+                "number": "95",
+                "minLevel": "45",
                 "rate": "0.05078"
             },
             "8": {
-                "number": "67",
-                "minLevel": "42",
+                "number": "75",
+                "minLevel": "41",
                 "rate": "0.04297"
             },
             "9": {
-                "number": "105",
-                "minLevel": "43",
+                "number": "75",
+                "minLevel": "47",
                 "rate": "0.01172"
             }
         }
@@ -4328,53 +4618,53 @@
                 "repel": "true"
             },
             "0": {
-                "number": "66",
-                "minLevel": "22",
+                "number": "74",
+                "minLevel": "31",
                 "rate": "0.19921"
             },
             "1": {
                 "number": "74",
-                "minLevel": "24",
+                "minLevel": "36",
                 "rate": "0.19921"
             },
             "2": {
-                "number": "41",
-                "minLevel": "26",
+                "number": "74",
+                "minLevel": "41",
                 "rate": "0.15234"
             },
             "3": {
-                "number": "95",
-                "minLevel": "36",
+                "number": "41",
+                "minLevel": "44",
                 "rate": "0.09765"
             },
             "4": {
-                "number": "95",
+                "number": "42",
                 "minLevel": "39",
                 "rate": "0.09765"
             },
             "5": {
-                "number": "95",
-                "minLevel": "42",
+                "number": "75",
+                "minLevel": "44",
                 "rate": "0.09765"
             },
             "6": {
-                "number": "67",
-                "minLevel": "41",
+                "number": "95",
+                "minLevel": "45",
                 "rate": "0.05078"
             },
             "7": {
-                "number": "42",
-                "minLevel": "40",
+                "number": "95",
+                "minLevel": "47",
                 "rate": "0.05078"
             },
             "8": {
-                "number": "105",
-                "minLevel": "40",
+                "number": "67",
+                "minLevel": "39",
                 "rate": "0.04297"
             },
             "9": {
-                "number": "75",
-                "minLevel": "43",
+                "number": "67",
+                "minLevel": "42",
                 "rate": "0.01172"
             }
         }
@@ -4385,53 +4675,53 @@
                 "repel": "true"
             },
             "0": {
-                "number": "66",
-                "minLevel": "24",
+                "number": "74",
+                "minLevel": "36",
                 "rate": "0.19921"
             },
             "1": {
-                "number": "74",
-                "minLevel": "26",
+                "number": "42",
+                "minLevel": "44",
                 "rate": "0.19921"
             },
             "2": {
-                "number": "41",
-                "minLevel": "22",
+                "number": "74",
+                "minLevel": "41",
                 "rate": "0.15234"
             },
             "3": {
                 "number": "95",
-                "minLevel": "42",
+                "minLevel": "49",
                 "rate": "0.09765"
             },
             "4": {
-                "number": "49",
-                "minLevel": "40",
+                "number": "74",
+                "minLevel": "46",
                 "rate": "0.09765"
             },
             "5": {
-                "number": "95",
-                "minLevel": "45",
+                "number": "75",
+                "minLevel": "41",
                 "rate": "0.09765"
             },
             "6": {
-                "number": "75",
-                "minLevel": "43",
+                "number": "67",
+                "minLevel": "42",
                 "rate": "0.05078"
             },
             "7": {
-                "number": "42",
-                "minLevel": "41",
+                "number": "67",
+                "minLevel": "45",
                 "rate": "0.05078"
             },
             "8": {
-                "number": "67",
-                "minLevel": "42",
+                "number": "75",
+                "minLevel": "47",
                 "rate": "0.04297"
             },
             "9": {
-                "number": "67",
-                "minLevel": "45",
+                "number": "75",
+                "minLevel": "47",
                 "rate": "0.01172"
             }
         }
@@ -4443,17 +4733,17 @@
             },
             "0": {
                 "number": "10",
-                "minLevel": "4",
+                "minLevel": "3",
                 "rate": "0.19921"
             },
             "1": {
                 "number": "11",
-                "minLevel": "5",
+                "minLevel": "4",
                 "rate": "0.19921"
             },
             "2": {
                 "number": "10",
-                "minLevel": "3",
+                "minLevel": "4",
                 "rate": "0.15234"
             },
             "3": {
@@ -4462,33 +4752,33 @@
                 "rate": "0.09765"
             },
             "4": {
-                "number": "11",
+                "number": "16",
                 "minLevel": "4",
                 "rate": "0.09765"
             },
             "5": {
-                "number": "11",
+                "number": "16",
                 "minLevel": "6",
                 "rate": "0.09765"
             },
             "6": {
-                "number": "14",
-                "minLevel": "4",
+                "number": "10",
+                "minLevel": "6",
                 "rate": "0.05078"
             },
             "7": {
-                "number": "13",
-                "minLevel": "3",
+                "number": "11",
+                "minLevel": "6",
                 "rate": "0.05078"
             },
             "8": {
-                "number": "25",
-                "minLevel": "3",
+                "number": "16",
+                "minLevel": "8",
                 "rate": "0.04297"
             },
             "9": {
-                "number": "25",
-                "minLevel": "5",
+                "number": "17",
+                "minLevel": "9",
                 "rate": "0.01172"
             }
         }
@@ -4515,13 +4805,13 @@
         },
         "Super Rod": {
             "0": {
-                "number": "72",
-                "minLevel": "15",
+                "number": "60",
+                "minLevel": "5",
                 "rate": "0.25"
             },
             "1": {
-                "number": "72",
-                "minLevel": "15",
+                "number": "60",
+                "minLevel": "10",
                 "rate": "0.25"
             },
             "2": {
@@ -4531,7 +4821,7 @@
             },
             "3": {
                 "number": "60",
-                "minLevel": "15",
+                "minLevel": "10",
                 "rate": "0.25"
             }
         }
