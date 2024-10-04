@@ -1503,6 +1503,11 @@
         "type1": "psychic"
     },
     {
+        "number": "201-exclamation",
+        "name": "unown-!",
+        "type1": "psychic"
+    },
+    {
         "number": "201-f",
         "name": "unown-f",
         "type1": "psychic"
@@ -1563,6 +1568,11 @@
         "type1": "psychic"
     },
     {
+        "number": "201-question",
+        "name": "unown-?",
+        "type1": "psychic"
+    },
+    {
         "number": "201-r",
         "name": "unown-r",
         "type1": "psychic"
@@ -1605,16 +1615,6 @@
     {
         "number": "201-z",
         "name": "unown-z",
-        "type1": "psychic"
-    },
-    {
-        "number": "201-exclamation",
-        "name": "unown-!",
-        "type1": "psychic"
-    },
-    {
-        "number": "201-question",
-        "name": "unown-?",
         "type1": "psychic"
     },
     {
