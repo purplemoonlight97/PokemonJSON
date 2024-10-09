@@ -2,62 +2,62 @@
     "Cave of Origin": {
       "Walk": {
         "0": {
-          "number": "041",
+          "number": "41",
           "minLevel": "30",
           "rate": "0.2"
         },
         "1": {
-          "number": "041",
+          "number": "41",
           "minLevel": "31",
           "rate": "0.2"
         },
         "2": {
-          "number": "041",
+          "number": "41",
           "minLevel": "32",
           "rate": "0.1"
         },
         "3": {
-          "number": "041",
+          "number": "41",
           "minLevel": "33",
           "rate": "0.1"
         },
         "4": {
-          "number": "041",
+          "number": "41",
           "minLevel": "28",
           "rate": "0.1"
         },
         "5": {
-          "number": "041",
+          "number": "41",
           "minLevel": "29",
           "rate": "0.1"
         },
         "6": {
-          "number": "041",
+          "number": "41",
           "minLevel": "34",
           "rate": "0.05"
         },
         "7": {
-          "number": "041",
+          "number": "41",
           "minLevel": "35",
           "rate": "0.05"
         },
         "8": {
-          "number": "042",
+          "number": "42",
           "minLevel": "34",
           "rate": "0.04"
         },
         "9": {
-          "number": "042",
+          "number": "42",
           "minLevel": "35",
           "rate": "0.04"
         },
         "10": {
-          "number": "042",
+          "number": "42",
           "minLevel": "33",
           "rate": "0.01"
         },
         "11": {
-          "number": "042",
+          "number": "42",
           "minLevel": "36",
           "rate": "0.01"
         },
@@ -69,17 +69,17 @@
     "Cave of Origin - B1F-B3F": {
       "Walk": {
         "0": {
-          "number": "041",
+          "number": "41",
           "minLevel": "30",
           "rate": "0.2"
         },
         "1": {
-          "number": "041",
+          "number": "41",
           "minLevel": "31",
           "rate": "0.2"
         },
         "2": {
-          "number": "041",
+          "number": "41",
           "minLevel": "32",
           "rate": "0.1"
         },
@@ -99,32 +99,32 @@
           "rate": "0.1"
         },
         "6": {
-          "number": "041",
+          "number": "41",
           "minLevel": "33",
           "rate": "0.05"
         },
         "7": {
-          "number": "041",
+          "number": "41",
           "minLevel": "34",
           "rate": "0.05"
         },
         "8": {
-          "number": "042",
+          "number": "42",
           "minLevel": "34",
           "rate": "0.04"
         },
         "9": {
-          "number": "042",
+          "number": "42",
           "minLevel": "35",
           "rate": "0.04"
         },
         "10": {
-          "number": "042",
+          "number": "42",
           "minLevel": "33",
           "rate": "0.01"
         },
         "11": {
-          "number": "042",
+          "number": "42",
           "minLevel": "36",
           "rate": "0.01"
         },
@@ -151,7 +151,7 @@
           "rate": "0.1"
         },
         "3": {
-          "number": "066",
+          "number": "66",
           "minLevel": "15",
           "rate": "0.1"
         },
@@ -171,7 +171,7 @@
           "rate": "0.05"
         },
         "7": {
-          "number": "066",
+          "number": "66",
           "minLevel": "16",
           "rate": "0.05"
         },
@@ -186,12 +186,12 @@
           "rate": "0.04"
         },
         "10": {
-          "number": "088",
+          "number": "88",
           "minLevel": "14",
           "rate": "0.01"
         },
         "11": {
-          "number": "088",
+          "number": "88",
           "minLevel": "14",
           "rate": "0.01"
         },
@@ -203,7 +203,7 @@
     "Granite Cave - 1F": {
       "Walk": {
         "0": {
-          "number": "041",
+          "number": "41",
           "minLevel": "7",
           "rate": "0.2"
         },
@@ -218,7 +218,7 @@
           "rate": "0.1"
         },
         "3": {
-          "number": "041",
+          "number": "41",
           "minLevel": "8",
           "rate": "0.1"
         },
@@ -228,7 +228,7 @@
           "rate": "0.1"
         },
         "5": {
-          "number": "063",
+          "number": "63",
           "minLevel": "8",
           "rate": "0.1"
         },
@@ -243,22 +243,22 @@
           "rate": "0.05"
         },
         "8": {
-          "number": "074",
+          "number": "74",
           "minLevel": "7",
           "rate": "0.04"
         },
         "9": {
-          "number": "074",
+          "number": "74",
           "minLevel": "8",
           "rate": "0.04"
         },
         "10": {
-          "number": "074",
+          "number": "74",
           "minLevel": "6",
           "rate": "0.01"
         },
         "11": {
-          "number": "074",
+          "number": "74",
           "minLevel": "9",
           "rate": "0.01"
         },
@@ -270,7 +270,7 @@
     "Granite Cave - B2F": {
       "Walk": {
         "0": {
-          "number": "041",
+          "number": "41",
           "minLevel": "9",
           "rate": "0.2"
         },
@@ -290,12 +290,12 @@
           "rate": "0.1"
         },
         "4": {
-          "number": "041",
+          "number": "41",
           "minLevel": "10",
           "rate": "0.1"
         },
         "5": {
-          "number": "063",
+          "number": "63",
           "minLevel": "9",
           "rate": "0.1"
         },
@@ -337,7 +337,7 @@
     "Granite Cave - B1F": {
       "Walk": {
         "0": {
-          "number": "041",
+          "number": "41",
           "minLevel": "10",
           "rate": "0.2"
         },
@@ -352,7 +352,7 @@
           "rate": "0.1"
         },
         "3": {
-          "number": "041",
+          "number": "41",
           "minLevel": "11",
           "rate": "0.1"
         },
@@ -362,7 +362,7 @@
           "rate": "0.1"
         },
         "5": {
-          "number": "063",
+          "number": "63",
           "minLevel": "10",
           "rate": "0.1"
         },
@@ -404,7 +404,7 @@
     "Granite Cave - Steven's Room": {
       "Walk": {
         "0": {
-          "number": "041",
+          "number": "41",
           "minLevel": "7",
           "rate": "0.2"
         },
@@ -419,7 +419,7 @@
           "rate": "0.1"
         },
         "3": {
-          "number": "041",
+          "number": "41",
           "minLevel": "8",
           "rate": "0.1"
         },
@@ -429,7 +429,7 @@
           "rate": "0.1"
         },
         "5": {
-          "number": "063",
+          "number": "63",
           "minLevel": "8",
           "rate": "0.1"
         },
@@ -481,7 +481,7 @@
           "rate": "0.2"
         },
         "2": {
-          "number": "066",
+          "number": "66",
           "minLevel": "19",
           "rate": "0.1"
         },
@@ -496,7 +496,7 @@
           "rate": "0.1"
         },
         "5": {
-          "number": "066",
+          "number": "66",
           "minLevel": "18",
           "rate": "0.1"
         },
@@ -506,7 +506,7 @@
           "rate": "0.05"
         },
         "7": {
-          "number": "066",
+          "number": "66",
           "minLevel": "20",
           "rate": "0.05"
         },
@@ -538,27 +538,27 @@
     "Meteor Falls - 1F-1": {
       "Walk": {
         "0": {
-          "number": "041",
+          "number": "41",
           "minLevel": "16",
           "rate": "0.2"
         },
         "1": {
-          "number": "041",
+          "number": "41",
           "minLevel": "17",
           "rate": "0.2"
         },
         "2": {
-          "number": "041",
+          "number": "41",
           "minLevel": "18",
           "rate": "0.1"
         },
         "3": {
-          "number": "041",
+          "number": "41",
           "minLevel": "15",
           "rate": "0.1"
         },
         "4": {
-          "number": "041",
+          "number": "41",
           "minLevel": "14",
           "rate": "0.1"
         },
@@ -578,22 +578,22 @@
           "rate": "0.05"
         },
         "8": {
-          "number": "041",
+          "number": "41",
           "minLevel": "19",
           "rate": "0.04"
         },
         "9": {
-          "number": "041",
+          "number": "41",
           "minLevel": "20",
           "rate": "0.04"
         },
         "10": {
-          "number": "041",
+          "number": "41",
           "minLevel": "19",
           "rate": "0.01"
         },
         "11": {
-          "number": "041",
+          "number": "41",
           "minLevel": "20",
           "rate": "0.01"
         },
@@ -605,17 +605,17 @@
     "Meteor Falls - 1F-2 & B1F-1": {
       "Walk": {
         "0": {
-          "number": "042",
+          "number": "42",
           "minLevel": "33",
           "rate": "0.2"
         },
         "1": {
-          "number": "042",
+          "number": "42",
           "minLevel": "35",
           "rate": "0.2"
         },
         "2": {
-          "number": "042",
+          "number": "42",
           "minLevel": "33",
           "rate": "0.1"
         },
@@ -635,7 +635,7 @@
           "rate": "0.1"
         },
         "6": {
-          "number": "042",
+          "number": "42",
           "minLevel": "35",
           "rate": "0.05"
         },
@@ -645,22 +645,22 @@
           "rate": "0.05"
         },
         "8": {
-          "number": "042",
+          "number": "42",
           "minLevel": "38",
           "rate": "0.04"
         },
         "9": {
-          "number": "042",
+          "number": "42",
           "minLevel": "40",
           "rate": "0.04"
         },
         "10": {
-          "number": "042",
+          "number": "42",
           "minLevel": "38",
           "rate": "0.01"
         },
         "11": {
-          "number": "042",
+          "number": "42",
           "minLevel": "40",
           "rate": "0.01"
         },
@@ -672,12 +672,12 @@
     "Meteor Falls - B1F-2": {
       "Walk": {
         "0": {
-          "number": "042",
+          "number": "42",
           "minLevel": "33",
           "rate": "0.2"
         },
         "1": {
-          "number": "042",
+          "number": "42",
           "minLevel": "35",
           "rate": "0.2"
         },
@@ -712,22 +712,22 @@
           "rate": "0.05"
         },
         "8": {
-          "number": "042",
+          "number": "42",
           "minLevel": "38",
           "rate": "0.04"
         },
         "9": {
-          "number": "042",
+          "number": "42",
           "minLevel": "40",
           "rate": "0.04"
         },
         "10": {
-          "number": "042",
+          "number": "42",
           "minLevel": "38",
           "rate": "0.01"
         },
         "11": {
-          "number": "042",
+          "number": "42",
           "minLevel": "40",
           "rate": "0.01"
         },
@@ -898,17 +898,17 @@
           "rate": "0.1"
         },
         "5": {
-          "number": "037",
+          "number": "37",
           "minLevel": "27",
           "rate": "0.1"
         },
         "6": {
-          "number": "037",
+          "number": "37",
           "minLevel": "29",
           "rate": "0.05"
         },
         "7": {
-          "number": "037",
+          "number": "37",
           "minLevel": "25",
           "rate": "0.05"
         },
@@ -1012,7 +1012,7 @@
           "rate": "0.2"
         },
         "1": {
-          "number": "081",
+          "number": "81",
           "minLevel": "24",
           "rate": "0.2"
         },
@@ -1022,7 +1022,7 @@
           "rate": "0.1"
         },
         "3": {
-          "number": "081",
+          "number": "81",
           "minLevel": "25",
           "rate": "0.1"
         },
@@ -1032,7 +1032,7 @@
           "rate": "0.1"
         },
         "5": {
-          "number": "081",
+          "number": "81",
           "minLevel": "23",
           "rate": "0.1"
         },
@@ -1042,7 +1042,7 @@
           "rate": "0.05"
         },
         "7": {
-          "number": "081",
+          "number": "81",
           "minLevel": "26",
           "rate": "0.05"
         },
@@ -1052,7 +1052,7 @@
           "rate": "0.04"
         },
         "9": {
-          "number": "081",
+          "number": "81",
           "minLevel": "22",
           "rate": "0.04"
         },
@@ -1062,7 +1062,7 @@
           "rate": "0.01"
         },
         "11": {
-          "number": "081",
+          "number": "81",
           "minLevel": "22",
           "rate": "0.01"
         },
@@ -1079,7 +1079,7 @@
           "rate": "0.2"
         },
         "1": {
-          "number": "081",
+          "number": "81",
           "minLevel": "24",
           "rate": "0.2"
         },
@@ -1089,7 +1089,7 @@
           "rate": "0.1"
         },
         "3": {
-          "number": "081",
+          "number": "81",
           "minLevel": "25",
           "rate": "0.1"
         },
@@ -1099,7 +1099,7 @@
           "rate": "0.1"
         },
         "5": {
-          "number": "081",
+          "number": "81",
           "minLevel": "23",
           "rate": "0.1"
         },
@@ -1109,7 +1109,7 @@
           "rate": "0.05"
         },
         "7": {
-          "number": "081",
+          "number": "81",
           "minLevel": "26",
           "rate": "0.05"
         },
@@ -1119,7 +1119,7 @@
           "rate": "0.04"
         },
         "9": {
-          "number": "081",
+          "number": "81",
           "minLevel": "22",
           "rate": "0.04"
         },
@@ -1129,7 +1129,7 @@
           "rate": "0.01"
         },
         "11": {
-          "number": "082",
+          "number": "82",
           "minLevel": "26",
           "rate": "0.01"
         },
@@ -1501,7 +1501,7 @@
           "rate": "0.1"
         },
         "5": {
-          "number": "043",
+          "number": "43",
           "minLevel": "13",
           "rate": "0.1"
         },
@@ -1543,7 +1543,7 @@
     "Route 111": {
       "Walk": {
         "0": {
-          "number": "027",
+          "number": "27",
           "minLevel": "20",
           "rate": "0.2"
         },
@@ -1553,7 +1553,7 @@
           "rate": "0.2"
         },
         "2": {
-          "number": "027",
+          "number": "27",
           "minLevel": "21",
           "rate": "0.1"
         },
@@ -1573,7 +1573,7 @@
           "rate": "0.1"
         },
         "6": {
-          "number": "027",
+          "number": "27",
           "minLevel": "19",
           "rate": "0.05"
         },
@@ -1620,7 +1620,7 @@
           "rate": "0.2"
         },
         "2": {
-          "number": "066",
+          "number": "66",
           "minLevel": "15",
           "rate": "0.1"
         },
@@ -1635,7 +1635,7 @@
           "rate": "0.1"
         },
         "5": {
-          "number": "066",
+          "number": "66",
           "minLevel": "14",
           "rate": "0.1"
         },
@@ -1645,7 +1645,7 @@
           "rate": "0.05"
         },
         "7": {
-          "number": "066",
+          "number": "66",
           "minLevel": "16",
           "rate": "0.05"
         },
@@ -1687,7 +1687,7 @@
           "rate": "0.2"
         },
         "2": {
-          "number": "027",
+          "number": "27",
           "minLevel": "15",
           "rate": "0.1"
         },
@@ -1702,7 +1702,7 @@
           "rate": "0.1"
         },
         "5": {
-          "number": "027",
+          "number": "27",
           "minLevel": "14",
           "rate": "0.1"
         },
@@ -1712,7 +1712,7 @@
           "rate": "0.05"
         },
         "7": {
-          "number": "027",
+          "number": "27",
           "minLevel": "16",
           "rate": "0.05"
         },
@@ -1841,12 +1841,12 @@
           "rate": "0.1"
         },
         "6": {
-          "number": "039",
+          "number": "39",
           "minLevel": "24",
           "rate": "0.05"
         },
         "7": {
-          "number": "039",
+          "number": "39",
           "minLevel": "25",
           "rate": "0.05"
         },
@@ -1970,7 +1970,7 @@
           "rate": "0.1"
         },
         "5": {
-          "number": "043",
+          "number": "43",
           "minLevel": "13",
           "rate": "0.1"
         },
@@ -2094,7 +2094,7 @@
           "rate": "0.1"
         },
         "3": {
-          "number": "043",
+          "number": "43",
           "minLevel": "25",
           "rate": "0.1"
         },
@@ -2104,17 +2104,17 @@
           "rate": "0.1"
         },
         "5": {
-          "number": "043",
+          "number": "43",
           "minLevel": "26",
           "rate": "0.1"
         },
         "6": {
-          "number": "043",
+          "number": "43",
           "minLevel": "27",
           "rate": "0.05"
         },
         "7": {
-          "number": "043",
+          "number": "43",
           "minLevel": "24",
           "rate": "0.05"
         },
@@ -2161,7 +2161,7 @@
           "rate": "0.1"
         },
         "3": {
-          "number": "043",
+          "number": "43",
           "minLevel": "25",
           "rate": "0.1"
         },
@@ -2171,12 +2171,12 @@
           "rate": "0.1"
         },
         "5": {
-          "number": "043",
+          "number": "43",
           "minLevel": "26",
           "rate": "0.1"
         },
         "6": {
-          "number": "043",
+          "number": "43",
           "minLevel": "27",
           "rate": "0.05"
         },
@@ -2238,17 +2238,17 @@
           "rate": "0.1"
         },
         "5": {
-          "number": "043",
+          "number": "43",
           "minLevel": "26",
           "rate": "0.1"
         },
         "6": {
-          "number": "043",
+          "number": "43",
           "minLevel": "28",
           "rate": "0.05"
         },
         "7": {
-          "number": "044",
+          "number": "44",
           "minLevel": "28",
           "rate": "0.05"
         },
@@ -2305,17 +2305,17 @@
           "rate": "0.1"
         },
         "5": {
-          "number": "043",
+          "number": "43",
           "minLevel": "26",
           "rate": "0.1"
         },
         "6": {
-          "number": "043",
+          "number": "43",
           "minLevel": "28",
           "rate": "0.05"
         },
         "7": {
-          "number": "044",
+          "number": "44",
           "minLevel": "28",
           "rate": "0.05"
         },
@@ -2486,7 +2486,7 @@
           "rate": "0.2"
         },
         "1": {
-          "number": "043",
+          "number": "43",
           "minLevel": "27",
           "rate": "0.2"
         },
@@ -2496,32 +2496,32 @@
           "rate": "0.1"
         },
         "3": {
-          "number": "043",
+          "number": "43",
           "minLevel": "29",
           "rate": "0.1"
         },
         "4": {
-          "number": "084",
+          "number": "84",
           "minLevel": "27",
           "rate": "0.1"
         },
         "5": {
-          "number": "044",
+          "number": "44",
           "minLevel": "29",
           "rate": "0.1"
         },
         "6": {
-          "number": "044",
+          "number": "44",
           "minLevel": "31",
           "rate": "0.05"
         },
         "7": {
-          "number": "084",
+          "number": "84",
           "minLevel": "29",
           "rate": "0.05"
         },
         "8": {
-          "number": "085",
+          "number": "85",
           "minLevel": "29",
           "rate": "0.04"
         },
@@ -2531,7 +2531,7 @@
           "rate": "0.04"
         },
         "10": {
-          "number": "085",
+          "number": "85",
           "minLevel": "31",
           "rate": "0.01"
         },
@@ -2553,7 +2553,7 @@
           "rate": "0.2"
         },
         "1": {
-          "number": "043",
+          "number": "43",
           "minLevel": "27",
           "rate": "0.2"
         },
@@ -2563,7 +2563,7 @@
           "rate": "0.1"
         },
         "3": {
-          "number": "043",
+          "number": "43",
           "minLevel": "29",
           "rate": "0.1"
         },
@@ -2573,12 +2573,12 @@
           "rate": "0.1"
         },
         "5": {
-          "number": "044",
+          "number": "44",
           "minLevel": "29",
           "rate": "0.1"
         },
         "6": {
-          "number": "044",
+          "number": "44",
           "minLevel": "31",
           "rate": "0.05"
         },
@@ -2615,12 +2615,12 @@
     "Safari Zone - Southeast": {
       "Walk": {
         "0": {
-          "number": "043",
+          "number": "43",
           "minLevel": "25",
           "rate": "0.2"
         },
         "1": {
-          "number": "043",
+          "number": "43",
           "minLevel": "27",
           "rate": "0.2"
         },
@@ -2640,12 +2640,12 @@
           "rate": "0.1"
         },
         "5": {
-          "number": "084",
+          "number": "84",
           "minLevel": "25",
           "rate": "0.1"
         },
         "6": {
-          "number": "044",
+          "number": "44",
           "minLevel": "25",
           "rate": "0.05"
         },
@@ -2655,7 +2655,7 @@
           "rate": "0.05"
         },
         "8": {
-          "number": "025",
+          "number": "25",
           "minLevel": "25",
           "rate": "0.04"
         },
@@ -2665,7 +2665,7 @@
           "rate": "0.04"
         },
         "10": {
-          "number": "025",
+          "number": "25",
           "minLevel": "27",
           "rate": "0.01"
         },
@@ -2682,12 +2682,12 @@
     "Safari Zone - Southwest": {
       "Walk": {
         "0": {
-          "number": "043",
+          "number": "43",
           "minLevel": "25",
           "rate": "0.2"
         },
         "1": {
-          "number": "043",
+          "number": "43",
           "minLevel": "27",
           "rate": "0.2"
         },
@@ -2707,12 +2707,12 @@
           "rate": "0.1"
         },
         "5": {
-          "number": "084",
+          "number": "84",
           "minLevel": "25",
           "rate": "0.1"
         },
         "6": {
-          "number": "044",
+          "number": "44",
           "minLevel": "25",
           "rate": "0.05"
         },
@@ -2722,7 +2722,7 @@
           "rate": "0.05"
         },
         "8": {
-          "number": "025",
+          "number": "25",
           "minLevel": "25",
           "rate": "0.04"
         },
@@ -2732,7 +2732,7 @@
           "rate": "0.04"
         },
         "10": {
-          "number": "025",
+          "number": "25",
           "minLevel": "27",
           "rate": "0.01"
         },
@@ -2749,62 +2749,62 @@
     "Seafloor Cavern": {
       "Walk": {
         "0": {
-          "number": "041",
+          "number": "41",
           "minLevel": "30",
           "rate": "0.2"
         },
         "1": {
-          "number": "041",
+          "number": "41",
           "minLevel": "31",
           "rate": "0.2"
         },
         "2": {
-          "number": "041",
+          "number": "41",
           "minLevel": "32",
           "rate": "0.1"
         },
         "3": {
-          "number": "041",
+          "number": "41",
           "minLevel": "33",
           "rate": "0.1"
         },
         "4": {
-          "number": "041",
+          "number": "41",
           "minLevel": "28",
           "rate": "0.1"
         },
         "5": {
-          "number": "041",
+          "number": "41",
           "minLevel": "29",
           "rate": "0.1"
         },
         "6": {
-          "number": "041",
+          "number": "41",
           "minLevel": "34",
           "rate": "0.05"
         },
         "7": {
-          "number": "041",
+          "number": "41",
           "minLevel": "35",
           "rate": "0.05"
         },
         "8": {
-          "number": "042",
+          "number": "42",
           "minLevel": "34",
           "rate": "0.04"
         },
         "9": {
-          "number": "042",
+          "number": "42",
           "minLevel": "35",
           "rate": "0.04"
         },
         "10": {
-          "number": "042",
+          "number": "42",
           "minLevel": "33",
           "rate": "0.01"
         },
         "11": {
-          "number": "042",
+          "number": "42",
           "minLevel": "36",
           "rate": "0.01"
         },
@@ -2816,7 +2816,7 @@
     "Shoal Cave - Main": {
       "Walk": {
         "0": {
-          "number": "041",
+          "number": "41",
           "minLevel": "26",
           "rate": "0.2"
         },
@@ -2826,7 +2826,7 @@
           "rate": "0.2"
         },
         "2": {
-          "number": "041",
+          "number": "41",
           "minLevel": "28",
           "rate": "0.1"
         },
@@ -2836,7 +2836,7 @@
           "rate": "0.1"
         },
         "4": {
-          "number": "041",
+          "number": "41",
           "minLevel": "30",
           "rate": "0.1"
         },
@@ -2846,7 +2846,7 @@
           "rate": "0.1"
         },
         "6": {
-          "number": "041",
+          "number": "41",
           "minLevel": "32",
           "rate": "0.05"
         },
@@ -2856,7 +2856,7 @@
           "rate": "0.05"
         },
         "8": {
-          "number": "042",
+          "number": "42",
           "minLevel": "32",
           "rate": "0.04"
         },
@@ -2866,7 +2866,7 @@
           "rate": "0.04"
         },
         "10": {
-          "number": "042",
+          "number": "42",
           "minLevel": "32",
           "rate": "0.01"
         },
@@ -2883,7 +2883,7 @@
     "Shoal Cave - Ice": {
       "Walk": {
         "0": {
-          "number": "041",
+          "number": "41",
           "minLevel": "26",
           "rate": "0.2"
         },
@@ -2893,7 +2893,7 @@
           "rate": "0.2"
         },
         "2": {
-          "number": "041",
+          "number": "41",
           "minLevel": "28",
           "rate": "0.1"
         },
@@ -2903,7 +2903,7 @@
           "rate": "0.1"
         },
         "4": {
-          "number": "041",
+          "number": "41",
           "minLevel": "30",
           "rate": "0.1"
         },
@@ -2923,7 +2923,7 @@
           "rate": "0.05"
         },
         "8": {
-          "number": "042",
+          "number": "42",
           "minLevel": "30",
           "rate": "0.04"
         },
@@ -2933,7 +2933,7 @@
           "rate": "0.04"
         },
         "10": {
-          "number": "042",
+          "number": "42",
           "minLevel": "32",
           "rate": "0.01"
         },
@@ -2955,12 +2955,12 @@
           "rate": "0.2"
         },
         "1": {
-          "number": "042",
+          "number": "42",
           "minLevel": "48",
           "rate": "0.2"
         },
         "2": {
-          "number": "042",
+          "number": "42",
           "minLevel": "50",
           "rate": "0.1"
         },
@@ -3022,12 +3022,12 @@
           "rate": "0.2"
         },
         "1": {
-          "number": "042",
+          "number": "42",
           "minLevel": "51",
           "rate": "0.2"
         },
         "2": {
-          "number": "042",
+          "number": "42",
           "minLevel": "53",
           "rate": "0.1"
         },
@@ -3089,12 +3089,12 @@
           "rate": "0.2"
         },
         "1": {
-          "number": "042",
+          "number": "42",
           "minLevel": "54",
           "rate": "0.2"
         },
         "2": {
-          "number": "042",
+          "number": "42",
           "minLevel": "56",
           "rate": "0.1"
         },
@@ -3151,7 +3151,7 @@
     "Victory Road - 1F": {
       "Walk": {
         "0": {
-          "number": "042",
+          "number": "42",
           "minLevel": "40",
           "rate": "0.2"
         },
@@ -3171,7 +3171,7 @@
           "rate": "0.1"
         },
         "4": {
-          "number": "041",
+          "number": "41",
           "minLevel": "36",
           "rate": "0.1"
         },
@@ -3181,7 +3181,7 @@
           "rate": "0.1"
         },
         "6": {
-          "number": "042",
+          "number": "42",
           "minLevel": "38",
           "rate": "0.05"
         },
@@ -3218,7 +3218,7 @@
     "Victory Road - B1F": {
       "Walk": {
         "0": {
-          "number": "042",
+          "number": "42",
           "minLevel": "40",
           "rate": "0.2"
         },
@@ -3238,7 +3238,7 @@
           "rate": "0.1"
         },
         "4": {
-          "number": "042",
+          "number": "42",
           "minLevel": "38",
           "rate": "0.1"
         },
@@ -3248,7 +3248,7 @@
           "rate": "0.1"
         },
         "6": {
-          "number": "042",
+          "number": "42",
           "minLevel": "42",
           "rate": "0.05"
         },
@@ -3285,7 +3285,7 @@
     "Victory Road - B2F": {
       "Walk": {
         "0": {
-          "number": "042",
+          "number": "42",
           "minLevel": "40",
           "rate": "0.2"
         },
@@ -3305,7 +3305,7 @@
           "rate": "0.1"
         },
         "4": {
-          "number": "042",
+          "number": "42",
           "minLevel": "42",
           "rate": "0.1"
         },
@@ -3315,7 +3315,7 @@
           "rate": "0.1"
         },
         "6": {
-          "number": "042",
+          "number": "42",
           "minLevel": "44",
           "rate": "0.05"
         },
