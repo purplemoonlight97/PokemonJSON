@@ -1,3352 +1,3352 @@
 {
-    "Cave of Origin": {
-      "Walk": {
-        "0": {
-          "number": "41",
-          "minLevel": "30",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "41",
-          "minLevel": "31",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "41",
-          "minLevel": "32",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "41",
-          "minLevel": "33",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "41",
-          "minLevel": "28",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "41",
-          "minLevel": "29",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "41",
-          "minLevel": "34",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "41",
-          "minLevel": "35",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "42",
-          "minLevel": "34",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "42",
-          "minLevel": "35",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "42",
-          "minLevel": "33",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "42",
-          "minLevel": "36",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+  "Route 101": {
+    "Walk": {
+      "0": {
+        "number": "265",
+        "minLevel": "2",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "263",
+        "minLevel": "2",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "265",
+        "minLevel": "2",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "265",
+        "minLevel": "3",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "263",
+        "minLevel": "3",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "263",
+        "minLevel": "3",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "265",
+        "minLevel": "3",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "263",
+        "minLevel": "3",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "261",
+        "minLevel": "2",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "261",
+        "minLevel": "2",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "261",
+        "minLevel": "3",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "261",
+        "minLevel": "3",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
-    },
-    "Cave of Origin - B1F-B3F": {
-      "Walk": {
-        "0": {
-          "number": "41",
-          "minLevel": "30",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "41",
-          "minLevel": "31",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "41",
-          "minLevel": "32",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "303",
-          "minLevel": "30",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "303",
-          "minLevel": "32",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "303",
-          "minLevel": "34",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "41",
-          "minLevel": "33",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "41",
-          "minLevel": "34",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "42",
-          "minLevel": "34",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "42",
-          "minLevel": "35",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "42",
-          "minLevel": "33",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "42",
-          "minLevel": "36",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+    }
+  },
+  "Route 102": {
+    "Walk": {
+      "0": {
+        "number": "263",
+        "minLevel": "3",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "265",
+        "minLevel": "3",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "263",
+        "minLevel": "4",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "265",
+        "minLevel": "4",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "273",
+        "minLevel": "3",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "273",
+        "minLevel": "4",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "261",
+        "minLevel": "3",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "261",
+        "minLevel": "3",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "261",
+        "minLevel": "4",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "280",
+        "minLevel": "4",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "261",
+        "minLevel": "4",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "283",
+        "minLevel": "3",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
-    },
-    "Fiery Path": {
-      "Walk": {
-        "0": {
-          "number": "322",
-          "minLevel": "15",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "109",
-          "minLevel": "15",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "322",
-          "minLevel": "16",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "66",
-          "minLevel": "15",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "324",
-          "minLevel": "15",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "218",
-          "minLevel": "15",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "109",
-          "minLevel": "16",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "66",
-          "minLevel": "16",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "324",
-          "minLevel": "14",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "324",
-          "minLevel": "16",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "88",
-          "minLevel": "14",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "88",
-          "minLevel": "14",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+    }
+  },
+  "Route 103": {
+    "Walk": {
+      "0": {
+        "number": "263",
+        "minLevel": "2",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "263",
+        "minLevel": "3",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "263",
+        "minLevel": "3",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "263",
+        "minLevel": "4",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "261",
+        "minLevel": "2",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "261",
+        "minLevel": "3",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "261",
+        "minLevel": "3",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "261",
+        "minLevel": "4",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "278",
+        "minLevel": "3",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "278",
+        "minLevel": "3",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "278",
+        "minLevel": "2",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "278",
+        "minLevel": "4",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
-    },
-    "Granite Cave - 1F": {
-      "Walk": {
-        "0": {
-          "number": "41",
-          "minLevel": "7",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "296",
-          "minLevel": "8",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "296",
-          "minLevel": "7",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "41",
-          "minLevel": "8",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "296",
-          "minLevel": "9",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "63",
-          "minLevel": "8",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "296",
-          "minLevel": "10",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "296",
-          "minLevel": "6",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "74",
-          "minLevel": "7",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "74",
-          "minLevel": "8",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "74",
-          "minLevel": "6",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "74",
-          "minLevel": "9",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+    }
+  },
+  "Route 104": {
+    "Walk": {
+      "0": {
+        "number": "263",
+        "minLevel": "4",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "265",
+        "minLevel": "4",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "263",
+        "minLevel": "5",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "265",
+        "minLevel": "5",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "263",
+        "minLevel": "4",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "263",
+        "minLevel": "5",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "276",
+        "minLevel": "4",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "276",
+        "minLevel": "5",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "278",
+        "minLevel": "4",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "278",
+        "minLevel": "4",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "278",
+        "minLevel": "3",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "278",
+        "minLevel": "5",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
-    },
-    "Granite Cave - B2F": {
-      "Walk": {
-        "0": {
-          "number": "41",
-          "minLevel": "9",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "304",
-          "minLevel": "10",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "304",
-          "minLevel": "9",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "304",
-          "minLevel": "11",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "41",
-          "minLevel": "10",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "63",
-          "minLevel": "9",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "296",
-          "minLevel": "10",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "296",
-          "minLevel": "11",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "303",
-          "minLevel": "10",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "303",
-          "minLevel": "10",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "303",
-          "minLevel": "9",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "303",
-          "minLevel": "11",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+    }
+  },
+  "Route 110": {
+    "Walk": {
+      "0": {
+        "number": "263",
+        "minLevel": "12",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "309",
+        "minLevel": "12",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "316",
+        "minLevel": "12",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "309",
+        "minLevel": "13",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "312",
+        "minLevel": "13",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "43",
+        "minLevel": "13",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "312",
+        "minLevel": "13",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "316",
+        "minLevel": "13",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "278",
+        "minLevel": "12",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "278",
+        "minLevel": "12",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "311",
+        "minLevel": "12",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "311",
+        "minLevel": "13",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
-    },
-    "Granite Cave - B1F": {
-      "Walk": {
-        "0": {
-          "number": "41",
-          "minLevel": "10",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "304",
-          "minLevel": "11",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "304",
-          "minLevel": "10",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "41",
-          "minLevel": "11",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "304",
-          "minLevel": "12",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "63",
-          "minLevel": "10",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "303",
-          "minLevel": "10",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "303",
-          "minLevel": "11",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "303",
-          "minLevel": "12",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "303",
-          "minLevel": "10",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "303",
-          "minLevel": "12",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "303",
-          "minLevel": "10",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+    }
+  },
+  "Route 111": {
+    "Walk": {
+      "0": {
+        "number": "27",
+        "minLevel": "20",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "328",
+        "minLevel": "20",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "27",
+        "minLevel": "21",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "328",
+        "minLevel": "21",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "331",
+        "minLevel": "19",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "331",
+        "minLevel": "21",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "27",
+        "minLevel": "19",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "328",
+        "minLevel": "19",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "343",
+        "minLevel": "20",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "343",
+        "minLevel": "20",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "343",
+        "minLevel": "22",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "343",
+        "minLevel": "22",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
-    },
-    "Granite Cave - Steven's Room": {
-      "Walk": {
-        "0": {
-          "number": "41",
-          "minLevel": "7",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "296",
-          "minLevel": "8",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "296",
-          "minLevel": "7",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "41",
-          "minLevel": "8",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "296",
-          "minLevel": "9",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "63",
-          "minLevel": "8",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "296",
-          "minLevel": "10",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "296",
-          "minLevel": "6",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "304",
-          "minLevel": "7",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "304",
-          "minLevel": "8",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "304",
-          "minLevel": "7",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "304",
-          "minLevel": "8",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+    }
+  },
+  "Route 112": {
+    "Walk": {
+      "0": {
+        "number": "322",
+        "minLevel": "15",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "322",
+        "minLevel": "15",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "66",
+        "minLevel": "15",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "322",
+        "minLevel": "14",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "322",
+        "minLevel": "14",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "66",
+        "minLevel": "14",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "322",
+        "minLevel": "16",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "66",
+        "minLevel": "16",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "322",
+        "minLevel": "16",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "322",
+        "minLevel": "16",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "322",
+        "minLevel": "16",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "322",
+        "minLevel": "16",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
-    },
-    "Jagged Pass": {
-      "Walk": {
-        "0": {
-          "number": "322",
-          "minLevel": "19",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "322",
-          "minLevel": "19",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "66",
-          "minLevel": "19",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "322",
-          "minLevel": "18",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "325",
-          "minLevel": "18",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "66",
-          "minLevel": "18",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "325",
-          "minLevel": "19",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "66",
-          "minLevel": "20",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "322",
-          "minLevel": "20",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "325",
-          "minLevel": "20",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "322",
-          "minLevel": "20",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "325",
-          "minLevel": "20",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+    }
+  },
+  "Route 113": {
+    "Walk": {
+      "0": {
+        "number": "327",
+        "minLevel": "15",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "327",
+        "minLevel": "15",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "27",
+        "minLevel": "15",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "327",
+        "minLevel": "14",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "327",
+        "minLevel": "14",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "27",
+        "minLevel": "14",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "327",
+        "minLevel": "16",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "27",
+        "minLevel": "16",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "327",
+        "minLevel": "16",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "227",
+        "minLevel": "16",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "327",
+        "minLevel": "16",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "227",
+        "minLevel": "16",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
-    },
-    "Meteor Falls - 1F-1": {
-      "Walk": {
-        "0": {
-          "number": "41",
-          "minLevel": "16",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "41",
-          "minLevel": "17",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "41",
-          "minLevel": "18",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "41",
-          "minLevel": "15",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "41",
-          "minLevel": "14",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "338",
-          "minLevel": "16",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "338",
-          "minLevel": "18",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "338",
-          "minLevel": "14",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "41",
-          "minLevel": "19",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "41",
-          "minLevel": "20",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "41",
-          "minLevel": "19",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "41",
-          "minLevel": "20",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+    }
+  },
+  "Route 114": {
+    "Walk": {
+      "0": {
+        "number": "333",
+        "minLevel": "16",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "273",
+        "minLevel": "16",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "333",
+        "minLevel": "17",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "333",
+        "minLevel": "15",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "273",
+        "minLevel": "15",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "335",
+        "minLevel": "16",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "274",
+        "minLevel": "16",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "274",
+        "minLevel": "18",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "335",
+        "minLevel": "17",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "335",
+        "minLevel": "15",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "335",
+        "minLevel": "17",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "283",
+        "minLevel": "15",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
-    },
-    "Meteor Falls - 1F-2 & B1F-1": {
-      "Walk": {
-        "0": {
-          "number": "42",
-          "minLevel": "33",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "42",
-          "minLevel": "35",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "42",
-          "minLevel": "33",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "338",
-          "minLevel": "35",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "338",
-          "minLevel": "33",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "338",
-          "minLevel": "37",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "42",
-          "minLevel": "35",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "338",
-          "minLevel": "39",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "42",
-          "minLevel": "38",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "42",
-          "minLevel": "40",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "42",
-          "minLevel": "38",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "42",
-          "minLevel": "40",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+    }
+  },
+  "Route 115": {
+    "Walk": {
+      "0": {
+        "number": "333",
+        "minLevel": "23",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "276",
+        "minLevel": "23",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "333",
+        "minLevel": "25",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "276",
+        "minLevel": "24",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "276",
+        "minLevel": "25",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "277",
+        "minLevel": "25",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "39",
+        "minLevel": "24",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "39",
+        "minLevel": "25",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "278",
+        "minLevel": "24",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "278",
+        "minLevel": "24",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "278",
+        "minLevel": "26",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "278",
+        "minLevel": "25",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
-    },
-    "Meteor Falls - B1F-2": {
-      "Walk": {
-        "0": {
-          "number": "42",
-          "minLevel": "33",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "42",
-          "minLevel": "35",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "371",
-          "minLevel": "30",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "338",
-          "minLevel": "35",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "371",
-          "minLevel": "35",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "338",
-          "minLevel": "37",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "371",
-          "minLevel": "25",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "338",
-          "minLevel": "39",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "42",
-          "minLevel": "38",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "42",
-          "minLevel": "40",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "42",
-          "minLevel": "38",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "42",
-          "minLevel": "40",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+    }
+  },
+  "Route 116": {
+    "Walk": {
+      "0": {
+        "number": "263",
+        "minLevel": "6",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "293",
+        "minLevel": "6",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "290",
+        "minLevel": "6",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "293",
+        "minLevel": "7",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "290",
+        "minLevel": "7",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "276",
+        "minLevel": "6",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "276",
+        "minLevel": "7",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "276",
+        "minLevel": "8",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "263",
+        "minLevel": "7",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "263",
+        "minLevel": "8",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "300",
+        "minLevel": "7",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "300",
+        "minLevel": "8",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
-    },
-    "Mt. Pyre - 1F-3F": {
-      "Walk": {
-        "0": {
-          "number": "355",
-          "minLevel": "27",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "355",
-          "minLevel": "28",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "355",
-          "minLevel": "26",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "355",
-          "minLevel": "25",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "355",
-          "minLevel": "29",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "355",
-          "minLevel": "24",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "355",
-          "minLevel": "23",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "355",
-          "minLevel": "22",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "355",
-          "minLevel": "29",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "355",
-          "minLevel": "24",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "355",
-          "minLevel": "29",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "355",
-          "minLevel": "24",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+    }
+  },
+  "Route 117": {
+    "Walk": {
+      "0": {
+        "number": "263",
+        "minLevel": "13",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "315",
+        "minLevel": "13",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "263",
+        "minLevel": "14",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "315",
+        "minLevel": "14",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "183",
+        "minLevel": "13",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "43",
+        "minLevel": "13",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "314",
+        "minLevel": "13",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "314",
+        "minLevel": "13",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "314",
+        "minLevel": "14",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "314",
+        "minLevel": "14",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "313",
+        "minLevel": "13",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "283",
+        "minLevel": "13",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
-    },
-    "Mt. Pyre - 4F-6F": {
-      "Walk": {
-        "0": {
-          "number": "355",
-          "minLevel": "27",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "355",
-          "minLevel": "28",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "355",
-          "minLevel": "26",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "355",
-          "minLevel": "25",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "355",
-          "minLevel": "29",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "355",
-          "minLevel": "24",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "355",
-          "minLevel": "23",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "355",
-          "minLevel": "22",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "353",
-          "minLevel": "27",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "353",
-          "minLevel": "27",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "353",
-          "minLevel": "25",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "353",
-          "minLevel": "29",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+    }
+  },
+  "Route 118": {
+    "Walk": {
+      "0": {
+        "number": "263",
+        "minLevel": "24",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "309",
+        "minLevel": "24",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "263",
+        "minLevel": "26",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "309",
+        "minLevel": "26",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "264",
+        "minLevel": "26",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "310",
+        "minLevel": "26",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "278",
+        "minLevel": "25",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "278",
+        "minLevel": "25",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "278",
+        "minLevel": "26",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "278",
+        "minLevel": "26",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "278",
+        "minLevel": "27",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "352",
+        "minLevel": "25",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
-    },
-    "Mt. Pyre - Summit": {
-      "Walk": {
-        "0": {
-          "number": "355",
-          "minLevel": "27",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "307",
-          "minLevel": "27",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "355",
-          "minLevel": "28",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "307",
-          "minLevel": "29",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "355",
-          "minLevel": "29",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "37",
-          "minLevel": "27",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "37",
-          "minLevel": "29",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "37",
-          "minLevel": "25",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "278",
-          "minLevel": "27",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "278",
-          "minLevel": "27",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "278",
-          "minLevel": "26",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "278",
-          "minLevel": "28",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+    }
+  },
+  "Route 119": {
+    "Walk": {
+      "0": {
+        "number": "263",
+        "minLevel": "25",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "264",
+        "minLevel": "25",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "263",
+        "minLevel": "27",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "43",
+        "minLevel": "25",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "264",
+        "minLevel": "27",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "43",
+        "minLevel": "26",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "43",
+        "minLevel": "27",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "43",
+        "minLevel": "24",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "357",
+        "minLevel": "25",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "357",
+        "minLevel": "26",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "357",
+        "minLevel": "27",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "352",
+        "minLevel": "25",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
-    },
-    "Mt. Pyre - Outside": {
-      "Walk": {
-        "0": {
-          "number": "355",
-          "minLevel": "28",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "355",
-          "minLevel": "29",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "355",
-          "minLevel": "27",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "355",
-          "minLevel": "26",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "355",
-          "minLevel": "30",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "355",
-          "minLevel": "25",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "355",
-          "minLevel": "24",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "353",
-          "minLevel": "28",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "353",
-          "minLevel": "26",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "353",
-          "minLevel": "30",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "358",
-          "minLevel": "28",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "358",
-          "minLevel": "28",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+    }
+  },
+  "Route 120": {
+    "Walk": {
+      "0": {
+        "number": "263",
+        "minLevel": "25",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "264",
+        "minLevel": "25",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "264",
+        "minLevel": "27",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "43",
+        "minLevel": "25",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "183",
+        "minLevel": "25",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "43",
+        "minLevel": "26",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "43",
+        "minLevel": "27",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "183",
+        "minLevel": "27",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "359",
+        "minLevel": "25",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "359",
+        "minLevel": "27",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "352",
+        "minLevel": "25",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "283",
+        "minLevel": "25",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
-    },
-    "New Mauville": {
-      "Walk": {
-        "0": {
-          "number": "100",
-          "minLevel": "24",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "81",
-          "minLevel": "24",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "100",
-          "minLevel": "25",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "81",
-          "minLevel": "25",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "100",
-          "minLevel": "23",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "81",
-          "minLevel": "23",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "100",
-          "minLevel": "26",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "81",
-          "minLevel": "26",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "100",
-          "minLevel": "22",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "81",
-          "minLevel": "22",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "100",
-          "minLevel": "22",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "81",
-          "minLevel": "22",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+    }
+  },
+  "Route 121": {
+    "Walk": {
+      "0": {
+        "number": "263",
+        "minLevel": "26",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "355",
+        "minLevel": "26",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "264",
+        "minLevel": "26",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "355",
+        "minLevel": "28",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "264",
+        "minLevel": "28",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "43",
+        "minLevel": "26",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "43",
+        "minLevel": "28",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "44",
+        "minLevel": "28",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "278",
+        "minLevel": "26",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "278",
+        "minLevel": "27",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "278",
+        "minLevel": "28",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "352",
+        "minLevel": "25",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
-    },
-    "New Mauville - B1F": {
-      "Walk": {
-        "0": {
-          "number": "100",
-          "minLevel": "24",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "81",
-          "minLevel": "24",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "100",
-          "minLevel": "25",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "81",
-          "minLevel": "25",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "100",
-          "minLevel": "23",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "81",
-          "minLevel": "23",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "100",
-          "minLevel": "26",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "81",
-          "minLevel": "26",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "100",
-          "minLevel": "22",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "81",
-          "minLevel": "22",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "101",
-          "minLevel": "26",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "82",
-          "minLevel": "26",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+    }
+  },
+  "Route 123": {
+    "Walk": {
+      "0": {
+        "number": "263",
+        "minLevel": "26",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "355",
+        "minLevel": "26",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "264",
+        "minLevel": "26",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "355",
+        "minLevel": "28",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "264",
+        "minLevel": "28",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "43",
+        "minLevel": "26",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "43",
+        "minLevel": "28",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "44",
+        "minLevel": "28",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "278",
+        "minLevel": "26",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "278",
+        "minLevel": "27",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "278",
+        "minLevel": "28",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "352",
+        "minLevel": "25",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
-    },
-    "Petalburg Woods": {
-      "Walk": {
-        "0": {
-          "number": "263",
-          "minLevel": "5",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "265",
-          "minLevel": "5",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "285",
-          "minLevel": "5",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "263",
-          "minLevel": "6",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "266",
-          "minLevel": "5",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "268",
-          "minLevel": "5",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "265",
-          "minLevel": "6",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "285",
-          "minLevel": "6",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "276",
-          "minLevel": "5",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "287",
-          "minLevel": "5",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "276",
-          "minLevel": "6",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "287",
-          "minLevel": "6",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+    }
+  },
+  "Route 130": {
+    "Walk": {
+      "0": {
+        "number": "360",
+        "minLevel": "30",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "360",
+        "minLevel": "35",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "360",
+        "minLevel": "25",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "360",
+        "minLevel": "40",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "360",
+        "minLevel": "20",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "360",
+        "minLevel": "45",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "360",
+        "minLevel": "15",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "360",
+        "minLevel": "50",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "360",
+        "minLevel": "10",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "360",
+        "minLevel": "5",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "360",
+        "minLevel": "10",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "360",
+        "minLevel": "5",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
-    },
-    "Route 101": {
-      "Walk": {
-        "0": {
-          "number": "265",
-          "minLevel": "2",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "263",
-          "minLevel": "2",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "265",
-          "minLevel": "2",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "265",
-          "minLevel": "3",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "263",
-          "minLevel": "3",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "263",
-          "minLevel": "3",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "265",
-          "minLevel": "3",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "263",
-          "minLevel": "3",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "261",
-          "minLevel": "2",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "261",
-          "minLevel": "2",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "261",
-          "minLevel": "3",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "261",
-          "minLevel": "3",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+    }
+  },
+  "Cave of Origin - Entrance": {
+    "Walk": {
+      "0": {
+        "number": "41",
+        "minLevel": "30",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "41",
+        "minLevel": "31",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "41",
+        "minLevel": "32",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "41",
+        "minLevel": "33",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "41",
+        "minLevel": "28",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "41",
+        "minLevel": "29",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "41",
+        "minLevel": "34",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "41",
+        "minLevel": "35",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "42",
+        "minLevel": "34",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "42",
+        "minLevel": "35",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "42",
+        "minLevel": "33",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "42",
+        "minLevel": "36",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
-    },
-    "Route 102": {
-      "Walk": {
-        "0": {
-          "number": "263",
-          "minLevel": "3",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "265",
-          "minLevel": "3",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "263",
-          "minLevel": "4",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "265",
-          "minLevel": "4",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "273",
-          "minLevel": "3",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "273",
-          "minLevel": "4",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "261",
-          "minLevel": "3",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "261",
-          "minLevel": "3",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "261",
-          "minLevel": "4",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "280",
-          "minLevel": "4",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "261",
-          "minLevel": "4",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "283",
-          "minLevel": "3",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+    }
+  },
+  "Cave of Origin - 1F-B3F": {
+    "Walk": {
+      "0": {
+        "number": "41",
+        "minLevel": "30",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "41",
+        "minLevel": "31",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "41",
+        "minLevel": "32",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "303",
+        "minLevel": "30",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "303",
+        "minLevel": "32",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "303",
+        "minLevel": "34",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "41",
+        "minLevel": "33",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "41",
+        "minLevel": "34",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "42",
+        "minLevel": "34",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "42",
+        "minLevel": "35",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "42",
+        "minLevel": "33",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "42",
+        "minLevel": "36",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
-    },
-    "Route 103": {
-      "Walk": {
-        "0": {
-          "number": "263",
-          "minLevel": "2",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "263",
-          "minLevel": "3",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "263",
-          "minLevel": "3",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "263",
-          "minLevel": "4",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "261",
-          "minLevel": "2",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "261",
-          "minLevel": "3",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "261",
-          "minLevel": "3",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "261",
-          "minLevel": "4",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "278",
-          "minLevel": "3",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "278",
-          "minLevel": "3",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "278",
-          "minLevel": "2",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "278",
-          "minLevel": "4",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+    }
+  },
+  "Fiery Path": {
+    "Walk": {
+      "0": {
+        "number": "322",
+        "minLevel": "15",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "109",
+        "minLevel": "15",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "322",
+        "minLevel": "16",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "66",
+        "minLevel": "15",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "324",
+        "minLevel": "15",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "218",
+        "minLevel": "15",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "109",
+        "minLevel": "16",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "66",
+        "minLevel": "16",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "324",
+        "minLevel": "14",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "324",
+        "minLevel": "16",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "88",
+        "minLevel": "14",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "88",
+        "minLevel": "14",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
-    },
-    "Route 104": {
-      "Walk": {
-        "0": {
-          "number": "263",
-          "minLevel": "4",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "265",
-          "minLevel": "4",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "263",
-          "minLevel": "5",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "265",
-          "minLevel": "5",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "263",
-          "minLevel": "4",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "263",
-          "minLevel": "5",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "276",
-          "minLevel": "4",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "276",
-          "minLevel": "5",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "278",
-          "minLevel": "4",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "278",
-          "minLevel": "4",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "278",
-          "minLevel": "3",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "278",
-          "minLevel": "5",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+    }
+  },
+  "Granite Cave - 1F": {
+    "Walk": {
+      "0": {
+        "number": "41",
+        "minLevel": "7",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "296",
+        "minLevel": "8",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "296",
+        "minLevel": "7",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "41",
+        "minLevel": "8",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "296",
+        "minLevel": "9",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "63",
+        "minLevel": "8",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "296",
+        "minLevel": "10",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "296",
+        "minLevel": "6",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "74",
+        "minLevel": "7",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "74",
+        "minLevel": "8",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "74",
+        "minLevel": "6",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "74",
+        "minLevel": "9",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
-    },
-    "Route 110": {
-      "Walk": {
-        "0": {
-          "number": "263",
-          "minLevel": "12",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "309",
-          "minLevel": "12",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "316",
-          "minLevel": "12",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "309",
-          "minLevel": "13",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "312",
-          "minLevel": "13",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "43",
-          "minLevel": "13",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "312",
-          "minLevel": "13",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "316",
-          "minLevel": "13",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "278",
-          "minLevel": "12",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "278",
-          "minLevel": "12",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "311",
-          "minLevel": "12",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "311",
-          "minLevel": "13",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+    }
+  },
+  "Granite Cave - B2F": {
+    "Walk": {
+      "0": {
+        "number": "41",
+        "minLevel": "9",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "304",
+        "minLevel": "10",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "304",
+        "minLevel": "9",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "304",
+        "minLevel": "11",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "41",
+        "minLevel": "10",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "63",
+        "minLevel": "9",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "296",
+        "minLevel": "10",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "296",
+        "minLevel": "11",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "303",
+        "minLevel": "10",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "303",
+        "minLevel": "10",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "303",
+        "minLevel": "9",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "303",
+        "minLevel": "11",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
-    },
-    "Route 111": {
-      "Walk": {
-        "0": {
-          "number": "27",
-          "minLevel": "20",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "328",
-          "minLevel": "20",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "27",
-          "minLevel": "21",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "328",
-          "minLevel": "21",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "331",
-          "minLevel": "19",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "331",
-          "minLevel": "21",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "27",
-          "minLevel": "19",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "328",
-          "minLevel": "19",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "343",
-          "minLevel": "20",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "343",
-          "minLevel": "20",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "343",
-          "minLevel": "22",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "343",
-          "minLevel": "22",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+    }
+  },
+  "Granite Cave - B1F": {
+    "Walk": {
+      "0": {
+        "number": "41",
+        "minLevel": "10",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "304",
+        "minLevel": "11",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "304",
+        "minLevel": "10",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "41",
+        "minLevel": "11",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "304",
+        "minLevel": "12",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "63",
+        "minLevel": "10",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "303",
+        "minLevel": "10",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "303",
+        "minLevel": "11",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "303",
+        "minLevel": "12",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "303",
+        "minLevel": "10",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "303",
+        "minLevel": "12",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "303",
+        "minLevel": "10",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
-    },
-    "Route 112": {
-      "Walk": {
-        "0": {
-          "number": "322",
-          "minLevel": "15",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "322",
-          "minLevel": "15",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "66",
-          "minLevel": "15",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "322",
-          "minLevel": "14",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "322",
-          "minLevel": "14",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "66",
-          "minLevel": "14",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "322",
-          "minLevel": "16",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "66",
-          "minLevel": "16",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "322",
-          "minLevel": "16",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "322",
-          "minLevel": "16",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "322",
-          "minLevel": "16",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "322",
-          "minLevel": "16",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+    }
+  },
+  "Granite Cave - Steven's Room": {
+    "Walk": {
+      "0": {
+        "number": "41",
+        "minLevel": "7",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "296",
+        "minLevel": "8",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "296",
+        "minLevel": "7",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "41",
+        "minLevel": "8",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "296",
+        "minLevel": "9",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "63",
+        "minLevel": "8",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "296",
+        "minLevel": "10",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "296",
+        "minLevel": "6",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "304",
+        "minLevel": "7",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "304",
+        "minLevel": "8",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "304",
+        "minLevel": "7",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "304",
+        "minLevel": "8",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
-    },
-    "Route 113": {
-      "Walk": {
-        "0": {
-          "number": "327",
-          "minLevel": "15",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "327",
-          "minLevel": "15",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "27",
-          "minLevel": "15",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "327",
-          "minLevel": "14",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "327",
-          "minLevel": "14",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "27",
-          "minLevel": "14",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "327",
-          "minLevel": "16",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "27",
-          "minLevel": "16",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "327",
-          "minLevel": "16",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "227",
-          "minLevel": "16",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "327",
-          "minLevel": "16",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "227",
-          "minLevel": "16",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+    }
+  },
+  "Jagged Pass": {
+    "Walk": {
+      "0": {
+        "number": "322",
+        "minLevel": "19",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "322",
+        "minLevel": "19",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "66",
+        "minLevel": "19",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "322",
+        "minLevel": "18",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "325",
+        "minLevel": "18",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "66",
+        "minLevel": "18",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "325",
+        "minLevel": "19",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "66",
+        "minLevel": "20",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "322",
+        "minLevel": "20",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "325",
+        "minLevel": "20",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "322",
+        "minLevel": "20",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "325",
+        "minLevel": "20",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
-    },
-    "Route 114": {
-      "Walk": {
-        "0": {
-          "number": "333",
-          "minLevel": "16",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "273",
-          "minLevel": "16",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "333",
-          "minLevel": "17",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "333",
-          "minLevel": "15",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "273",
-          "minLevel": "15",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "335",
-          "minLevel": "16",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "274",
-          "minLevel": "16",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "274",
-          "minLevel": "18",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "335",
-          "minLevel": "17",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "335",
-          "minLevel": "15",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "335",
-          "minLevel": "17",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "283",
-          "minLevel": "15",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+    }
+  },
+  "Meteor Falls - 1F-1": {
+    "Walk": {
+      "0": {
+        "number": "41",
+        "minLevel": "16",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "41",
+        "minLevel": "17",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "41",
+        "minLevel": "18",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "41",
+        "minLevel": "15",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "41",
+        "minLevel": "14",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "338",
+        "minLevel": "16",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "338",
+        "minLevel": "18",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "338",
+        "minLevel": "14",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "41",
+        "minLevel": "19",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "41",
+        "minLevel": "20",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "41",
+        "minLevel": "19",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "41",
+        "minLevel": "20",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
-    },
-    "Route 115": {
-      "Walk": {
-        "0": {
-          "number": "333",
-          "minLevel": "23",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "276",
-          "minLevel": "23",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "333",
-          "minLevel": "25",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "276",
-          "minLevel": "24",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "276",
-          "minLevel": "25",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "277",
-          "minLevel": "25",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "39",
-          "minLevel": "24",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "39",
-          "minLevel": "25",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "278",
-          "minLevel": "24",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "278",
-          "minLevel": "24",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "278",
-          "minLevel": "26",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "278",
-          "minLevel": "25",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+    }
+  },
+  "Meteor Falls - 1F-2 & B1F-1": {
+    "Walk": {
+      "0": {
+        "number": "42",
+        "minLevel": "33",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "42",
+        "minLevel": "35",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "42",
+        "minLevel": "33",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "338",
+        "minLevel": "35",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "338",
+        "minLevel": "33",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "338",
+        "minLevel": "37",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "42",
+        "minLevel": "35",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "338",
+        "minLevel": "39",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "42",
+        "minLevel": "38",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "42",
+        "minLevel": "40",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "42",
+        "minLevel": "38",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "42",
+        "minLevel": "40",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
-    },
-    "Route 116": {
-      "Walk": {
-        "0": {
-          "number": "263",
-          "minLevel": "6",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "293",
-          "minLevel": "6",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "290",
-          "minLevel": "6",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "293",
-          "minLevel": "7",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "290",
-          "minLevel": "7",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "276",
-          "minLevel": "6",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "276",
-          "minLevel": "7",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "276",
-          "minLevel": "8",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "263",
-          "minLevel": "7",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "263",
-          "minLevel": "8",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "300",
-          "minLevel": "7",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "300",
-          "minLevel": "8",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+    }
+  },
+  "Meteor Falls - B1F-2": {
+    "Walk": {
+      "0": {
+        "number": "42",
+        "minLevel": "33",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "42",
+        "minLevel": "35",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "371",
+        "minLevel": "30",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "338",
+        "minLevel": "35",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "371",
+        "minLevel": "35",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "338",
+        "minLevel": "37",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "371",
+        "minLevel": "25",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "338",
+        "minLevel": "39",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "42",
+        "minLevel": "38",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "42",
+        "minLevel": "40",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "42",
+        "minLevel": "38",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "42",
+        "minLevel": "40",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
-    },
-    "Route 117": {
-      "Walk": {
-        "0": {
-          "number": "263",
-          "minLevel": "13",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "315",
-          "minLevel": "13",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "263",
-          "minLevel": "14",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "315",
-          "minLevel": "14",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "183",
-          "minLevel": "13",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "43",
-          "minLevel": "13",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "314",
-          "minLevel": "13",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "314",
-          "minLevel": "13",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "314",
-          "minLevel": "14",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "314",
-          "minLevel": "14",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "313",
-          "minLevel": "13",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "283",
-          "minLevel": "13",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+    }
+  },
+  "Mt. Pyre - 1F-3F": {
+    "Walk": {
+      "0": {
+        "number": "355",
+        "minLevel": "27",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "355",
+        "minLevel": "28",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "355",
+        "minLevel": "26",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "355",
+        "minLevel": "25",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "355",
+        "minLevel": "29",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "355",
+        "minLevel": "24",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "355",
+        "minLevel": "23",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "355",
+        "minLevel": "22",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "355",
+        "minLevel": "29",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "355",
+        "minLevel": "24",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "355",
+        "minLevel": "29",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "355",
+        "minLevel": "24",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
-    },
-    "Route 118": {
-      "Walk": {
-        "0": {
-          "number": "263",
-          "minLevel": "24",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "309",
-          "minLevel": "24",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "263",
-          "minLevel": "26",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "309",
-          "minLevel": "26",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "264",
-          "minLevel": "26",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "310",
-          "minLevel": "26",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "278",
-          "minLevel": "25",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "278",
-          "minLevel": "25",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "278",
-          "minLevel": "26",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "278",
-          "minLevel": "26",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "278",
-          "minLevel": "27",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "352",
-          "minLevel": "25",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+    }
+  },
+  "Mt. Pyre - 4F-6F": {
+    "Walk": {
+      "0": {
+        "number": "355",
+        "minLevel": "27",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "355",
+        "minLevel": "28",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "355",
+        "minLevel": "26",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "355",
+        "minLevel": "25",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "355",
+        "minLevel": "29",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "355",
+        "minLevel": "24",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "355",
+        "minLevel": "23",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "355",
+        "minLevel": "22",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "353",
+        "minLevel": "27",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "353",
+        "minLevel": "27",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "353",
+        "minLevel": "25",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "353",
+        "minLevel": "29",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
-    },
-    "Route 119": {
-      "Walk": {
-        "0": {
-          "number": "263",
-          "minLevel": "25",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "264",
-          "minLevel": "25",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "263",
-          "minLevel": "27",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "43",
-          "minLevel": "25",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "264",
-          "minLevel": "27",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "43",
-          "minLevel": "26",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "43",
-          "minLevel": "27",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "43",
-          "minLevel": "24",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "357",
-          "minLevel": "25",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "357",
-          "minLevel": "26",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "357",
-          "minLevel": "27",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "352",
-          "minLevel": "25",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+    }
+  },
+  "Mt. Pyre - Outside": {
+    "Walk": {
+      "0": {
+        "number": "355",
+        "minLevel": "28",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "355",
+        "minLevel": "29",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "355",
+        "minLevel": "27",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "355",
+        "minLevel": "26",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "355",
+        "minLevel": "30",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "355",
+        "minLevel": "25",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "355",
+        "minLevel": "24",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "353",
+        "minLevel": "28",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "353",
+        "minLevel": "26",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "353",
+        "minLevel": "30",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "358",
+        "minLevel": "28",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "358",
+        "minLevel": "28",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
-    },
-    "Route 120": {
-      "Walk": {
-        "0": {
-          "number": "263",
-          "minLevel": "25",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "264",
-          "minLevel": "25",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "264",
-          "minLevel": "27",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "43",
-          "minLevel": "25",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "183",
-          "minLevel": "25",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "43",
-          "minLevel": "26",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "43",
-          "minLevel": "27",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "183",
-          "minLevel": "27",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "359",
-          "minLevel": "25",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "359",
-          "minLevel": "27",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "352",
-          "minLevel": "25",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "283",
-          "minLevel": "25",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+    }
+  },
+  "Mt. Pyre - Summit": {
+    "Walk": {
+      "0": {
+        "number": "355",
+        "minLevel": "27",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "307",
+        "minLevel": "27",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "355",
+        "minLevel": "28",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "307",
+        "minLevel": "29",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "355",
+        "minLevel": "29",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "37",
+        "minLevel": "27",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "37",
+        "minLevel": "29",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "37",
+        "minLevel": "25",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "278",
+        "minLevel": "27",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "278",
+        "minLevel": "27",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "278",
+        "minLevel": "26",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "278",
+        "minLevel": "28",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
-    },
-    "Route 121": {
-      "Walk": {
-        "0": {
-          "number": "263",
-          "minLevel": "26",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "355",
-          "minLevel": "26",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "264",
-          "minLevel": "26",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "355",
-          "minLevel": "28",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "264",
-          "minLevel": "28",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "43",
-          "minLevel": "26",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "43",
-          "minLevel": "28",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "44",
-          "minLevel": "28",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "278",
-          "minLevel": "26",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "278",
-          "minLevel": "27",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "278",
-          "minLevel": "28",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "352",
-          "minLevel": "25",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+    }
+  },
+  "New Mauville": {
+    "Walk": {
+      "0": {
+        "number": "100",
+        "minLevel": "24",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "81",
+        "minLevel": "24",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "100",
+        "minLevel": "25",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "81",
+        "minLevel": "25",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "100",
+        "minLevel": "23",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "81",
+        "minLevel": "23",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "100",
+        "minLevel": "26",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "81",
+        "minLevel": "26",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "100",
+        "minLevel": "22",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "81",
+        "minLevel": "22",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "100",
+        "minLevel": "22",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "81",
+        "minLevel": "22",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
-    },
-    "Route 123": {
-      "Walk": {
-        "0": {
-          "number": "263",
-          "minLevel": "26",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "355",
-          "minLevel": "26",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "264",
-          "minLevel": "26",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "355",
-          "minLevel": "28",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "264",
-          "minLevel": "28",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "43",
-          "minLevel": "26",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "43",
-          "minLevel": "28",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "44",
-          "minLevel": "28",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "278",
-          "minLevel": "26",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "278",
-          "minLevel": "27",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "278",
-          "minLevel": "28",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "352",
-          "minLevel": "25",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+    }
+  },
+  "New Mauville - B1F": {
+    "Walk": {
+      "0": {
+        "number": "100",
+        "minLevel": "24",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "81",
+        "minLevel": "24",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "100",
+        "minLevel": "25",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "81",
+        "minLevel": "25",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "100",
+        "minLevel": "23",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "81",
+        "minLevel": "23",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "100",
+        "minLevel": "26",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "81",
+        "minLevel": "26",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "100",
+        "minLevel": "22",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "81",
+        "minLevel": "22",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "101",
+        "minLevel": "26",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "82",
+        "minLevel": "26",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
-    },
-    "Route 130": {
-      "Walk": {
-        "0": {
-          "number": "360",
-          "minLevel": "30",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "360",
-          "minLevel": "35",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "360",
-          "minLevel": "25",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "360",
-          "minLevel": "40",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "360",
-          "minLevel": "20",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "360",
-          "minLevel": "45",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "360",
-          "minLevel": "15",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "360",
-          "minLevel": "50",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "360",
-          "minLevel": "10",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "360",
-          "minLevel": "5",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "360",
-          "minLevel": "10",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "360",
-          "minLevel": "5",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+    }
+  },
+  "Petalburg Woods": {
+    "Walk": {
+      "0": {
+        "number": "263",
+        "minLevel": "5",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "265",
+        "minLevel": "5",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "285",
+        "minLevel": "5",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "263",
+        "minLevel": "6",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "266",
+        "minLevel": "5",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "268",
+        "minLevel": "5",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "265",
+        "minLevel": "6",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "285",
+        "minLevel": "6",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "276",
+        "minLevel": "5",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "287",
+        "minLevel": "5",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "276",
+        "minLevel": "6",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "287",
+        "minLevel": "6",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
-    },
-    "Rusturf Tunnel": {
-      "Walk": {
-        "0": {
-          "number": "293",
-          "minLevel": "6",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "293",
-          "minLevel": "7",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "293",
-          "minLevel": "6",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "293",
-          "minLevel": "6",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "293",
-          "minLevel": "7",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "293",
-          "minLevel": "7",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "293",
-          "minLevel": "5",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "293",
-          "minLevel": "8",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "293",
-          "minLevel": "5",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "293",
-          "minLevel": "8",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "293",
-          "minLevel": "5",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "293",
-          "minLevel": "8",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+    }
+  },
+  "Rusturf Tunnel": {
+    "Walk": {
+      "0": {
+        "number": "293",
+        "minLevel": "6",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "293",
+        "minLevel": "7",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "293",
+        "minLevel": "6",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "293",
+        "minLevel": "6",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "293",
+        "minLevel": "7",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "293",
+        "minLevel": "7",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "293",
+        "minLevel": "5",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "293",
+        "minLevel": "8",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "293",
+        "minLevel": "5",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "293",
+        "minLevel": "8",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "293",
+        "minLevel": "5",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "293",
+        "minLevel": "8",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
-    },
-    "Safari Zone - Northwest": {
-      "Walk": {
-        "0": {
-          "number": "111",
-          "minLevel": "27",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "43",
-          "minLevel": "27",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "111",
-          "minLevel": "29",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "43",
-          "minLevel": "29",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "84",
-          "minLevel": "27",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "44",
-          "minLevel": "29",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "44",
-          "minLevel": "31",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "84",
-          "minLevel": "29",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "85",
-          "minLevel": "29",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "127",
-          "minLevel": "27",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "85",
-          "minLevel": "31",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "127",
-          "minLevel": "29",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+    }
+  },
+  "Safari Zone - Northeast": {
+    "Walk": {
+      "0": {
+        "number": "231",
+        "minLevel": "27",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "43",
+        "minLevel": "27",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "231",
+        "minLevel": "29",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "43",
+        "minLevel": "29",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "177",
+        "minLevel": "27",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "44",
+        "minLevel": "29",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "44",
+        "minLevel": "31",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "177",
+        "minLevel": "29",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "178",
+        "minLevel": "29",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "214",
+        "minLevel": "27",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "178",
+        "minLevel": "31",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "214",
+        "minLevel": "29",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
-    },
-    "Safari Zone - Northeast": {
-      "Walk": {
-        "0": {
-          "number": "231",
-          "minLevel": "27",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "43",
-          "minLevel": "27",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "231",
-          "minLevel": "29",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "43",
-          "minLevel": "29",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "177",
-          "minLevel": "27",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "44",
-          "minLevel": "29",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "44",
-          "minLevel": "31",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "177",
-          "minLevel": "29",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "178",
-          "minLevel": "29",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "214",
-          "minLevel": "27",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "178",
-          "minLevel": "31",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "214",
-          "minLevel": "29",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+    }
+  },
+  "Safari Zone - Northwest": {
+    "Walk": {
+      "0": {
+        "number": "111",
+        "minLevel": "27",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "43",
+        "minLevel": "27",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "111",
+        "minLevel": "29",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "43",
+        "minLevel": "29",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "84",
+        "minLevel": "27",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "44",
+        "minLevel": "29",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "44",
+        "minLevel": "31",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "84",
+        "minLevel": "29",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "85",
+        "minLevel": "29",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "127",
+        "minLevel": "27",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "85",
+        "minLevel": "31",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "127",
+        "minLevel": "29",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
-    },
-    "Safari Zone - Southeast": {
-      "Walk": {
-        "0": {
-          "number": "43",
-          "minLevel": "25",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "43",
-          "minLevel": "27",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "203",
-          "minLevel": "25",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "203",
-          "minLevel": "27",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "177",
-          "minLevel": "25",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "84",
-          "minLevel": "25",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "44",
-          "minLevel": "25",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "202",
-          "minLevel": "27",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "25",
-          "minLevel": "25",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "202",
-          "minLevel": "27",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "25",
-          "minLevel": "27",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "202",
-          "minLevel": "29",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+    }
+  },
+  "Safari Zone - Southeast": {
+    "Walk": {
+      "0": {
+        "number": "43",
+        "minLevel": "25",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "43",
+        "minLevel": "27",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "203",
+        "minLevel": "25",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "203",
+        "minLevel": "27",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "177",
+        "minLevel": "25",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "84",
+        "minLevel": "25",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "44",
+        "minLevel": "25",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "202",
+        "minLevel": "27",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "25",
+        "minLevel": "25",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "202",
+        "minLevel": "27",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "25",
+        "minLevel": "27",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "202",
+        "minLevel": "29",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
-    },
-    "Safari Zone - Southwest": {
-      "Walk": {
-        "0": {
-          "number": "43",
-          "minLevel": "25",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "43",
-          "minLevel": "27",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "203",
-          "minLevel": "25",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "203",
-          "minLevel": "27",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "177",
-          "minLevel": "25",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "84",
-          "minLevel": "25",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "44",
-          "minLevel": "25",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "202",
-          "minLevel": "27",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "25",
-          "minLevel": "25",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "202",
-          "minLevel": "27",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "25",
-          "minLevel": "27",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "202",
-          "minLevel": "29",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+    }
+  },
+  "Safari Zone - Southwest": {
+    "Walk": {
+      "0": {
+        "number": "43",
+        "minLevel": "25",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "43",
+        "minLevel": "27",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "203",
+        "minLevel": "25",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "203",
+        "minLevel": "27",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "177",
+        "minLevel": "25",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "84",
+        "minLevel": "25",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "44",
+        "minLevel": "25",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "202",
+        "minLevel": "27",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "25",
+        "minLevel": "25",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "202",
+        "minLevel": "27",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "25",
+        "minLevel": "27",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "202",
+        "minLevel": "29",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
-    },
-    "Seafloor Cavern": {
-      "Walk": {
-        "0": {
-          "number": "41",
-          "minLevel": "30",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "41",
-          "minLevel": "31",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "41",
-          "minLevel": "32",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "41",
-          "minLevel": "33",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "41",
-          "minLevel": "28",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "41",
-          "minLevel": "29",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "41",
-          "minLevel": "34",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "41",
-          "minLevel": "35",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "42",
-          "minLevel": "34",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "42",
-          "minLevel": "35",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "42",
-          "minLevel": "33",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "42",
-          "minLevel": "36",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+    }
+  },
+  "Seafloor Cavern": {
+    "Walk": {
+      "0": {
+        "number": "41",
+        "minLevel": "30",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "41",
+        "minLevel": "31",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "41",
+        "minLevel": "32",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "41",
+        "minLevel": "33",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "41",
+        "minLevel": "28",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "41",
+        "minLevel": "29",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "41",
+        "minLevel": "34",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "41",
+        "minLevel": "35",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "42",
+        "minLevel": "34",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "42",
+        "minLevel": "35",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "42",
+        "minLevel": "33",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "42",
+        "minLevel": "36",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
-    },
-    "Shoal Cave - Main": {
-      "Walk": {
-        "0": {
-          "number": "41",
-          "minLevel": "26",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "363",
-          "minLevel": "26",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "41",
-          "minLevel": "28",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "363",
-          "minLevel": "28",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "41",
-          "minLevel": "30",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "363",
-          "minLevel": "30",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "41",
-          "minLevel": "32",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "363",
-          "minLevel": "32",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "42",
-          "minLevel": "32",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "363",
-          "minLevel": "32",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "42",
-          "minLevel": "32",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "363",
-          "minLevel": "32",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+    }
+  },
+  "Shoal Cave - Ice": {
+    "Walk": {
+      "0": {
+        "number": "41",
+        "minLevel": "26",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "363",
+        "minLevel": "26",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "41",
+        "minLevel": "28",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "363",
+        "minLevel": "28",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "41",
+        "minLevel": "30",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "363",
+        "minLevel": "30",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "361",
+        "minLevel": "26",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "363",
+        "minLevel": "32",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "42",
+        "minLevel": "30",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "361",
+        "minLevel": "28",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "42",
+        "minLevel": "32",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "361",
+        "minLevel": "30",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
-    },
-    "Shoal Cave - Ice": {
-      "Walk": {
-        "0": {
-          "number": "41",
-          "minLevel": "26",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "363",
-          "minLevel": "26",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "41",
-          "minLevel": "28",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "363",
-          "minLevel": "28",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "41",
-          "minLevel": "30",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "363",
-          "minLevel": "30",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "361",
-          "minLevel": "26",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "363",
-          "minLevel": "32",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "42",
-          "minLevel": "30",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "361",
-          "minLevel": "28",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "42",
-          "minLevel": "32",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "361",
-          "minLevel": "30",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+    }
+  },
+  "Shoal Cave - Main": {
+    "Walk": {
+      "0": {
+        "number": "41",
+        "minLevel": "26",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "363",
+        "minLevel": "26",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "41",
+        "minLevel": "28",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "363",
+        "minLevel": "28",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "41",
+        "minLevel": "30",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "363",
+        "minLevel": "30",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "41",
+        "minLevel": "32",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "363",
+        "minLevel": "32",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "42",
+        "minLevel": "32",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "363",
+        "minLevel": "32",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "42",
+        "minLevel": "32",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "363",
+        "minLevel": "32",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
-    },
-    "Sky Pillar - 1F": {
-      "Walk": {
-        "0": {
-          "number": "303",
-          "minLevel": "48",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "42",
-          "minLevel": "48",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "42",
-          "minLevel": "50",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "303",
-          "minLevel": "50",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "344",
-          "minLevel": "48",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "356",
-          "minLevel": "48",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "356",
-          "minLevel": "50",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "344",
-          "minLevel": "49",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "344",
-          "minLevel": "47",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "344",
-          "minLevel": "50",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "344",
-          "minLevel": "47",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "344",
-          "minLevel": "50",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+    }
+  },
+  "Sky Pillar - 1F": {
+    "Walk": {
+      "0": {
+        "number": "303",
+        "minLevel": "48",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "42",
+        "minLevel": "48",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "42",
+        "minLevel": "50",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "303",
+        "minLevel": "50",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "344",
+        "minLevel": "48",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "356",
+        "minLevel": "48",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "356",
+        "minLevel": "50",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "344",
+        "minLevel": "49",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "344",
+        "minLevel": "47",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "344",
+        "minLevel": "50",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "344",
+        "minLevel": "47",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "344",
+        "minLevel": "50",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
-    },
-    "Sky Pillar - 3F": {
-      "Walk": {
-        "0": {
-          "number": "303",
-          "minLevel": "51",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "42",
-          "minLevel": "51",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "42",
-          "minLevel": "53",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "303",
-          "minLevel": "53",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "344",
-          "minLevel": "51",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "356",
-          "minLevel": "51",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "356",
-          "minLevel": "53",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "344",
-          "minLevel": "52",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "344",
-          "minLevel": "50",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "344",
-          "minLevel": "53",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "344",
-          "minLevel": "50",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "344",
-          "minLevel": "53",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+    }
+  },
+  "Sky Pillar - 3F": {
+    "Walk": {
+      "0": {
+        "number": "303",
+        "minLevel": "51",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "42",
+        "minLevel": "51",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "42",
+        "minLevel": "53",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "303",
+        "minLevel": "53",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "344",
+        "minLevel": "51",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "356",
+        "minLevel": "51",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "356",
+        "minLevel": "53",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "344",
+        "minLevel": "52",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "344",
+        "minLevel": "50",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "344",
+        "minLevel": "53",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "344",
+        "minLevel": "50",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "344",
+        "minLevel": "53",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
-    },
-    "Sky Pillar - 5F": {
-      "Walk": {
-        "0": {
-          "number": "303",
-          "minLevel": "54",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "42",
-          "minLevel": "54",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "42",
-          "minLevel": "56",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "303",
-          "minLevel": "56",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "344",
-          "minLevel": "54",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "356",
-          "minLevel": "54",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "356",
-          "minLevel": "56",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "344",
-          "minLevel": "55",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "344",
-          "minLevel": "56",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "334",
-          "minLevel": "57",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "334",
-          "minLevel": "54",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "334",
-          "minLevel": "60",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+    }
+  },
+  "Sky Pillar - 5F": {
+    "Walk": {
+      "0": {
+        "number": "303",
+        "minLevel": "54",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "42",
+        "minLevel": "54",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "42",
+        "minLevel": "56",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "303",
+        "minLevel": "56",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "344",
+        "minLevel": "54",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "356",
+        "minLevel": "54",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "356",
+        "minLevel": "56",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "344",
+        "minLevel": "55",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "344",
+        "minLevel": "56",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "334",
+        "minLevel": "57",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "334",
+        "minLevel": "54",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "334",
+        "minLevel": "60",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
-    },
-    "Victory Road - 1F": {
-      "Walk": {
-        "0": {
-          "number": "42",
-          "minLevel": "40",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "297",
-          "minLevel": "40",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "305",
-          "minLevel": "40",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "294",
-          "minLevel": "40",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "41",
-          "minLevel": "36",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "296",
-          "minLevel": "36",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "42",
-          "minLevel": "38",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "297",
-          "minLevel": "38",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "304",
-          "minLevel": "36",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "293",
-          "minLevel": "36",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "304",
-          "minLevel": "36",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "293",
-          "minLevel": "36",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+    }
+  },
+  "Victory Road - 1F": {
+    "Walk": {
+      "0": {
+        "number": "42",
+        "minLevel": "40",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "297",
+        "minLevel": "40",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "305",
+        "minLevel": "40",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "294",
+        "minLevel": "40",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "41",
+        "minLevel": "36",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "296",
+        "minLevel": "36",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "42",
+        "minLevel": "38",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "297",
+        "minLevel": "38",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "304",
+        "minLevel": "36",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "293",
+        "minLevel": "36",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "304",
+        "minLevel": "36",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "293",
+        "minLevel": "36",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
-    },
-    "Victory Road - B1F": {
-      "Walk": {
-        "0": {
-          "number": "42",
-          "minLevel": "40",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "297",
-          "minLevel": "40",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "305",
-          "minLevel": "40",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "308",
-          "minLevel": "40",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "42",
-          "minLevel": "38",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "297",
-          "minLevel": "38",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "42",
-          "minLevel": "42",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "297",
-          "minLevel": "42",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "305",
-          "minLevel": "42",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "307",
-          "minLevel": "38",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "305",
-          "minLevel": "42",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "307",
-          "minLevel": "38",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+    }
+  },
+  "Victory Road - B1F": {
+    "Walk": {
+      "0": {
+        "number": "42",
+        "minLevel": "40",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "297",
+        "minLevel": "40",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "305",
+        "minLevel": "40",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "308",
+        "minLevel": "40",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "42",
+        "minLevel": "38",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "297",
+        "minLevel": "38",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "42",
+        "minLevel": "42",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "297",
+        "minLevel": "42",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "305",
+        "minLevel": "42",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "307",
+        "minLevel": "38",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "305",
+        "minLevel": "42",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "307",
+        "minLevel": "38",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
-    },
-    "Victory Road - B2F": {
-      "Walk": {
-        "0": {
-          "number": "42",
-          "minLevel": "40",
-          "rate": "0.2"
-        },
-        "1": {
-          "number": "303",
-          "minLevel": "40",
-          "rate": "0.2"
-        },
-        "2": {
-          "number": "305",
-          "minLevel": "40",
-          "rate": "0.1"
-        },
-        "3": {
-          "number": "308",
-          "minLevel": "40",
-          "rate": "0.1"
-        },
-        "4": {
-          "number": "42",
-          "minLevel": "42",
-          "rate": "0.1"
-        },
-        "5": {
-          "number": "303",
-          "minLevel": "42",
-          "rate": "0.1"
-        },
-        "6": {
-          "number": "42",
-          "minLevel": "44",
-          "rate": "0.05"
-        },
-        "7": {
-          "number": "303",
-          "minLevel": "44",
-          "rate": "0.05"
-        },
-        "8": {
-          "number": "305",
-          "minLevel": "42",
-          "rate": "0.04"
-        },
-        "9": {
-          "number": "308",
-          "minLevel": "42",
-          "rate": "0.04"
-        },
-        "10": {
-          "number": "305",
-          "minLevel": "44",
-          "rate": "0.01"
-        },
-        "11": {
-          "number": "308",
-          "minLevel": "44",
-          "rate": "0.01"
-        },
-        "variables": {
-          "repel": "true"
-        }
+    }
+  },
+  "Victory Road - B2F": {
+    "Walk": {
+      "0": {
+        "number": "42",
+        "minLevel": "40",
+        "rate": "0.2"
+      },
+      "1": {
+        "number": "303",
+        "minLevel": "40",
+        "rate": "0.2"
+      },
+      "2": {
+        "number": "305",
+        "minLevel": "40",
+        "rate": "0.1"
+      },
+      "3": {
+        "number": "308",
+        "minLevel": "40",
+        "rate": "0.1"
+      },
+      "4": {
+        "number": "42",
+        "minLevel": "42",
+        "rate": "0.1"
+      },
+      "5": {
+        "number": "303",
+        "minLevel": "42",
+        "rate": "0.1"
+      },
+      "6": {
+        "number": "42",
+        "minLevel": "44",
+        "rate": "0.05"
+      },
+      "7": {
+        "number": "303",
+        "minLevel": "44",
+        "rate": "0.05"
+      },
+      "8": {
+        "number": "305",
+        "minLevel": "42",
+        "rate": "0.04"
+      },
+      "9": {
+        "number": "308",
+        "minLevel": "42",
+        "rate": "0.04"
+      },
+      "10": {
+        "number": "305",
+        "minLevel": "44",
+        "rate": "0.01"
+      },
+      "11": {
+        "number": "308",
+        "minLevel": "44",
+        "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
     }
   }
+}
