@@ -4270,6 +4270,73 @@
         }
       }
     },
+    "Dilford Chamber": {
+      "Walk": {
+        "0": {
+          "number": "201-p",
+          "minLevel": "25",
+          "rate": "0.2"
+        },
+        "1": {
+          "number": "201-p",
+          "minLevel": "25",
+          "rate": "0.2"
+        },
+        "2": {
+          "number": "201-j",
+          "minLevel": "25",
+          "rate": "0.1"
+        },
+        "3": {
+          "number": "201-j",
+          "minLevel": "25",
+          "rate": "0.1"
+        },
+        "4": {
+          "number": "201-l",
+          "minLevel": "25",
+          "rate": "0.1"
+        },
+        "5": {
+          "number": "201-l",
+          "minLevel": "25",
+          "rate": "0.1"
+        },
+        "6": {
+          "number": "201-r",
+          "minLevel": "25",
+          "rate": "0.05"
+        },
+        "7": {
+          "number": "201-r",
+          "minLevel": "25",
+          "rate": "0.05"
+        },
+        "8": {
+          "number": "201-r",
+          "minLevel": "25",
+          "rate": "0.04"
+        },
+        "9": {
+          "number": "201-q",
+          "minLevel": "25",
+          "rate": "0.04"
+        },
+        "10": {
+          "number": "201-q",
+          "minLevel": "25",
+          "rate": "0.01"
+        },
+        "11": {
+          "number": "201-q",
+          "minLevel": "25",
+          "rate": "0.01"
+        },
+        "variables": {
+          "repel": "true"
+        }
+      }
+    },
     "Five Island": {
       "Surf": {
         "0": {
@@ -5507,6 +5574,73 @@
         }
       }
     },
+    "Liptoo Chamber": {
+      "Walk": {
+        "0": {
+          "number": "201-c",
+          "minLevel": "25",
+          "rate": "0.2"
+        },
+        "1": {
+          "number": "201-c",
+          "minLevel": "25",
+          "rate": "0.2"
+        },
+        "2": {
+          "number": "201-c",
+          "minLevel": "25",
+          "rate": "0.1"
+        },
+        "3": {
+          "number": "201-d",
+          "minLevel": "25",
+          "rate": "0.1"
+        },
+        "4": {
+          "number": "201-d",
+          "minLevel": "25",
+          "rate": "0.1"
+        },
+        "5": {
+          "number": "201-d",
+          "minLevel": "25",
+          "rate": "0.1"
+        },
+        "6": {
+          "number": "201-h",
+          "minLevel": "25",
+          "rate": "0.05"
+        },
+        "7": {
+          "number": "201-h",
+          "minLevel": "25",
+          "rate": "0.05"
+        },
+        "8": {
+          "number": "201-h",
+          "minLevel": "25",
+          "rate": "0.04"
+        },
+        "9": {
+          "number": "201-u",
+          "minLevel": "25",
+          "rate": "0.04"
+        },
+        "10": {
+          "number": "201-u",
+          "minLevel": "25",
+          "rate": "0.01"
+        },
+        "11": {
+          "number": "201-o",
+          "minLevel": "25",
+          "rate": "0.01"
+        },
+        "variables": {
+          "repel": "true"
+        }
+      }
+    },
     "Lost Cave (All Rooms)": {
       "Walk": {
         "0": {
@@ -5638,6 +5772,73 @@
         },
         "variables": {
           "repel": "true"
+        }
+      },
+      "Monean Chamber": {
+        "Walk": {
+          "0": {
+            "number": "201-a",
+            "minLevel": "25",
+            "rate": "0.2"
+          },
+          "1": {
+            "number": "201-a",
+            "minLevel": "25",
+            "rate": "0.2"
+          },
+          "2": {
+            "number": "201-a",
+            "minLevel": "25",
+            "rate": "0.1"
+          },
+          "3": {
+            "number": "201-a",
+            "minLevel": "25",
+            "rate": "0.1"
+          },
+          "4": {
+            "number": "201-a",
+            "minLevel": "25",
+            "rate": "0.1"
+          },
+          "5": {
+            "number": "201-a",
+            "minLevel": "25",
+            "rate": "0.1"
+          },
+          "6": {
+            "number": "201-a",
+            "minLevel": "25",
+            "rate": "0.05"
+          },
+          "7": {
+            "number": "201-a",
+            "minLevel": "25",
+            "rate": "0.05"
+          },
+          "8": {
+            "number": "201-a",
+            "minLevel": "25",
+            "rate": "0.04"
+          },
+          "9": {
+            "number": "201-a",
+            "minLevel": "25",
+            "rate": "0.04"
+          },
+          "10": {
+            "number": "201-a",
+            "minLevel": "25",
+            "rate": "0.01"
+          },
+          "11": {
+            "number": "201-question",
+            "minLevel": "25",
+            "rate": "0.01"
+          },
+          "variables": {
+            "repel": "true"
+          }
         }
       },
       "Surf": {
@@ -7693,6 +7894,73 @@
         }
       }
     },
+    "Rixy Chamber": {
+      "Walk": {
+        "0": {
+          "number": "201-v",
+          "minLevel": "25",
+          "rate": "0.2"
+        },
+        "1": {
+          "number": "201-v",
+          "minLevel": "25",
+          "rate": "0.2"
+        },
+        "2": {
+          "number": "201-v",
+          "minLevel": "25",
+          "rate": "0.1"
+        },
+        "3": {
+          "number": "201-w",
+          "minLevel": "25",
+          "rate": "0.1"
+        },
+        "4": {
+          "number": "201-w",
+          "minLevel": "25",
+          "rate": "0.1"
+        },
+        "5": {
+          "number": "201-w",
+          "minLevel": "25",
+          "rate": "0.1"
+        },
+        "6": {
+          "number": "201-x",
+          "minLevel": "25",
+          "rate": "0.05"
+        },
+        "7": {
+          "number": "201-x",
+          "minLevel": "25",
+          "rate": "0.05"
+        },
+        "8": {
+          "number": "201-m",
+          "minLevel": "25",
+          "rate": "0.04"
+        },
+        "9": {
+          "number": "201-m",
+          "minLevel": "25",
+          "rate": "0.04"
+        },
+        "10": {
+          "number": "201-b",
+          "minLevel": "25",
+          "rate": "0.01"
+        },
+        "11": {
+          "number": "201-b",
+          "minLevel": "25",
+          "rate": "0.01"
+        },
+        "variables": {
+          "repel": "true"
+        }
+      }
+    },
     "Rock Tunnel 1F": {
       "Walk": {
         "0": {
@@ -8790,6 +9058,73 @@
           "minLevel": "25",
           "maxLevel": "35",
           "rate": "0.01"
+        }
+      }
+    },
+    "Scufib Chamber": {
+      "Walk": {
+        "0": {
+          "number": "201-y",
+          "minLevel": "25",
+          "rate": "0.2"
+        },
+        "1": {
+          "number": "201-y",
+          "minLevel": "25",
+          "rate": "0.2"
+        },
+        "2": {
+          "number": "201-g",
+          "minLevel": "25",
+          "rate": "0.1"
+        },
+        "3": {
+          "number": "201-g",
+          "minLevel": "25",
+          "rate": "0.1"
+        },
+        "4": {
+          "number": "201-t",
+          "minLevel": "25",
+          "rate": "0.1"
+        },
+        "5": {
+          "number": "201-t",
+          "minLevel": "25",
+          "rate": "0.1"
+        },
+        "6": {
+          "number": "201-g",
+          "minLevel": "25",
+          "rate": "0.05"
+        },
+        "7": {
+          "number": "201-f",
+          "minLevel": "25",
+          "rate": "0.05"
+        },
+        "8": {
+          "number": "201-f",
+          "minLevel": "25",
+          "rate": "0.04"
+        },
+        "9": {
+          "number": "201-f",
+          "minLevel": "25",
+          "rate": "0.04"
+        },
+        "10": {
+          "number": "201-k",
+          "minLevel": "25",
+          "rate": "0.01"
+        },
+        "11": {
+          "number": "201-k",
+          "minLevel": "25",
+          "rate": "0.01"
+        },
+        "variables": {
+          "repel": "true"
         }
       }
     },
@@ -10030,6 +10365,73 @@
         }
       }
     },
+    "Viapois Chamber": {
+      "Walk": {
+        "0": {
+          "number": "201-z",
+          "minLevel": "25",
+          "rate": "0.2"
+        },
+        "1": {
+          "number": "201-z",
+          "minLevel": "25",
+          "rate": "0.2"
+        },
+        "2": {
+          "number": "201-z",
+          "minLevel": "25",
+          "rate": "0.1"
+        },
+        "3": {
+          "number": "201-z",
+          "minLevel": "25",
+          "rate": "0.1"
+        },
+        "4": {
+          "number": "201-z",
+          "minLevel": "25",
+          "rate": "0.1"
+        },
+        "5": {
+          "number": "201-z",
+          "minLevel": "25",
+          "rate": "0.1"
+        },
+        "6": {
+          "number": "201-z",
+          "minLevel": "25",
+          "rate": "0.05"
+        },
+        "7": {
+          "number": "201-z",
+          "minLevel": "25",
+          "rate": "0.05"
+        },
+        "8": {
+          "number": "201-z",
+          "minLevel": "25",
+          "rate": "0.04"
+        },
+        "9": {
+          "number": "201-z",
+          "minLevel": "25",
+          "rate": "0.04"
+        },
+        "10": {
+          "number": "201-z",
+          "minLevel": "25",
+          "rate": "0.01"
+        },
+        "11": {
+          "number": "201-exclamation",
+          "minLevel": "25",
+          "rate": "0.01"
+        },
+        "variables": {
+          "repel": "true"
+        }
+      }
+    },
     "Victory Road 1F": {
       "Walk": {
         "0": {
@@ -10663,6 +11065,73 @@
           "minLevel": "25",
           "maxLevel": "35",
           "rate": "0.01"
+        }
+      }
+    },
+    "Weepeth Chamber": {
+      "Walk": {
+        "0": {
+          "number": "201-n",
+          "minLevel": "25",
+          "rate": "0.2"
+        },
+        "1": {
+          "number": "201-n",
+          "minLevel": "25",
+          "rate": "0.2"
+        },
+        "2": {
+          "number": "201-n",
+          "minLevel": "25",
+          "rate": "0.1"
+        },
+        "3": {
+          "number": "201-n",
+          "minLevel": "25",
+          "rate": "0.1"
+        },
+        "4": {
+          "number": "201-s",
+          "minLevel": "25",
+          "rate": "0.1"
+        },
+        "5": {
+          "number": "201-s",
+          "minLevel": "25",
+          "rate": "0.1"
+        },
+        "6": {
+          "number": "201-s",
+          "minLevel": "25",
+          "rate": "0.05"
+        },
+        "7": {
+          "number": "201-s",
+          "minLevel": "25",
+          "rate": "0.05"
+        },
+        "8": {
+          "number": "201-i",
+          "minLevel": "25",
+          "rate": "0.04"
+        },
+        "9": {
+          "number": "201-i",
+          "minLevel": "25",
+          "rate": "0.04"
+        },
+        "10": {
+          "number": "201-e",
+          "minLevel": "25",
+          "rate": "0.01"
+        },
+        "11": {
+          "number": "201-e",
+          "minLevel": "25",
+          "rate": "0.01"
+        },
+        "variables": {
+          "repel": "true"
         }
       }
     }
