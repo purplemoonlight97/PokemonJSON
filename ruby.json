@@ -1361,6 +1361,9 @@
         "minLevel": "15",
         "maxLevel": "20",
         "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
     },
     "Surf": {
@@ -1707,6 +1710,9 @@
         "minLevel": "15",
         "maxLevel": "20",
         "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
     },
     "Surf": {
@@ -5214,6 +5220,9 @@
         "minLevel": "15",
         "maxLevel": "20",
         "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
     }
   },
@@ -6899,6 +6908,9 @@
         "minLevel": "15",
         "maxLevel": "20",
         "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
     }
   },
@@ -8315,6 +8327,9 @@
         "minLevel": "35",
         "maxLevel": "40",
         "rate": "0.01"
+      },
+      "variables": {
+        "repel": "true"
       }
     }
   },
