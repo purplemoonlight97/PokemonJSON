@@ -274,7 +274,6 @@
         },
         "Old Rod": {
             "variables": {
-                "repel": "true",
                 "hgssSafariBlocks": "0,0,0,2|0,0,0,3",
                 "hgssSafariSlots": "|61,15,61,16|",
                 "ability": "static|magnet pull|keen eye/intimidate"
@@ -332,7 +331,6 @@
         },
         "Good Rod": {
             "variables": {
-                "repel": "true",
                 "hgssSafariBlocks": "0,0,0,5|0,0,0,7",
                 "hgssSafariSlots": "|61,27,130,28|",
                 "ability": "static|magnet pull|keen eye/intimidate"
@@ -390,7 +388,6 @@
         },
         "Super Rod": {
             "variables": {
-                "repel": "true",
                 "hgssSafariBlocks": "0,0,0,10|0,0,0,14",
                 "hgssSafariSlots": "|130,42,130,45|",
                 "ability": "static|magnet pull|keen eye/intimidate"
