@@ -5,7 +5,7 @@
                 "repel": "true",
                 "tod": "||42,39,42,38,42,38,47,38,82,40,132,39,101,40,202,37,57,39,67,40,67,39,67,40",
                 "radio": "359,359,296,296|436,436,433,433",
-                "ability": "static|magnet pull|keen eye/intimidate"
+                "ability": "static|magnet pull|keen eye/intimidate|pressure"
             },
             "0": {
                 "number": "67",
