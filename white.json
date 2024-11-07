@@ -132,6 +132,7 @@
         "variables": {
           "repel": "true",
           "lucky": "true",
+          "double": "true",
           "ability": "static|magnet pull|keen eye|intimidate|hustle|pressure|vital spirit|cute charm"
         }
       }
