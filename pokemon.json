@@ -3716,7 +3716,7 @@
         "number": "509n",
         "name": "N's purrloin",
         "type1": "dark",
-        "gender": "4"
+        "gender": "8"
     },
     {
         "number": "510",
@@ -3784,7 +3784,7 @@
         "name": "N's pidove",
         "type1": "normal",
         "type2": "flying",
-        "gender": "4"
+        "gender": "8"
     },
     {
         "number": "520",
@@ -3828,7 +3828,7 @@
         "number": "525n",
         "name": "N's boldore",
         "type1": "rock",
-        "gender": "4"
+        "gender": "8"
     },
     {
         "number": "526",
@@ -3848,7 +3848,7 @@
         "name": "N's woobat",
         "type1": "psychic",
         "type2": "flying",
-        "gender": "4"
+        "gender": "8"
     },
     {
         "number": "528",
@@ -3886,7 +3886,7 @@
         "number": "532n",
         "name": "N's timburr",
         "type1": "fighting",
-        "gender": "6"
+        "gender": "8"
     },
     {
         "number": "533",
@@ -3910,7 +3910,7 @@
         "number": "535n",
         "name": "N's tympole",
         "type1": "water",
-        "gender": "4"
+        "gender": "8"
     },
     {
         "number": "536",
@@ -4030,7 +4030,7 @@
         "name": "N's sandile",
         "type1": "ground",
         "type2": "dark",
-        "gender": "4"
+        "gender": "8"
     },
     {
         "number": "552",
@@ -4056,7 +4056,7 @@
         "number": "554n",
         "name": "N's darumaka",
         "type1": "fire",
-        "gender": "4"
+        "gender": "8"
     },
     {
         "number": "554galar",
@@ -4074,7 +4074,7 @@
         "number": "555n",
         "name": "N's darmanitan",
         "type1": "fire",
-        "gender": "4"
+        "gender": "8"
     },
     {
         "number": "555galar",
@@ -4114,7 +4114,7 @@
         "name": "N's scraggy",
         "type1": "dark",
         "type2": "fighting",
-        "gender": "4"
+        "gender": "8"
     },
     {
         "number": "560",
@@ -4135,7 +4135,7 @@
         "name": "N's sigilyph",
         "type1": "psychic",
         "type2": "flying",
-        "gender": "4"
+        "gender": "8"
     },
     {
         "number": "562",
@@ -4410,7 +4410,7 @@
         "name": "N's joltik",
         "type1": "bug",
         "type2": "electric",
-        "gender": "4"
+        "gender": "8"
     },
     {
         "number": "596",
@@ -4431,7 +4431,7 @@
         "name": "N's ferroseed",
         "type1": "grass",
         "type2": "steel",
-        "gender": "4"
+        "gender": "8"
     },
     {
         "number": "598",
