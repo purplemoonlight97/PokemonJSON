@@ -1024,31 +1024,31 @@
     },
     "Rippling Fishing": {
       "0": {
-        "number": "118",
+        "number": "369",
         "minLevel": "35",
         "maxLevel": "60",
         "rate": "0.4"
       },
       "1": {
-        "number": "550",
+        "number": "370",
         "minLevel": "35",
         "maxLevel": "60",
         "rate": "0.4"
       },
       "2": {
-        "number": "119",
+        "number": "99",
         "minLevel": "35",
         "maxLevel": "70",
         "rate": "0.15"
       },
       "3": {
-        "number": "119",
+        "number": "368",
         "minLevel": "45",
         "maxLevel": "70",
         "rate": "0.04"
       },
       "4": {
-        "number": "119",
+        "number": "368",
         "minLevel": "45",
         "maxLevel": "70",
         "rate": "0.01"
@@ -3333,31 +3333,31 @@
     },
     "Rippling Fishing": {
       "0": {
-        "number": "369",
+        "number": "118",
         "minLevel": "35",
         "maxLevel": "60",
         "rate": "0.4"
       },
       "1": {
-        "number": "370",
+        "number": "550",
         "minLevel": "35",
         "maxLevel": "60",
         "rate": "0.4"
       },
       "2": {
-        "number": "99",
+        "number": "119",
         "minLevel": "35",
         "maxLevel": "70",
         "rate": "0.15"
       },
       "3": {
-        "number": "368",
+        "number": "119",
         "minLevel": "45",
         "maxLevel": "70",
         "rate": "0.04"
       },
       "4": {
-        "number": "368",
+        "number": "119",
         "minLevel": "45",
         "maxLevel": "70",
         "rate": "0.01"
