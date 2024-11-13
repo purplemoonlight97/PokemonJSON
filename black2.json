@@ -8162,7 +8162,7 @@
       "variables": {
         "repel": "true",
         "lucky": "true",
-        "season": "|||583,586,620,586,620,614,620,583,614,621,614,621",
+        "season": "|520,586-spring,620,586-spring,620,520,620,520,586-spring,621,586-spring,621|520,586-autumn,620,586-autumn,620,520,620,520,586-autumn,621,586-autumn,621|583,586-winter,620,586-winter,620,614,620,583,614,621,614,621",
         "ability": "static|magnet pull|keen eye|intimidate|hustle|pressure|vital spirit|cute charm"
       }
     },
@@ -8299,7 +8299,7 @@
         "repel": "true",
         "lucky": "true",
         "double": "true",
-        "season": "|||583,586,620,586,620,614,620,583,614,621,614,621",
+        "season": "|520,586-summer,620,586-summer,620,520,620,520,586-summer,621,586-summer,621|520,586-autumn,620,586-autumn,620,520,620,520,586-autumn,621,586-autumn,621|583,586-winter,620,586-winter,620,614,620,583,614,621,614,621",
         "ability": "static|magnet pull|keen eye|intimidate|hustle|pressure|vital spirit|cute charm"
       }
     },
@@ -8517,7 +8517,7 @@
       "variables": {
         "repel": "true",
         "lucky": "true",
-        "season": "|||583,586,620,586,620,614,620,583,620,614,620,614",
+        "season": "|520,586-summer,620,586-summer,620,520,620,520,586-summer,621,586-summer,621|520,586-autumn,620,586-autumn,620,520,620,520,586-autumn,621,586-autumn,621|583,586-winter,620,586-winter,620,614,620,583,620,614,620,614",
         "ability": "static|magnet pull|keen eye|intimidate|hustle|pressure|vital spirit|cute charm"
       }
     },
@@ -8654,7 +8654,7 @@
         "repel": "true",
         "lucky": "true",
         "double": "true",
-        "season": "|||583,586,620,586,620,614,620,583,620,614,619,614",
+        "season": "|||583,586-winter,620,586-winter,620,614,620,583,620,614,619,614",
         "ability": "static|magnet pull|keen eye|intimidate|hustle|pressure|vital spirit|cute charm"
       }
     }
