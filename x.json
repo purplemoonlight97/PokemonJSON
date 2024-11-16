@@ -1002,9 +1002,9 @@
           "rate": "0.04"
         },
         "4": {
-          "number": "0",
-          "minLevel": "",
-          "maxLevel": "",
+          "number": "557",
+          "minLevel": "20",
+          "maxLevel": "20",
           "rate": "0.01"
         },
         "variables": {
@@ -1612,9 +1612,9 @@
           "rate": "0.04"
         },
         "4": {
-          "number": "0",
-          "minLevel": "",
-          "maxLevel": "",
+          "number": "557",
+          "minLevel": "25",
+          "maxLevel": "25",
           "rate": "0.01"
         },
         "variables": {
@@ -1820,9 +1820,9 @@
           "rate": "0.04"
         },
         "4": {
-          "number": "0",
-          "minLevel": "",
-          "maxLevel": "",
+          "number": "75",
+          "minLevel": "28",
+          "maxLevel": "28",
           "rate": "0.01"
         },
         "variables": {
@@ -2861,9 +2861,9 @@
           "rate": "0.04"
         },
         "4": {
-          "number": "0",
-          "minLevel": "",
-          "maxLevel": "",
+          "number": "213",
+          "minLevel": "46",
+          "maxLevel": "46",
           "rate": "0.01"
         },
         "variables": {
@@ -3882,9 +3882,9 @@
           "rate": "0.04"
         },
         "4": {
-          "number": "0",
-          "minLevel": "",
-          "maxLevel": "",
+          "number": "557",
+          "minLevel": "20",
+          "maxLevel": "20",
           "rate": "0.01"
         },
         "variables": {
@@ -4112,9 +4112,9 @@
           "rate": "0.04"
         },
         "4": {
-          "number": "0",
-          "minLevel": "",
-          "maxLevel": "",
+          "number": "557",
+          "minLevel": "25",
+          "maxLevel": "25",
           "rate": "0.01"
         },
         "variables": {
@@ -4451,9 +4451,9 @@
           "rate": "0.04"
         },
         "4": {
-          "number": "0",
-          "minLevel": "",
-          "maxLevel": "",
+          "number": "95",
+          "minLevel": "17",
+          "maxLevel": "17",
           "rate": "0.01"
         },
         "variables": {
@@ -4861,9 +4861,9 @@
           "rate": "0.04"
         },
         "4": {
-          "number": "0",
-          "minLevel": "",
-          "maxLevel": "",
+          "number": "95",
+          "minLevel": "17",
+          "maxLevel": "17",
           "rate": "0.01"
         },
         "variables": {
@@ -5721,9 +5721,9 @@
           "rate": "0.04"
         },
         "4": {
-          "number": "0",
-          "minLevel": "",
-          "maxLevel": "",
+          "number": "213",
+          "minLevel": "46",
+          "maxLevel": "46",
           "rate": "0.01"
         },
         "variables": {
@@ -5846,9 +5846,9 @@
           "rate": "0.04"
         },
         "4": {
-          "number": "0",
-          "minLevel": "",
-          "maxLevel": "",
+          "number": "213",
+          "minLevel": "59",
+          "maxLevel": "59",
           "rate": "0.01"
         },
         "variables": {
@@ -6076,9 +6076,9 @@
           "rate": "0.04"
         },
         "4": {
-          "number": "0",
-          "minLevel": "",
-          "maxLevel": "",
+          "number": "213",
+          "minLevel": "59",
+          "maxLevel": "59",
           "rate": "0.01"
         },
         "variables": {
