@@ -438,6 +438,7 @@
         },
         "variables": {
           "repel": "true",
+          "hordes": "true",
           "ability": "static|magnet pull|keen eye|intimidate|hustle|pressure|vital spirit|cute charm"
         }
       },
@@ -504,6 +505,7 @@
         },
         "variables": {
           "repel": "true",
+          "hordes": "true",
           "ability": "static|magnet pull|keen eye|intimidate|hustle|pressure|vital spirit|cute charm"
         }
       },
@@ -660,6 +662,7 @@
         },
         "variables": {
           "repel": "true",
+          "hordes": "true",
           "ability": "static|magnet pull|keen eye|intimidate|hustle|pressure|vital spirit|cute charm"
         }
       },
@@ -726,6 +729,7 @@
         },
         "variables": {
           "repel": "true",
+          "hordes": "true",
           "ability": "static|magnet pull|keen eye|intimidate|hustle|pressure|vital spirit|cute charm"
         }
       },
@@ -792,6 +796,7 @@
         },
         "variables": {
           "repel": "true",
+          "hordes": "true",
           "ability": "static|magnet pull|keen eye|intimidate|hustle|pressure|vital spirit|cute charm"
         }
       },
@@ -880,6 +885,7 @@
         },
         "variables": {
           "repel": "true",
+          "hordes": "true",
           "ability": "static|magnet pull|keen eye|intimidate|hustle|pressure|vital spirit|cute charm"
         }
       },
@@ -946,6 +952,7 @@
         },
         "variables": {
           "repel": "true",
+          "hordes": "true",
           "ability": "static|magnet pull|keen eye|intimidate|hustle|pressure|vital spirit|cute charm"
         }
       },
@@ -1243,6 +1250,7 @@
         },
         "variables": {
           "repel": "true",
+          "hordes": "true",
           "ability": "static|magnet pull|keen eye|intimidate|hustle|pressure|vital spirit|cute charm"
         }
       },
@@ -1309,6 +1317,7 @@
         },
         "variables": {
           "repel": "true",
+          "hordes": "true",
           "ability": "static|magnet pull|keen eye|intimidate|hustle|pressure|vital spirit|cute charm"
         }
       },
@@ -1397,6 +1406,7 @@
         },
         "variables": {
           "repel": "true",
+          "hordes": "true",
           "ability": "static|magnet pull|keen eye|intimidate|hustle|pressure|vital spirit|cute charm"
         }
       },
@@ -1485,6 +1495,7 @@
         },
         "variables": {
           "repel": "true",
+          "hordes": "true",
           "ability": "static|magnet pull|keen eye|intimidate|hustle|pressure|vital spirit|cute charm"
         }
       },
@@ -1551,6 +1562,7 @@
         },
         "variables": {
           "repel": "true",
+          "hordes": "true",
           "ability": "static|magnet pull|keen eye|intimidate|hustle|pressure|vital spirit|cute charm"
         }
       },
@@ -1883,6 +1895,7 @@
         },
         "variables": {
           "repel": "true",
+          "hordes": "true",
           "ability": "static|magnet pull|keen eye|intimidate|hustle|pressure|vital spirit|cute charm"
         }
       },
@@ -2142,6 +2155,7 @@
         },
         "variables": {
           "repel": "true",
+          "hordes": "true",
           "ability": "static|magnet pull|keen eye|intimidate|hustle|pressure|vital spirit|cute charm"
         }
       },
@@ -2208,6 +2222,7 @@
         },
         "variables": {
           "repel": "true",
+          "hordes": "true",
           "ability": "static|magnet pull|keen eye|intimidate|hustle|pressure|vital spirit|cute charm"
         }
       },
@@ -2321,7 +2336,7 @@
           "rate": "0.6"
         },
         "1": {
-          "number": "NaN",
+          "number": "550-blue-striped",
           "minLevel": "35",
           "maxLevel": "35",
           "rate": "0.35"
@@ -2401,6 +2416,7 @@
         },
         "variables": {
           "repel": "true",
+          "hordes": "true",
           "ability": "static|magnet pull|keen eye|intimidate|hustle|pressure|vital spirit|cute charm"
         }
       },
@@ -2580,7 +2596,7 @@
           "rate": "0.6"
         },
         "1": {
-          "number": "NaN",
+          "number": "550-blue-striped",
           "minLevel": "35",
           "maxLevel": "35",
           "rate": "0.35"
@@ -2728,6 +2744,7 @@
         },
         "variables": {
           "repel": "true",
+          "hordes": "true",
           "ability": "static|magnet pull|keen eye|intimidate|hustle|pressure|vital spirit|cute charm"
         }
       },
@@ -2794,6 +2811,7 @@
         },
         "variables": {
           "repel": "true",
+          "hordes": "true",
           "ability": "static|magnet pull|keen eye|intimidate|hustle|pressure|vital spirit|cute charm"
         }
       },
@@ -2918,6 +2936,7 @@
         },
         "variables": {
           "repel": "true",
+          "hordes": "true",
           "ability": "static|magnet pull|keen eye|intimidate|hustle|pressure|vital spirit|cute charm"
         }
       },
@@ -2984,6 +3003,7 @@
         },
         "variables": {
           "repel": "true",
+          "hordes": "true",
           "ability": "static|magnet pull|keen eye|intimidate|hustle|pressure|vital spirit|cute charm"
         }
       },
@@ -3243,6 +3263,7 @@
         },
         "variables": {
           "repel": "true",
+          "hordes": "true",
           "ability": "static|magnet pull|keen eye|intimidate|hustle|pressure|vital spirit|cute charm"
         }
       },
@@ -3309,6 +3330,7 @@
         },
         "variables": {
           "repel": "true",
+          "hordes": "true",
           "ability": "static|magnet pull|keen eye|intimidate|hustle|pressure|vital spirit|cute charm"
         }
       },
@@ -3397,6 +3419,7 @@
         },
         "variables": {
           "repel": "true",
+          "hordes": "true",
           "ability": "static|magnet pull|keen eye|intimidate|hustle|pressure|vital spirit|cute charm"
         }
       },
@@ -3463,6 +3486,7 @@
         },
         "variables": {
           "repel": "true",
+          "hordes": "true",
           "ability": "static|magnet pull|keen eye|intimidate|hustle|pressure|vital spirit|cute charm"
         }
       },
@@ -4038,6 +4062,7 @@
         },
         "variables": {
           "repel": "true",
+          "hordes": "true",
           "ability": "static|magnet pull|keen eye|intimidate|hustle|pressure|vital spirit|cute charm"
         }
       },
@@ -4267,6 +4292,7 @@
         },
         "variables": {
           "repel": "true",
+          "hordes": "true",
           "ability": "static|magnet pull|keen eye|intimidate|hustle|pressure|vital spirit|cute charm"
         }
       },
@@ -4382,7 +4408,7 @@
           "rate": "0.6"
         },
         "1": {
-          "number": "NaN",
+          "number": "550-blue-striped",
           "minLevel": "45",
           "maxLevel": "45",
           "rate": "0.35"
@@ -4541,6 +4567,15 @@
         }
       }
     },
+    "Friend Safari": {
+      "Walk": {
+        "variables": {
+          "friendsafari": "true",
+          "repel": "true",
+          "ability": "static|magnet pull|keen eye|intimidate|hustle|pressure|vital spirit|cute charm"
+        }
+      }
+    },
     "Frost Cavern": {
       "Walk": {
         "0": {
@@ -4605,6 +4640,7 @@
         },
         "variables": {
           "repel": "true",
+          "hordes": "true",
           "ability": "static|magnet pull|keen eye|intimidate|hustle|pressure|vital spirit|cute charm"
         }
       },
@@ -4718,7 +4754,7 @@
           "rate": "0.6"
         },
         "1": {
-          "number": "NaN",
+          "number": "550-blue-striped",
           "minLevel": "40",
           "maxLevel": "40",
           "rate": "0.35"
@@ -4735,6 +4771,72 @@
       }
     },
     "Glittering Cave": {
+      "Walk": {
+        "0": {
+          "number": "66",
+          "minLevel": "15",
+          "rate": "0.1"
+        },
+        "1": {
+          "number": "66",
+          "minLevel": "16",
+          "rate": "0.1"
+        },
+        "2": {
+          "number": "66",
+          "minLevel": "17",
+          "rate": "0.1"
+        },
+        "3": {
+          "number": "111",
+          "minLevel": "17",
+          "rate": "0.1"
+        },
+        "4": {
+          "number": "95",
+          "minLevel": "17",
+          "rate": "0.1"
+        },
+        "5": {
+          "number": "104",
+          "minLevel": "15",
+          "rate": "0.1"
+        },
+        "6": {
+          "number": "104",
+          "minLevel": "16",
+          "rate": "0.1"
+        },
+        "7": {
+          "number": "338",
+          "minLevel": "17",
+          "rate": "0.1"
+        },
+        "8": {
+          "number": "337",
+          "minLevel": "17",
+          "rate": "0.1"
+        },
+        "9": {
+          "number": "115",
+          "minLevel": "17",
+          "rate": "0.05"
+        },
+        "10": {
+          "number": "303",
+          "minLevel": "15",
+          "rate": "0.04"
+        },
+        "11": {
+          "number": "303",
+          "minLevel": "16",
+          "rate": "0.01"
+        },
+        "variables": {
+          "repel": "true",
+          "ability": "static|magnet pull|keen eye|intimidate|hustle|pressure|vital spirit|cute charm"
+        }
+      },
       "Rock Smash": {
         "0": {
           "number": "557",
@@ -4827,7 +4929,7 @@
           "rate": "0.6"
         },
         "1": {
-          "number": "NaN",
+          "number": "550-blue-striped",
           "minLevel": "35",
           "maxLevel": "35",
           "rate": "0.35"
@@ -5046,6 +5148,7 @@
         },
         "variables": {
           "repel": "true",
+          "hordes": "true",
           "ability": "static|magnet pull|keen eye|intimidate|hustle|pressure|vital spirit|cute charm"
         }
       },
@@ -5112,6 +5215,7 @@
         },
         "variables": {
           "repel": "true",
+          "hordes": "true",
           "ability": "static|magnet pull|keen eye|intimidate|hustle|pressure|vital spirit|cute charm"
         }
       },
@@ -5225,7 +5329,7 @@
           "rate": "0.6"
         },
         "1": {
-          "number": "NaN",
+          "number": "550-blue-striped",
           "minLevel": "50",
           "maxLevel": "50",
           "rate": "0.35"
@@ -5305,6 +5409,7 @@
         },
         "variables": {
           "repel": "true",
+          "hordes": "true",
           "ability": "static|magnet pull|keen eye|intimidate|hustle|pressure|vital spirit|cute charm"
         }
       },
@@ -5568,6 +5673,7 @@
         },
         "variables": {
           "repel": "true",
+          "hordes": "true",
           "ability": "static|magnet pull|keen eye|intimidate|hustle|pressure|vital spirit|cute charm"
         }
       },
@@ -5629,6 +5735,73 @@
       }
     },
     "Victory Road - Inside Part 1": {
+      "Walk": {
+        "0": {
+          "number": "533",
+          "minLevel": "57",
+          "rate": "0.1"
+        },
+        "1": {
+          "number": "533",
+          "minLevel": "58",
+          "rate": "0.1"
+        },
+        "2": {
+          "number": "533",
+          "minLevel": "59",
+          "rate": "0.1"
+        },
+        "3": {
+          "number": "621",
+          "minLevel": "58",
+          "rate": "0.1"
+        },
+        "4": {
+          "number": "621",
+          "minLevel": "59",
+          "rate": "0.1"
+        },
+        "5": {
+          "number": "93",
+          "minLevel": "58",
+          "rate": "0.1"
+        },
+        "6": {
+          "number": "75",
+          "minLevel": "57",
+          "rate": "0.1"
+        },
+        "7": {
+          "number": "75",
+          "minLevel": "58",
+          "rate": "0.1"
+        },
+        "8": {
+          "number": "108",
+          "minLevel": "58",
+          "rate": "0.1"
+        },
+        "9": {
+          "number": "108",
+          "minLevel": "59",
+          "rate": "0.05"
+        },
+        "10": {
+          "number": "634",
+          "minLevel": "59",
+          "rate": "0.04"
+        },
+        "11": {
+          "number": "634",
+          "minLevel": "59",
+          "rate": "0.01"
+        },
+        "variables": {
+          "repel": "true",
+          "hordes": "true",
+          "ability": "static|magnet pull|keen eye|intimidate|hustle|pressure|vital spirit|cute charm"
+        }
+      },
       "Hordes": {
         "0": {
           "number": "74|74|74|74|74",
@@ -5775,7 +5948,7 @@
           "rate": "0.6"
         },
         "1": {
-          "number": "NaN",
+          "number": "550-blue-striped",
           "minLevel": "55",
           "maxLevel": "55",
           "rate": "0.35"
@@ -5792,6 +5965,73 @@
       }
     },
     "Victory Road - Inside Part 2": {
+      "Walk": {
+        "0": {
+          "number": "533",
+          "minLevel": "57",
+          "rate": "0.1"
+        },
+        "1": {
+          "number": "533",
+          "minLevel": "58",
+          "rate": "0.1"
+        },
+        "2": {
+          "number": "533",
+          "minLevel": "59",
+          "rate": "0.1"
+        },
+        "3": {
+          "number": "621",
+          "minLevel": "58",
+          "rate": "0.1"
+        },
+        "4": {
+          "number": "621",
+          "minLevel": "59",
+          "rate": "0.1"
+        },
+        "5": {
+          "number": "93",
+          "minLevel": "58",
+          "rate": "0.1"
+        },
+        "6": {
+          "number": "75",
+          "minLevel": "57",
+          "rate": "0.1"
+        },
+        "7": {
+          "number": "75",
+          "minLevel": "58",
+          "rate": "0.1"
+        },
+        "8": {
+          "number": "108",
+          "minLevel": "58",
+          "rate": "0.1"
+        },
+        "9": {
+          "number": "108",
+          "minLevel": "59",
+          "rate": "0.05"
+        },
+        "10": {
+          "number": "634",
+          "minLevel": "59",
+          "rate": "0.04"
+        },
+        "11": {
+          "number": "634",
+          "minLevel": "59",
+          "rate": "0.01"
+        },
+        "variables": {
+          "repel": "true",
+          "hordes": "true",
+          "ability": "static|magnet pull|keen eye|intimidate|hustle|pressure|vital spirit|cute charm"
+        }
+      },
       "Hordes": {
         "0": {
           "number": "74|74|74|74|74",
@@ -5850,6 +6090,73 @@
       }
     },
     "Victory Road - Inside Part 3": {
+      "Walk": {
+        "0": {
+          "number": "533",
+          "minLevel": "57",
+          "rate": "0.1"
+        },
+        "1": {
+          "number": "533",
+          "minLevel": "58",
+          "rate": "0.1"
+        },
+        "2": {
+          "number": "533",
+          "minLevel": "59",
+          "rate": "0.1"
+        },
+        "3": {
+          "number": "621",
+          "minLevel": "58",
+          "rate": "0.1"
+        },
+        "4": {
+          "number": "621",
+          "minLevel": "59",
+          "rate": "0.1"
+        },
+        "5": {
+          "number": "93",
+          "minLevel": "58",
+          "rate": "0.1"
+        },
+        "6": {
+          "number": "75",
+          "minLevel": "57",
+          "rate": "0.1"
+        },
+        "7": {
+          "number": "75",
+          "minLevel": "58",
+          "rate": "0.1"
+        },
+        "8": {
+          "number": "108",
+          "minLevel": "58",
+          "rate": "0.1"
+        },
+        "9": {
+          "number": "108",
+          "minLevel": "59",
+          "rate": "0.05"
+        },
+        "10": {
+          "number": "634",
+          "minLevel": "59",
+          "rate": "0.04"
+        },
+        "11": {
+          "number": "634",
+          "minLevel": "59",
+          "rate": "0.01"
+        },
+        "variables": {
+          "repel": "true",
+          "hordes": "true",
+          "ability": "static|magnet pull|keen eye|intimidate|hustle|pressure|vital spirit|cute charm"
+        }
+      },
       "Hordes": {
         "0": {
           "number": "74|74|74|74|74",
@@ -5872,6 +6179,73 @@
       }
     },
     "Victory Road - Inside Part 4": {
+      "Walk": {
+        "0": {
+          "number": "533",
+          "minLevel": "57",
+          "rate": "0.1"
+        },
+        "1": {
+          "number": "533",
+          "minLevel": "58",
+          "rate": "0.1"
+        },
+        "2": {
+          "number": "533",
+          "minLevel": "59",
+          "rate": "0.1"
+        },
+        "3": {
+          "number": "621",
+          "minLevel": "58",
+          "rate": "0.1"
+        },
+        "4": {
+          "number": "621",
+          "minLevel": "59",
+          "rate": "0.1"
+        },
+        "5": {
+          "number": "93",
+          "minLevel": "58",
+          "rate": "0.1"
+        },
+        "6": {
+          "number": "75",
+          "minLevel": "57",
+          "rate": "0.1"
+        },
+        "7": {
+          "number": "75",
+          "minLevel": "58",
+          "rate": "0.1"
+        },
+        "8": {
+          "number": "108",
+          "minLevel": "58",
+          "rate": "0.1"
+        },
+        "9": {
+          "number": "108",
+          "minLevel": "59",
+          "rate": "0.05"
+        },
+        "10": {
+          "number": "634",
+          "minLevel": "59",
+          "rate": "0.04"
+        },
+        "11": {
+          "number": "634",
+          "minLevel": "59",
+          "rate": "0.01"
+        },
+        "variables": {
+          "repel": "true",
+          "hordes": "true",
+          "ability": "static|magnet pull|keen eye|intimidate|hustle|pressure|vital spirit|cute charm"
+        }
+      },
       "Hordes": {
         "0": {
           "number": "74|74|74|74|74",
@@ -5982,7 +6356,7 @@
           "rate": "0.6"
         },
         "1": {
-          "number": "NaN",
+          "number": "550-blue-striped",
           "minLevel": "55",
           "maxLevel": "55",
           "rate": "0.35"
@@ -6089,7 +6463,7 @@
           "rate": "0.6"
         },
         "1": {
-          "number": "NaN",
+          "number": "550-blue-striped",
           "minLevel": "55",
           "maxLevel": "55",
           "rate": "0.35"
