@@ -12711,40 +12711,6 @@
     "Soaring": {
       "Soaring": {
         "0": {
-          "number": "129",
-          "minLevel": "30",
-          "maxLevel": "30",
-          "rate": "0.5"
-        },
-        "1": {
-          "number": "129",
-          "minLevel": "25",
-          "maxLevel": "25",
-          "rate": "0.3"
-        },
-        "2": {
-          "number": "129",
-          "minLevel": "35",
-          "maxLevel": "35",
-          "rate": "0.15"
-        },
-        "3": {
-          "number": "129",
-          "minLevel": "35",
-          "maxLevel": "35",
-          "rate": "0.04"
-        },
-        "4": {
-          "number": "129",
-          "minLevel": "35",
-          "maxLevel": "35",
-          "rate": "0.01"
-        }
-      }
-    },
-    "Sootopolis City": {
-      "Surf": {
-        "0": {
           "number": "278",
           "minLevel": "40",
           "rate": "0.2"
@@ -12778,6 +12744,40 @@
           "number": "628",
           "minLevel": "45",
           "rate": "0.1"
+        }
+      }
+    },
+    "Sootopolis City": {
+      "Surf": {
+        "0": {
+          "number": "129",
+          "minLevel": "30",
+          "maxLevel": "30",
+          "rate": "0.5"
+        },
+        "1": {
+          "number": "129",
+          "minLevel": "25",
+          "maxLevel": "25",
+          "rate": "0.3"
+        },
+        "2": {
+          "number": "129",
+          "minLevel": "35",
+          "maxLevel": "35",
+          "rate": "0.15"
+        },
+        "3": {
+          "number": "129",
+          "minLevel": "35",
+          "maxLevel": "35",
+          "rate": "0.04"
+        },
+        "4": {
+          "number": "129",
+          "minLevel": "35",
+          "maxLevel": "35",
+          "rate": "0.01"
         },
         "variables": {
           "repel": "true",
