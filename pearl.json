@@ -5100,7 +5100,7 @@
           "repel": "true",
           "tod": "||51,53,332,53,332,52,332,52,112,53,450,54,51,52,51,54,50,23,331,23,50,25,331,25",
           "dppSwarm": "374",
-          "dongle": ",,,28,",
+          "dongle": ",,,,28",
           "dppRadar": "329,329,328,328",
           "ability": "static|magnet pull|keen eye|intimidate|hustle|pressure|vital spirit|cute charm"
         }
