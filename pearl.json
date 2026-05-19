@@ -11574,6 +11574,7 @@
         },
         "variables": {
           "repel": "true",
+          "tod": "||400,53,400,54,164,53,164,54,55,53,55,54,358,52,358,54,400,52,397,52,400,52,397,52",
           "dppSwarm": "",
           "dongle": "338,337,,,",
           "ability": "static|magnet pull|keen eye|intimidate|hustle|pressure|vital spirit|cute charm"
